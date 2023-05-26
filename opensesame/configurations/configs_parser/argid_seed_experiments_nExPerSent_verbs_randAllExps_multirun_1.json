@@ -1,0 +1,122 @@
+[
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-01",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-01",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-02",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-02",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-03",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-03",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-04",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-04",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-05",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-05",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-06",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-06",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-07",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-07",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-08",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-08",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-09",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-09",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01-argid-10",
+        "args": {
+            "model_id": "argid",
+            "model_name": "argid_steps-27460_run-10",
+            "exp_name": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "data_dir": "data/open_sesame_v1_data/fn1.7",
+            "output_dir": "~/parser_workdir/step_logs",
+            "fixseed": false,
+            "num_steps": 27460
+        }
+    }
+]

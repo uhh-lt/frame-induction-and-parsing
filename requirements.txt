@@ -1,0 +1,16 @@
+dyNET                   2.1
+nltk                    3.5
+gensim                  3.8.3
+hydra-core              1.1.0
+lemminflect             0.2.1
+matplotlib              3.3.4
+ordered-set             4.0.2
+pandarallel             1.5.1
+pandas                  1.2.3
+PatternLite             3.6
+scikit-learn            1.0.2
+tensorflow              2.4.1
+transformers            3.5.1
+flair                   0.7
+torch                   1.7.1
+fire                    0.5.0

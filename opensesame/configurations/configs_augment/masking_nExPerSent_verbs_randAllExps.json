@@ -1,0 +1,90 @@
+[
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu",
+            "substitute_lu": true,
+            "substitute_role": false,
+            "noun_max": "0",
+            "ibn": true
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_roles",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_roles",
+            "substitute_lu": false,
+            "substitute_role": true,
+            "noun_max": "0",
+            "ibn": true
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_nouns-10pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_nouns-10pc",
+            "substitute_lu": false,
+            "substitute_role": false,
+            "noun_max": "0.1",
+            "ibn": true
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_nouns-30pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_nouns-30pc",
+            "substitute_lu": false,
+            "substitute_role": false,
+            "noun_max": "0.3",
+            "ibn": true
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_nouns-50pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_nouns-50pc",
+            "substitute_lu": false,
+            "substitute_role": false,
+            "noun_max": "0.5",
+            "ibn": true
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc",
+            "substitute_lu": true,
+            "substitute_role": true,
+            "noun_max": "0.1",
+            "ibn": true
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc",
+            "substitute_lu": true,
+            "substitute_role": true,
+            "noun_max": "0.3",
+            "ibn": true
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc",
+            "substitute_lu": true,
+            "substitute_role": true,
+            "noun_max": "0.5",
+            "ibn": true
+        }
+    }
+]

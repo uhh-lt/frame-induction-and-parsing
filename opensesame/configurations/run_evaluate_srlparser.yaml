@@ -1,0 +1,21 @@
+main_dir: 'parser_workdir'
+output_dir: ${main_dir}/srl_parser
+data_dir: ${main_dir}/data/open_sesame_v1_data/fn1.7
+train_file: 'fn1.7.fulltext.train.syntaxnet.conll'
+dev_file: 'fn1.7.dev.syntaxnet.conll'
+test_file: 'fn1.7.test.syntaxnet.conll'
+
+exp_dir: 'verbs'
+
+model_run: ${now:%Y-%m-%d}/${now:%H-%M-%S}
+
+hydra:
+  run:
+    dir: ${output_dir}/${exp_dir}/${model_run}
+
+    
+data:
+    data_dir: ${data_dir}/${exp_dir}
+    test_name: ${test_file}
+    pred_answers_path: ${output_dir}/${exp_dir}/${model_run}/preds.conll
+    

@@ -1,0 +1,10 @@
+{
+    "version": 1.7,
+    "data_directory": "data/",
+    "embeddings_file": "data/glove.6B.100d.txt",
+    "tensorboard_dir": "runs",
+    "argid_lr": 0.0005,
+    "frameid_lr": 0.1,
+    "targetid_lr": 0.01,
+    "debug_mode": false
+}

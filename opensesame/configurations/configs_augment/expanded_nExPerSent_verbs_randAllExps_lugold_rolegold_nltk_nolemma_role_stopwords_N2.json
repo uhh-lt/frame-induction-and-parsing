@@ -1,0 +1,130 @@
+[
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_roles",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_roles",
+            "preds_model": "bert",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_roles/bert/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc",
+            "preds_model": "bert",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc/bert/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc",
+            "preds_model": "bert",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc/bert/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc",
+            "preds_model": "bert",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc/bert/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_roles",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_roles",
+            "preds_model": "xlnet_embs_hypers",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_roles/xlnet_embs_hypers/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc",
+            "preds_model": "xlnet_embs_hypers",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-10pc/xlnet_embs_hypers/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc",
+            "preds_model": "xlnet_embs_hypers",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-30pc/xlnet_embs_hypers/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    },
+    {
+        "name": "01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc",
+        "args": {
+            "input_exp": "nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01",
+            "output_exp": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc",
+            "preds_model": "xlnet_embs_hypers",
+            "proc_funcs": "nolemma_role_stopwords",
+            "parser": "nltk",
+            "match_lugold": true,
+            "match_rolegold": true,
+            "pipeline": "lugold_rolegold_nltk_nolemma_role_stopwords_N2",
+            "N": 2,
+            "postprocess": false,
+            "final_preds_path": "expanded_nExPerSent_verbs_randAllExps/01ExPerSent_verbs_rand01_expanded_lu_roles_nouns-50pc/xlnet_embs_hypers/nltk_nolemma_role_stopwords_final_predictions.pkl"
+        }
+    }
+]
