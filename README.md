@@ -30,7 +30,7 @@ This will create all required files and save them into output_dir. Now move to c
 
 !python -m src.datasets_util create_final_datasets --input_dir='workdir/framenet_data' --output_dir='workdir/data' --data_types 'verbs,nouns,roles'
 ```
-
+The final command will produce single word/token swv_T.pkl (verbs), swn_T.pkl(nouns) and swr_T.pkl(roles) datasets along with variations of dynamic patterns TandT etc, and their respective gold datasets
 
 For relevant commands see: [create_all_datasets.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/create_all_datasets.ipynb)
 If you execute all 
@@ -43,12 +43,26 @@ Original DTs are very large, we have already processed them for all single-token
 if you want to add more DTs, then see the module [src.dt](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/src/dt.py):
 
 ### 4. Models
-- static embeddings: can be dowloaded [here:](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq), and should be placed under workdir/dsm path \
-- DTs:  can be downloaded from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq) and sould be placed under workdir/dt path
- 
+- static embeddings: can be dowloaded [here:](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq), and should be saved to workdir/dsm path \
+- DTs:  can be downloaded from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq) and sould be saved to workdir/dt path
+- Melamud: 
+embeddings: can be downloaded from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq) and sould be placed under workdir/melamud_lexsub path 
+
+Execute the following command to extract relevant context fo the target words:
+```
+Assuming StanfordCoreNLP server is running at port 9000. Execute the command:
+
+! python -m src.context_extractor --input_file workdir/data/swv_T.pkl --output_file workdir/data/swv_Tp.pkl --jobs 16 --port 9000
+```
+```
+Now run  the following command to produce substitutes using this context and the target word:
+
+! python -m src.run_melamud_parallel --input_file workdir/data/swv_Tp.pkl --result_dir workdir/paper_verbs_st/melamud_balmult --metric balmult --jobs 36
+```
 ### 5. Experiments and and Evaluation
 
 #### Runnning experiments
+Execute the command:
 ```
 !python -m src.run_experiments \
 --config=workdir/experiment_configs/verb_preds_st.json \
