@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
 .cache
-.ipynb_checkpoints
-.pkl
-
+*.ipynb_checkpoints
+*.pkl
