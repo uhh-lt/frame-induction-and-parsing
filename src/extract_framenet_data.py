@@ -6,8 +6,8 @@ import os
 from pathlib import Path  
 
 
-INPUT_DIR = '~/fndata-1.7'
-OUTPUT_DIR = "../workdir/framenet"
+INPUT_DIR = '../parser_workdir/data/open_sesame_v1_data/fndata-1.7'
+OUTPUT_DIR = "../workdir/framenet_data"
 
 # all frame elements in one row v1
 COLUMNS = ['frameID', 'frameName', 'sentence', 'luName', 'luID', 'luText', 'luPOS', 'luIndex', 'frameElements', 'sentenceID', 'annoID','file']

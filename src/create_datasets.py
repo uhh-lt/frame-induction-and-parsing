@@ -21,7 +21,7 @@ lemmatizers = {'pattern': pattern_lemma,
 #                'spacypos': spacy_poslemma,
               }
 # ----------------------
-DATA_FILES = '../workdir/framenet'
+DATA_FILES = '../workdir/framenet_data'
 MAIN_FILE = '{}/all_fn_data.csv.gz'.format(DATA_FILES)
 # ----------------------------------------------------------
 def extract_lu_data(input_file = MAIN_FILE,

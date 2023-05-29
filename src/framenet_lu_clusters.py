@@ -1,25 +1,28 @@
 # Use framenet to generate the lexical unit clusters of frames
-
+# https://github.com/icsi-berkeley/ecg_framenet/
 from __future__ import print_function
+import os
 import sys
-sys.path.append('~/framenet')
-sys.path.append('~/framenet/src')
+sys.path.append('ecg_framenet')
+sys.path.append('ecg_framenet/src')
 
+print(sys.path)
 import fire
 import argparse
 import codecs 
 from collections import defaultdict
 import csv
-from src.builder import *
-from src.ecg_utilities import ECGUtilities as utils
-from src.hypothesize_constructions import *
+from ecg_framenet import src
+from ecg_framenet.src.builder import *
+from ecg_utilities import ECGUtilities as utils
+from hypothesize_constructions import *
 from scripts import *
 import pandas as pd
 
 
 verbose = False
-FN_DIR = '~/fndata-1.7/'
-DATA_FILES = '../workdir/framenet/'
+FN_DIR = '../parser_workdir/data/open_sesame_v1_data/fndata-1.7'
+DATA_FILES = '../workdir/framenet_data/'
 
 def load_framenet(data_path):
     frame_path = data_path + "frame/"
@@ -110,10 +113,13 @@ def extract_all_clusters(framenet_dir=FN_DIR, output_dir=DATA_FILES, frames=None
         get_framenet_clusters(framenet_dir, use_children=True, verbs_only=False),
         join(output_dir, "lus-with-ch-r.csv"), frames)
     
+#Note: execute this script in same parent directory where ecg_framenet is located and change the input and output paths accordingly, placing ecg_framenet under main project directory does not work, but from home directory it works
+
+# !python -m framenet_lu_clusters extract_verb_clusters --framenet_dir parser_workdir/data/fndata-1.7 --output_dir workdir/framenet_data
+# !python -m framenet_lu_clusters extract_all_clusters --framenet_dir parser_workdir/data/fndata-1.7 --output_dir workdir/framenet_data
 
 # ----------------------------------------------------------------
 if __name__ == '__main__':
-    fire.Fire(extract_all_clusters)
-
+    fire.Fire()
 
 

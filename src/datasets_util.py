@@ -30,7 +30,7 @@ role_patterns = {
     'TandthenT': mask_role_TandthenT
 }  
 # ----------------------------------------------------------
-input_dir = '../workdir/framenet'
+input_dir = '../workdir/framenet_data'
 output_dir = '../workdir/data'
 
 

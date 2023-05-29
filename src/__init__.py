@@ -7,6 +7,5 @@ try:
 
     if not os.path.dirname(Path(MODULE)) in sys.path:
         sys.path.insert(0, os.path.dirname(Path(MODULE)))
-        
 except:
     pass
