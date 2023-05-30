@@ -31,7 +31,7 @@ def load_predictor(model_type,
                    ):
     predictor = None
     if model_type.startswith('bert'):
-        model, bpe_tokenizer = load_bert_model_and_tokenizer(model_config=model_type, cache_dir='/home/anwar/generative-ie/workdir/cache')
+        model, bpe_tokenizer = load_bert_model_and_tokenizer(model_config=model_type, cache_dir='workdir/cache')
         predictor = MaskedTokenPredictorBert(model, bpe_tokenizer, max_len=max_len, 
                                              mask_in_multiunit=mask_in_multiunit)
     elif model_type.startswith('dsm'):

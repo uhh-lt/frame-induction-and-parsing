@@ -1,0 +1,1222 @@
+cid	size	cluster
+Containing	4	hold.v,contain.v,store.v,house.v
+Rape	5	sexually assault.v,rape.n,rapist.n,rape.v,raped.a
+Undergoing_scenario	0	
+Measure_duration	14	century.n,millennium.n,day.n,month.n,nanosecond.n,minute.n,hour.n,time.n,second.n,decade.n,week.n,year.n,a while.n,fortnight.n
+Network	2	web.n,network.n
+Transition_to_state	3	get.v,grow.v,end up.v
+Candidness	29	honest.a,blunt.a,open.a,outspoken.a,evasive.a,circumspect.a,honesty.n,ingenuous.a,coy.a,sincere.a,bluntness.n,candour.n,forthrightness.n,truthful.a,explicit.a,straight.a,discreet.a,earnest.a,straightforward.a,earnestness.n,dishonest.a,forthright.a,devious.a,frank.a,disingenuous.a,true.a,forthcoming.a,candid.a,secretive.a
+Completeness	5	incomplete.a,full.a,total.a,completeness.n,complete.a
+Speak_on_topic	15	sermonize.v,go on.v,address.v,address.n,expound.v,tell.v,preach.v,hold forth.v,ramble.v,discuss.v,lecture.v,pontificate.v,lecture.n,deal.v,expatiate.v
+Employment_end	0	
+Telling	11	tell.v,notify.v,let know.v,notification.n,assurance.n,inform.v,advise.v,brief.v,assure.v,apprise.v,confide.v
+Process_stopped_state	0	
+Committing_crime	4	commission.n,commit.v,crime.n,perpetrate.v
+Arraignment	2	arraignment.n,arraign.v
+Dying	2	moribund.a,dying.a
+Locative_scenario	0	
+Lively_place	12	bustle.v,hum.v,jumping.a,hopping.a,abustle.a,buzz.v,abuzz.a,happening.a,hectic.a,frenetic.a,busy.a,lively.a
+Surrendering_possession	4	yield.v,give up.v,surrender.v,relinquish.v
+Reveal_secret	19	revelation.n,expose.v,confide.v,let on.v,come clean.v,admit.v,spill beans.v,come forward.v,confession.n,tip (someone's) hand.idio,divulge.v,confess.v,disclosure.n,divulgence.n,leak.v,let slip.v,fess up.v,reveal.v,disclose.v
+Corporal_punishment	8	flog.v,cane.v,caning.n,scourge.v,spank.v,lash.n,paddle.v,flogging.n
+Causation_scenario	0	
+Commerce_sell	9	auction.v,sell.v,auction.n,seller.n,vend.v,vendor.n,sale.n,retailer.n,retail.v
+Activity_done_state	3	through.a,finished.a,done.a
+Locale_by_collocation	2	position.n,location.n
+Manipulation	39	diddle.v,clutch.v,stroke.v,hold.v,finger.v,tickle.v,grab.v,handle.v,grasp.v,kiss.n,nudge.v,poke.v,grip.v,knead.v,massage.v,nip.v,paw.v,pinch.v,pull.v,push.v,seize.v,squeeze.v,tug.v,tweak.v,wring.v,yank.v,fumble.v,grope.v,stroke.n,rub.v,grab hold.v,pull.n,touch.v,lick.v,kiss.v,clasp.v,caress.v,caress.n,claw.v
+Seeking	18	look.v,search.v,manhunt.n,listen.v,feel.v,rummage.v,watch.v,nose.v,palpate.v,pan.v,pat down.v,seek.v,forage.v,dig.v,grope.v,fumble.v,hunt.v,sniff.v
+Activity_start	14	neophyte.n,swing (into).v,initiate.v,start.v,begin.v,get started.v,commence.v,open.v,set about.v,beginner.n,strike up.v,take up.v,launch (into).v,enter.v
+Erasing	5	strike.v,kill.v,erase.v,delete.v,expunge.v
+Planned_trajectory	1	way.n
+People_by_residence	3	roommate.n,housemate.n,neighbor.n
+Food	71	shellfish.n,shrimp.n,lobster.n,milk.n,cheese.n,egg.n,butter.n,nut.n,almond.n,peanut.n,pasta.n,noodle.n,herb.n,spice.n,pepper.n,basil.n,cereal.n,lettuce.n,berry.n,apple.n,bread.n,roll.n,cracker.n,cake.n,pancake.n,cheesecake.n,pastry.n,croissant.n,fruit.n,cookie.n,biscuit.n,sweet.n,chocolate.n,sweetener.n,sugar.n,honey.n,fat.n,oil.n,vinegar.n,coffee.n,juice.n,soup.n,stew.n,sauce.n,dressing.n,vinaigrette.n,ketchup.n,mayonnaise.n,lasagne.n,food.n,banana.n,tea.n,carrot.n,water.n,vegetable.n,date.n,potato.n,cabbage.n,veal.n,MRE.n,pea.n,beer.n,meat.n,beef.n,lamb.n,poultry.n,chicken.n,turkey.n,fish.n,salmon.n,tuna.n
+Aesthetics	9	lovely.a,ugly.a,fair.a,hideous.a,handsome.a,elegant.a,tasty.a,beautiful.a,smart.a
+Social_event_individuals	1	go out with.v
+Manipulate_into_shape	7	wind.v,mold.v,loop.v,curl.v,coil.v,roll (into).v,twist.v
+Quitting	9	retire.v,stand down.v,quit.v,retirement.n,resign.v,leave.v,give notice.idio,resignation.n,step down.v
+Desirability	77	superlative.a,pitiful.a,magnificent.a,idyllic.a,poor.a,fair.a,atrocious.a,mediocre.a,decent.a,well.adv,crap.n,okay.a,superb.a,average.a,standout.n,tolerable.a,shit.n,second-rate.a,stupendous.a,third-rate.a,garbage.n,astounding.a,gem.n,fantastic.a,fine.a,execrable.a,gold.n,terrific.a,killer.a,great.a,awesome.a,so-so.a,substandard.a,outstanding.a,astonishing.a,junk.n,awful.a,best thing since sliced bread.n,shitty.a,terrible.a,worthless.a,inferior.a,splendid.a,horrible.a,top-notch.a,sensational.a,bad.a,tip-top.a,first-rate.a,incredible.a,crappy.a,amazing.a,tremendous.a,suck.v,appalling.a,rock.v,good.a,super.a,lamer.n,excellent.a,lame.a,rotten.a,uncool.a,dreadful.a,fabulous.a,excellence.n,wonderful.a,desirable.a,extraordinary.a,sweet.a,cool.a,nasty.a,marvellous.a,pathetic.a,miserable.a,unfortunate.a,popular.a
+Product_development	2	develop.v,development.n
+Social_event_collective	1	date.n
+Emergency	1	emergency.n
+Symmetrical_collective_reciprocality	0	
+Surviving	5	weather.v,ride out.v,live [through].v,survive.v,survival.n
+Experimentation	9	subject.n,control.n,study.n,experiment.v,experiment.n,test.v,hypothesis.n,control group.n,treatment.n
+Biological_entity	4	life.n,human.a,lifeform.n,organism.n
+Responsibility	3	behind.prep,responsible.a,responsibility.n
+Provide_lodging	4	lodge.v,host.v,put up.v,house.v
+Terrorism	9	terror.n,terrorist.n,bioterrorism.n,ecoterrorist [environmentalist].n,bioterrorist.n,ecoterrorism [environmentalism].n,ecoterrorist.n,ecoterrorism.n,terrorism.n
+Performers	4	actress.n,player.n,musician.n,actor.n
+Within_distance	1	within.prep
+Being_detached	6	detached.a,unattached.a,unfused.a,unmoored.a,disconnected.a,loose.a
+Part_inner_outer	18	inside.a,exterior.a,interior.n,interior.a,outside.n,lining.n,skin.n,shell.n,central.a,inside.n,center.n,inner.a,exterior.n,outside.a,outer.a,middle.n,perimeter.n,surface.n
+Competition	9	competitor.n,competition.n,player.n,rivalry.n,rival.n,compete.v,competitive.a,play.v,challenge.n
+Departing	15	depart.v,escape.v,departure.n,decamp.v,vamoose.v,vanish.v,exit.n,skedaddle.v,disappear.v,leave.v,disappearance.n,emerge.v,escape.n,exit.v,exodus.n
+Point_of_dispute	3	question.n,concern.n,issue.n
+Suicide_attack	6	kamikaze [attack].n,suicide bomber.n,kamikaze [person].n,suicide bombing.n,suicide attacker.n,suicide attack.n
+Sharing	1	share.v
+Protecting	14	safeguard.v,bulwark.n,shelter.n,cover.n,secure.v,shield.v,safeguard.n,protection [entity].n,protect.v,guard.v,protection [event].n,shelter.v,shield.n,insulate.v
+Asymmetric_reciprocality	0	
+Speed_description	12	smart.a,speed.n,fast.a,speedy.a,pace.n,quick.a,breakneck.a,speedily.adv,rate.n,quickly.adv,rapid.a,rapidly.adv
+Wearing	48	undressed.a,sport.v,clothed.a,unshod.a,nakedness.n,braless.a,nude.a,nudity.n,attired.a,unclad.a,decked out.a,unclothed.a,naked.a,barefooted.a,gloveless.a,have on.v,undress.n,got on.v,wear.v,bare.v,have got on.v,topless.a,barefoot.a,in.prep,bare-armed.a,bare.a,masked.a,sockless.a,bareheaded.a,hatless.a,costumed.a,clad.a,shoeless.a,shirtless.a,bare-breasted.a,robed.a,garbed.a,dolled up.a,with on.idio,swathed.a,hooded.a,hatted.a,swaddled.a,dressed.a,bare-chested.a,gloved.a,barelegged.a,coatless.a
+Grooming	23	wash.v,cleanse.v,moisturize.v,plait.v,comb.v,manicure.v,groom.v,wax.v,brush [teeth].v,pedicure.n,file.v,shampoo.v,bathe.v,brush [hair].v,soap.v,pluck.v,shower.v,ablution.n,lave.v,floss.v,manicure.n,shave.v,facial.n
+Getting_scenario	0	
+Imposing_obligation	8	charge.v,bind.v,oblige.v,commit.v,charge.n,obligate.v,pledge.v,require.v
+Deception_scenario	0	
+Businesses	14	boutique.n,shop.n,establishment.n,company.n,corporation.n,operation.n,paper.n,bank.n,mill.n,business.n,store.n,firm.n,practice.n,chain.n
+Process_uncompleted_state	0	
+People_by_age	16	baby.n,child.n,coot.n,youth.n,spring chicken.n,kid.n,adolescent.n,newborn.n,elderly.n,adult.n,boy.n,infant.n,geezer.n,teenager.n,neonate.n,youngster.n
+Coming_to_believe	21	gather.v,guess.n,deduce.v,realization.n,guess.v,infer.v,ascertain.v,inference.n,learn.v,realize.v,conclusion.n,surmise.v,deduction.n,figure out.v,find.v,work out.v,conclude.v,puzzle out.v,strike.v,determine.v,speculate.v
+Direction	16	forward.adv,east.n,way.n,west.n,true north.n,up.adv,outward.adv,south.adv,north.adv,east.adv,right.adv,south.n,left.adv,down.adv,west.adv,north.n
+Prevarication	26	dissemble.v,fib.v,misrepresent.v,hoodwink.v,joke.v,pull the wool over (someone's) eyes.idio,deception.n,bullshit artist.n,kid.v,dissembler.n,prevaricate.v,misrepresentation.n,prevarication.n,deceptive.a,shit.v,pull (someone's) leg.idio,lie.v,tell.v,equivocate.v,fool.v,equivocation.n,fib.n,bullshit.v,deceive.v,mislead.v,lie.n
+Regard	9	impression.n,appreciate.v,regard.n,esteem.n,regard.v,think.v,opinion.n,find.v,appreciative.a
+Substance_by_phase	12	liquefied.a,plasma.n,liquid.a,thawed.a,frozen.a,solid.n,defrosted.a,solidified.a,gas.n,gaseous.a,melted.a,liquid.n
+Intentionally_create	15	produce.v,creation.n,found.v,establish.v,synthesise.v,set up.v,synthesis.n,make.v,create.v,generate.v,develop.v,establishment.n,development.n,production.n,generation.n
+Timetable	4	itinerary.n,timetable.n,schedule.n,agenda.n
+Region_with_portal	0	
+Measure_scenario	0	
+Getting_up	2	rise.v,get up.v
+Becoming_separated	3	split.v,divide.v,separate.v
+Deny_or_grant_permission	22	permit.v,the green light.n,the go-ahead.n,the go ahead.n,approve.v,the okay.n,suffer.v,leave.n,mandate.n,greenlight.v,permission.n,disallow.v,forbid.v,okay.v,prohibit.v,clear.v,prohibition.n,restrict.v,approval.n,authorize.v,outlaw.v,sanction [allow].v
+Hair_configuration	26	braid.n,cut.a,wave.n,flaxen.a,cropped.a,curl.v,hairstyle.n,blonde.a,curl.n,braided.a,hairdo.n,lock.n,blond.a,haircut.n,part.n,styled.a,hair.n,topknot.n,curly.a,cut.n,ponytail.n,plait.n,wavy.a,golden.a,tress.n,pigtail.n
+Emotion_active	7	fret.v,fuss.v,obsession.n,agonize.v,worry.v,lose sleep.v,obsess.v
+Patrolling	4	patrol.v,police.v,patrol [act].n,patrol [entity].n
+Studying	1	study.v
+Giving_scenario	0	
+Quarreling	22	bickering.n,wrangle.n,fight.n,disagreement.n,altercation.n,dispute.n,disputation.n,argument.n,fight.v,quarrel.n,argue.v,quibble.v,row.n,wrangling.n,row.v,wrangle.v,spat.n,squabble.v,squabble.n,tiff.n,bicker.v,quarrel.v
+Praiseworthiness	18	estimable.a,praiseworthy.a,lamentable.a,abominable.a,blameworthy.a,commendable.a,pitiable.a,detestable.a,reprehensible.a,honorable.a,meritorious.a,despicable.a,deplorable.a,creditable.a,laudable.a,admirable.a,execrable.a,dishonorable.a
+Emotions_of_mental_activity	10	drudgery.n,relish.v,groove.v,enjoy.v,pleasure.n,delight.n,savour.v,enjoyment.n,delight (in).v,luxuriate.v
+Sleep	25	hibernation.n,kip.n,doze.v,nap.n,nap.v,sleep [event].n,snooze.v,slumber.n,catnap.v,snooze.n,slumber.v,asleep.a,hibernate.v,out like a light.a,forty winks.n,sleep [quantity].n,kip.v,unconscious.a,drowse.v,out.a,sleep.v,shut-eye.n,doze.n,drowse.n,catnap.n
+Being_pregnant	0	
+Reforming_a_system	5	overhaul.v,reform.v,overhaul.n,reform.n,restructure.v
+Domination	0	
+Turning_out	3	turn out.v,end up.v,prove.v
+Pre_giving	0	
+Purpose	18	goal.n,use.n,application.n,determined.a,aim.n,objective.n,bent.a,in order.adv,target.n,aim.v,intention.n,intend.v,object.n,intent.a,plan.n,mean.v,purpose.n,plan.v
+Employment_start	0	
+Public_services	2	public service.n,service.n
+Medical_professionals	37	psychotherapist.n,psychologist.n,shaman.n,neonatologist.n,urologist.n,doctor.n,speech therapist.n,physician.n,nurse.n,nephrologist.n,gerontologist.n,cardiologist.n,surgeon.n,chiropractor.n,neurologist.n,anesthesiologist.n,obstetrician.n,homeopathist.n,gynaecologist.n,oncologist.n,immunologist.n,orthopaedist.n,pediatrician.n,allergist.n,proctologist.n,endocrinologist.n,psychiatrist.n,psychoanalyst.n,radiologist.n,rheumatologist.n,family practitioner.n,dermatologist.n,therapist.n,gastroenterologist.n,radiation oncologist.n,ophthalmologist.n,midwife.n
+Employee_scenario	0	
+Arithmetic	0	
+Unattributed_information	11	rumor.v,purported.a,reportedly.adv,proverbial.a,ostensibly.adv,allegedly.adv,rumor.n,supposedly.adv,alleged.a,purportedly.adv,ostensible.a
+Attempt_suasion	18	pressure.n,cajole.v,advocate.v,admonish.v,exhort.v,suggest.v,enjoin.v,advise.v,pressure.v,prevail.v,lobby.v,recommend.v,press.v,suggestion.n,urge.v,beg.v,wheedle.v,badger.v
+Intentionally_affect	3	do something (to/with).v,do what (to/with).v,do.v
+Emergency_fire	2	wildfire.n,wildland fire.n
+Cause_bodily_experience	7	scratch.v,rub.v,itch.v,hurt.v,tickle.v,massage.v,chafe.v
+Dodging	4	sidestep.n,sidestep.v,dodge.n,dodge.v
+Clothing	163	teddy.n,cossie.n,tights.n,jumpsuit.n,kimono.n,kaftan.n,uniform.n,costume.n,motley.n,get-up.n,ensemble.n,surplice.n,galosh.n,welly.n,wellington.n,slipper.n,sandal.n,sneaker.n,stiletto.n,boot.n,shoe.n,gumboot.n,clog.n,footwear.n,sari.n,sarong.n,poncho.n,abaya.n,jerkin.n,crinoline.n,muff.n,cowl.n,tutu.n,t-shirt.n,polo-neck.n,g-string.n,flip-flops.n,one-piece.n,two-piece.n,flannels.n,rags.n,silks.n,satins.n,cottons.n,tweeds.n,wrap.n,ermines.n,shirt.n,muslins.n,blouse.n,tippet.n,cloak.n,doublet.n,cape.n,tatters.n,coat.n,neckerchief.n,greatcoat.n,breeches.n,overcoat.n,sweatshirt.n,jacket.n,sweatpants.n,vest.n,tracksuit.n,tie.n,alb.n,hose.n,stole.n,hosiery.n,chasuble.n,clothing.n,cope.n,clothes.n,buskin.n,finery.n,pallium.n,suit.n,gauntlet.n,necktie.n,cravat.n,neckwear.n,briefs.n,cummerbund.n,scarf.n,shawl.n,bow-tie.n,pantyhose.n,garter.n,leggings.n,panties.n,knickers.n,slip.n,sweater.n,jumper.n,cardigan.n,pullover.n,blazer.n,kilt.n,swimsuit.n,bikini.n,robe.n,bathrobe.n,frock.n,apron.n,miniskirt.n,jodhpurs.n,fishnet.n,legwarmers.n,regalia.n,raiment.n,dress.n,apparel.n,shorts.n,attire.n,vestment.n,livery.n,outfit.n,garment.n,undergarment.n,stocking.n,underclothing.n,trousers.n,underclothes.n,pants.n,underwear.n,togs.n,chemise.n,undies.n,shift.n,petticoat.n,pinafore.n,mitten.n,sock.n,mitt.n,glove.n,skirt.n,bodice.n,corset.n,parka.n,culottes.n,windbreaker.n,windcheater.n,raincoat.n,pyjama.n,nightie.n,nightdress.n,nightgown.n,gown.n,nightwear.n,lingerie.n,camisole.n,waistcoat.n,jeans.n,overall.n,ballgown.n,coverall.n,garb.n,tunic.n,smock.n,sundress.n,bra.n,brassiere.n
+Limitation	2	limitation.n,limit.n
+Bounded_region	0	
+Daring	10	audaciousness.n,audacious.a,hazard.v,risk.v,chance.v,chance.n,audacity.n,risk.n,venture.v,dare.v
+Accompaniment	6	along with.prep,alone.a,together.adv,with.prep,in combination.prep,singly.adv
+Degree	21	so.adv,heavily.adv,a lot.adv,kind of.adv,way.adv,somewhat.adv,a little.adv,sopping (wet).a,stone (cold).n,fully.adv,that.adv,particular.a,totally.adv,a little bit.adv,as hell.adv,crystal (clear).n,great.a,in part.adv,very.adv,far.adv,dirt (poor).n
+Experiencer_obj	136	stimulate.v,stun.v,surprise.v,terrify.v,thrill.v,unnerve.v,unsettle.v,upset.v,bore.v,wow.v,vex.v,vexation.n,shocker.n,sicken.v,stupefy.v,tickle.v,trouble.v,sting.v,solace.v,nettle.v,abash.v,aggravate.v,exhilarate.v,faze.v,embitter.v,flabbergast.v,floor.v,rankle.v,nonplus.v,mortify.v,madden.v,incense.v,petrify.v,revolt.v,sober.v,repel.v,torment.v,beguile.v,traumatize.v,interest.v,intrigue.v,offend.v,intimidate.v,mystify.v,perturb.v,stir.v,fluster.v,flummox.v,outrage.v,surprise.n,boggle.v,trouble.n,fulfill.v,crush.v,devastate.v,arouse.v,grate.v,appeal.v,worry.v,harass.v,engage.v,stagger.v,destroy.v,annoy.v,demolish.v,antagonize.v,agonize.v,bewitch.v,encourage.v,astonish.v,wound.v,astound.v,kill.v,baffle.v,let down.v,bewilder.v,calm.v,captivate.v,charm.v,cheer.v,comfort.v,conciliate.v,confuse.v,console.v,dazzle.v,delight.v,depress.v,disappoint.v,discomfit.v,disconcert.v,discourage.v,dishearten.v,displease.v,distress.v,disturb.v,embarrass.v,enchant.v,enrage.v,entertain.v,enthrall.v,exasperate.v,excite.v,fascinate.v,frighten.v,frustrate.v,gall.v,gladden.v,gratify.v,hearten.v,humiliate.v,aggrieve.v,impress.v,infuriate.v,irk.v,irritate.v,mollify.v,pacify.v,perplex.v,placate.v,alarm.v,please.v,puzzle.v,anger.v,rattle.v,reassure.v,rile.v,sadden.v,satisfy.v,scare.v,amaze.v,shake.v,shame.v,shock.v,soothe.v,spook.v,startle.v
+Travel	20	tour.n,travel.n,safari.n,tour.v,pilgrimage.n,commute.v,travel.v,trip.n,voyage.n,excursion.n,junket.n,jaunt.n,getaway.n,expedition.n,voyage.v,odyssey.n,journey.v,traveler.n,journey.n,peregrination.n
+Fear	11	terror.n,freaked.a,scared.a,dread.n,fear.n,frightened.a,nervous.a,terrified.a,live in fear.v,afraid.a,apprehension.n
+Rejuvenation	16	reinvigorate.v,reawaken.v,revitalization.n,restore.v,revitalize.v,rejuvenation.n,reinvigoration.n,renew.v,refresh.v,breathe fresh life.v,invigorate.v,revival.n,rejuvenate.v,breathe new life.v,resuscitation.n,resuscitate.v
+Tasting	2	try.v,taste.v
+Ingestion	36	slurp.n,imbibe.v,dine.v,nurse.v,ingestion.n,nibble.v,ingest.v,drink.v,gobble.v,devour.v,gulp.v,sip.n,slurp.v,consume.v,eat.v,gulp.n,nosh.v,swig.n,lap.v,sup.v,tuck.v,swig.v,down.v,have.v,guzzle.v,sip.v,munch.v,breakfast.v,swill.v,feast.v,put away.v,snack.v,put back.v,feed.v,quaff.v,lunch.v
+Revenge	18	vengeful.a,get back (at).v,retribution.n,retaliation.n,revenge.n,revengeful.a,get even.v,retributory.a,vindictive.a,revenge.v,payback.n,avenge.v,revenger.n,retaliate.v,retributive.a,sanction.n,avenger.n,vengeance.n
+Sidereal_appearance	3	rise.n,come up.v,rise.v
+People_by_jurisdiction	5	citizen.n,national.n,parishioner.n,subject.n,citizenry.n
+Carry_goods	2	stock.v,carry.v
+Scheduling	3	arrange.v,schedule.v,set up.v
+Calendric_unit	63	June.n,spring.n,autumn.n,midday.n,April.n,Saturday.n,month.n,day.n,one day.n,Friday.n,dusk.n,calendar year.n,today.n,daybreak.n,weeknight.n,year.n,century.n,millennium.n,afternoon.n,February.n,noon.n,leap year.n,October.n,holiday.n,December.n,Sunday.n,winter.n,January.n,Thursday.n,fortnight.n,school year.n,era.n,yesterday.n,September.n,November.n,second.n,tomorrow.n,hour.n,quarter.n,night.n,eve.n,decade.n,August.n,minute.n,Monday.n,May.n,age.n,dawn.n,tonight.n,summer.n,weekday.n,evening.n,July.n,week.n,midnight.n,March.n,rush hour.n,weekend.n,Tuesday.n,twilight.n,morn.n,Wednesday.n,morning.n
+Communication_noise	59	croon.v,screech.v,shriek.v,crow.v,shrill.v,snarl.v,cry.v,snort.v,drone.v,splutter.v,sputter.v,scream.v,squawk.v,squeak.v,croak.v,squeal.v,thunder.v,titter.v,babble.n,trill.v,gasp.v,bleat.v,trumpet.v,groan.v,twitter.v,grate.v,wail.v,bawl.v,growl.v,warble.v,bray.v,grunt.v,wheeze.v,cackle.v,gurgle.v,whimper.v,chuckle.v,hiss.v,whine.v,bellow.v,hoot.v,whoop.v,bark.v,howl.v,yell.v,chirp.v,moan.v,yelp.v,chirrup.v,cluck.v,murmur.v,purr.v,burble.v,rap.v,rasp.v,rattle.v,roar.v,rumble.v,coo.v
+Rest	3	complement.v,complement.n,rest.n
+Sex	25	bed.v,jump.v,take.v,fuck.v,jump (someone's) bones.idio,have.v,quickie.n,make whoopee.a,lay.v,copulate.v,slam.v,sex.n,do it.v,bone.v,mate.v,bump uglies.v,pork.v,shag.v,knock boots.v,make love.v,go at it.v,intercourse.n,give.v,bang.v,do.v
+Location_on_path	0	
+Attention	8	close.a,attention.n,closely.adv,alert.a,attend.v,keep an eye.v,ignore.v,attentive.a
+Exporting	4	export [act].n,export [entity].n,export.v,exportation.n
+Trap	2	trap.n,snare.n
+Store	7	inventory.n,store.n,stockpile.n,supply.n,stock.n,reserve.n,cargo.n
+Holding_off_on	2	hold off.v,wait.v
+Dressing	8	don.v,put on.v,pull on.v,dress.v,get on.v,throw on.v,dress up.v,slip on.v
+Judgment_communication	84	reprehension.n,derision.n,belittlement.n,disparage.v,belittling.n,disparagement.n,recrimination.n,disparaging.a,recriminate.v,extol.v,critic.n,laud.v,critique.n,execrate.v,mocking.a,critique.v,praise.n,harangue.n,acclaim.v,praise.v,acclaim.n,remonstrance.n,accusation.n,remonstrate.v,accuse.v,ridicule.v,belittle.v,ridicule.n,kudos.n,blast.v,scathing.a,censure.v,reprehend.v,scoff.v,censure.n,mock.v,charge.v,cite.v,commend.v,castigate.v,commendation.n,slam.v,excoriate.v,deprecatory.a,condemn.v,harangue.v,deprecation.n,condemnation.n,dump.v,deprecative.a,criticism.n,critical.a,blame.v,criticize.v,tout.v,execration.n,damn.v,gibe.v,charge.n,execrative.a,decry.v,pin.v,denigrative.a,rave.v,laudable.a,denigrate.v,hail.v,rip.v,laudatory.a,denigration.n,attack.v,commendable.a,denounce.v,attack.n,denunciative.a,commendatory.a,denouncement.n,malediction.n,denunciation.n,excoriation.n,denunciatory.a,maledictory.a,deprecate.v,deride.v
+Smuggling	5	contraband.a,smuggler.n,contraband.n,smuggle.v,smuggling.n
+Product_development_scenario	0	
+Being_employed	17	work.n,at.prep,position.n,work.v,farm (out).v,employ.n,jobless.a,unemployed.a,clerk.v,wait tables.idio,employment.n,subcontract.v,employed.a,job.n,stint.n,unemployment.n,temp.v
+Temporal_subregion	13	middle.n,outset.n,dawning.n,early.a,mid.a,start.n,late.a,end.n,turn.n,middle.a,earlier.a,later.a,beginning.n
+Shoot_projectiles	6	fire off.v,fire.v,shoot.v,fire.n,launch.n,launch.v
+Labor_product	3	output.n,work.n,oeuvre.n
+Ceasing_to_be	8	dissipation.n,fade.v,vanish.v,dissolve.v,dissipate.v,go away.v,disappearance.n,disappear.v
+Finish_game	2	win.v,lose.v
+Judgment	55	admiration.n,appreciate.v,reverence.n,esteem.v,mockery.n,admire.v,fault.n,exaltation.n,fault.v,accolade.n,mock.v,vilification.n,approving.a,reproachful.a,contemptuous.a,damnation.n,value.v,blame.n,scorn.n,blame.v,deplore.v,respect.n,scorn.v,derisive.a,respect.v,scornful.a,critical.a,disapproval.n,deify.v,stigma.n,approbation.n,disapprove.v,revere.v,reproach.n,stigmatize.v,disapproving.a,reprehensible.a,appreciation.n,admiring.a,stricture.n,disdain.n,appreciative.a,uncritical.a,set store.v,disdain.v,accuse.v,exalt.v,applaud.v,disdainful.a,prize.v,approve.v,contempt.n,disrespect.n,boo.v,esteem.n
+Deserving	8	grounds.n,worth.a,call.v,deserve.v,warrant.v,merit.v,warrant.n,justify.v
+Personal_success	7	success [person].n,successful.a,success [event].n,make it.v,success [state].n,arrive.v,succeed.v
+Mental_property	66	brilliant.a,foolish.a,enlightenment.n,sensible.a,bull-headed.a,enlightened.a,irrational.a,broad-minded.a,forgetful.a,ludicrous.a,moronic.a,absurdity.n,naive.a,stupid.a,absurd.a,sagacious.a,nonsensical.a,brilliance.n,perceptive.a,ridiculous.a,reasonable.a,foolishness.n,crackers.a,narrow-minded.a,canny.a,common sense.n,sage.a,smart.a,astuteness.n,absent-minded.a,unreasonable.a,brainless.a,foxy.a,intelligent.a,wise.a,idiotic.a,astute.a,crazy.a,curious.a,suspicious.a,shrewd.a,daft.a,carefully.adv,crafty.a,ill-advised.a,wit.n,cunning.a,inane.a,insightfully.adv,insightful.a,acquisitive.a,ingenious.a,careless.a,perceptively.adv,narrow-mindedly.adv,carelessness.n,dim.a,carelessly.adv,cynical.a,discerning.a,inattentive.a,diligent.a,sense.n,dim-witted.a,stupidly.adv,discernment.n
+Sacrificing_for	2	compromise.v,sacrifice.v
+Race_descriptor	6	black.a,asian.a,hispanic.a,yellow.a,white.a,color.n
+Offenses	26	felony.n,manslaughter.n,possession.n,hijacking.n,larceny.n,homicide.n,murder.n,battery.n,robbery.n,fraud.n,burglary.n,negligence.n,treason.n,sexual harassment.n,kidnapping.n,indecent assault.n,theft.n,sexual assault.n,statutory rape.n,rape.n,sabotage.n,assault.n,copyright infringement.n,child abuse.n,conspiracy.n,arson.n
+Evaluative_comparison	8	comparable.a,stack up.v,rival.v,match.v,compare.v,equal.v,match.n,measure up.v
+Aiming	5	direct.v,aim.n,target.n,aim.v,target.v
+Commerce_buy	6	buy.v,purchaser.n,buyer.n,purchase [act].n,purchase.v,client.n
+Affirm_or_deny	10	confirm.v,refute.v,affirmation.n,confirmation.n,deny.v,affirm.v,concede.v,denial.n,reaffirm.v,attest.v
+Cause_to_rot	2	rot.v,putrefy.v
+Reparation	4	make up.v,reparation.n,restitution.n,amends.n
+Performers_and_roles	16	co-star (in).v,lead.n,appear.v,co-star.n,star (in).v,role.n,star.n,play.v,feature.v,as.prep,be.v,act.v,star.v,part.n,character.n,co-star.v
+Political_actions	3	strike.v,walk-out.n,strike.n
+Filling	59	drape.v,dab.v,douse.v,daub.v,flood.v,inject.v,fill.v,crowd.v,cram.v,pave.v,sow.v,varnish.v,seed.v,paint.v,brush.v,gild.v,hang.v,strew.v,glaze.v,spatter.v,embellish.v,splash.v,panel.v,splatter.v,wax.v,spray.v,wash.v,sprinkle.v,plank.v,squirt.v,yoke.v,shower.v,dress.v,drizzle.v,accessorize.v,heap.v,pile.v,pump.v,jam.v,adorn.v,plant.v,anoint.v,scatter.v,cover.v,butter.v,dust.v,asphalt.v,load.v,surface.v,pack.v,tile.v,plaster.v,wallpaper.v,smear.v,coat.v,spread.v,suffuse.v,stuff.v,wrap.v
+Leadership	106	commissioner.n,supervisor.n,congresswoman.n,president [non-political].n,caliph.n,vice-president [non-political].n,suzerain.n,satrap.n,rector.n,headmaster.n,doyen.n,doyenne.n,empress.n,maharaja.n,tsar.n,tsarina.n,bishop.n,sheik.n,vizier.n,duchess.n,boss.n,khan.n,captain.n,khedive.n,ruler.n,chairman.n,kaiser.n,director.n,pasha.n,overlord.n,baron.n,dictator.n,shah.n,official.n,prime minister.n,commander.n,authority.n,emperor.n,government.n,drug lord.n,chairperson.n,presidential.a,command.v,power [govt].n,general.n,regime.n,govern.v,director general.n,commandant.n,command.n,imam.n,power [rule].n,chieftain.n,charge.n,head.n,rule.n,head.v,high-priest.n,governor.n,diplomat.n,chief.n,congressman.n,legislature.n,leader.n,vice-president [political].n,leadership.n,senate.n,mogul.n,minister.n,prince.n,monarch.n,administration.n,mayor.n,major general.a,representative.n,premier.n,crown prince.n,lead.v,viceroy.n,executive.n,vice-principal.n,legislator.n,president [political].n,secretary.n,principal.n,administer.v,queen.n,lawmaker.n,spearhead.v,preside.v,vice-captain.n,CEO.n,king.n,sultan.n,chief executive officer.n,rule.v,officer.n,vice-chairman.n,state.n,sovereign.n,despot.n,reign.v,run.v,tyrant.n,chair.v,superintendent.n
+Mathematical_relationship	3	function.n,formula.n,equation.n
+Chemical-sense_description	41	delectable.a,odor.n,unpalatable.a,insipid.a,stench.n,flavourless.a,toothsome.a,tart.a,pungent.a,flavoursome.a,delicious.a,yummy.a,bland.a,scrumptious.a,reek.n,salty.a,scent.n,tasty.a,palatable.a,smell.v,flavourful.a,savory.a,malodorous.a,sour.a,fragrant.a,spicy.a,aromatic.a,bitter.a,smelly.a,bouquet.n,ambrosial.a,sweet.a,tasteless.a,sapid.a,aroma.n,hot.a,piquant.a,stink.v,stink.n,reek.v,fragrance.n
+Silencing	7	quiet.v,hush up.v,quiet down.v,hush.v,silence.v,shut up.v,shush.v
+Being_operational	10	functional.a,down.a,operational.a,function.n,in order.a,busted.a,downed.a,working.a,broken.a,work.v
+Preserving	11	cure.v,embalming.n,mummification.n,mummify.v,dry.v,salt.v,preservation.n,can.v,pickle.v,preserve.v,embalm.v
+Scrutinizing_for	0	
+Entering_of_plea	2	plead.v,plea.n
+Institutions	2	institution.n,institutional.a
+Recording	4	document.v,register.v,chronicle.v,record.v
+Have_associated	3	have.v,with.prep,have got.v
+Being_attached	31	adhere.v,manacled.a,fused.a,pinned.a,plastered.a,bolted.a,chained.a,shackled.a,handcuffed.a,stapled.a,linked.a,anchored.a,lashed.a,stick.v,adhesion.n,riveted.a,welded.a,sewn.a,tethered.a,nailed.a,taped.a,moored.a,tied.a,connected.a,affixed.a,glued.a,fastened.a,bound.a,stuck.a,attached.a,pasted.a
+Reporting	13	inform.v,snitch.n,fink.v,tell (on).v,fink.n,rat.v,informer.n,report.v,squeal.n,snitch.v,peach.v,nark.n,rat out.v
+Container_focused_removing	0	
+Temperature	10	cold.a,tepid.a,scalding.a,frigid.a,temperature.n,freezing.a,lukewarm.a,warm.a,cool.a,hot.a
+Visiting	5	visit.v,visitor.n,revisit.v,call.n,visit.n
+Project	4	scheme.n,program.n,plan.n,project.n
+Container_focused_placing	0	
+Volubility	27	effusive.a,garrulous.a,talkative.a,chatty.a,glib.a,loudmouth.n,silent.a,laconic.a,reticence.n,taciturn.a,gushing.a,expansive.a,mute.a,loquacious.a,gushy.a,quiet.a,chatterbox.n,voluble.a,curt.a,reticent.a,loquacity.n,big mouth.n,terse.a,reserved.a,uncommunicative.a,mum.a,brusque.a
+Arrest	11	summons.v,arrest.n,bust.n,apprehend.v,arrest.v,apprehension.n,bust.v,book.v,nab.v,collar.v,cop.v
+Adducing	4	adduce.v,point.v,cite.v,name.v
+People_by_religion	10	pagan.n,infidel.n,baptist.n,christian.n,zealot.n,buddhist.n,jew.n,faithful.n,mormon.n,muslim.n
+Specific_individual	3	particular.a,certain.a,specific.a
+Scrutiny	49	double-check.v,spy out the land.v,once-over.n,frisk.v,analyse.v,comb.v,ransack.v,scour.v,investigate.v,monitor.v,analytic.a,study.n,go [through].v,monitoring.n,analysis.n,survey.n,unmonitored.a,look.v,investigation.n,surveillance.n,sweep.n,surveillance [entity].n,scan.v,explore.v,rifle.v,pry.v,survey.v,examination.n,analyst.n,reconnaissance.n,study.v,probe.v,reconnoitre.v,inspector.n,assay.v,skim.v,search.v,sift.v,rummage.v,perusal.n,surveyor.n,scrutinize.v,scout.v,peruse.v,eyeball.v,scrutiny.n,check.v,sweep.v,search.n
+Attempt_action_scenario	0	
+Identity_scenario	0	
+Experiencer_focus	78	love.v,unfazed.a,dread.v,fazed.a,hate.v,luxuriate.v,calm.a,scared.a,comfort.n,like.v,solace.n,regret.v,terrified.a,pleasure.n,enjoyment.n,irritated.a,dislike.n,upset.a,rue.v,antipathy.n,hatred.n,taken.a,enjoy.v,fed up.a,fear.v,intimidated.a,pity.v,afraid.a,feverish.a,happily.adv,loathe.v,feverishly.adv,envy.v,empathy.n,cool.a,savour.v,easy.a,envy.n,discomfort.n,empathize.v,worked up.a,despise.v,resent.v,rueful.a,regret.n,detest.v,mourn.v,dissatisfied.a,loathing.n,pity.n,dread.n,detestation.n,desperation.n,delight.v,abhor.v,resentment.n,relish.n,dislike.v,abominate.v,relish.v,abhorrence.n,nettled.a,worried.a,compassion.n,nervous.a,adoration.n,apprehensive.a,empathetic.a,fond.a,interested.a,agape.a,despair.v,fulfilled.a,fulfillment.n,satisfaction.n,satisfied.a,grieve.v,adore.v
+Motion_scenario	0	
+Connecting_architecture	11	gate.n,escalator.n,elevator.n,corridor.n,stairs.n,door.n,lift.n,step.n,staircase.n,window.n,hallway.n
+Negative_conditional	2	unless.scon,otherwise.adv
+Precariousness	8	balanced.a,unstable.a,teeter.v,instability.n,unsteady.a,stable.a,steady.a,stability.n
+Summarizing	5	outline.v,summarize.v,synopsis.n,sum up.v,boil down.v
+Used_up	6	worn out.a,exhausted.a,spent.a,through.a,depleted.a,used up.a
+Dunking	2	dunk.v,dip.v
+Being_questionable	5	questionable.a,suspect.a,suspicious.a,fishy.a,dubious.a
+Subversion	5	sabotage.v,subversion.n,undercut.v,undermine.v,subvert.v
+State	0	
+Immobilization	5	tie up.v,handcuff.v,lock up.v,shackle.v,straitjacket.v
+Notability	2	notable.a,great.a
+Identity	1	identity.n
+Board_vehicle	10	embarkation.n,get.v,embus.v,emplane.v,board.v,entrain.v,mount.v,hop.v,embark.v,embarkment.n
+Interior_profile_relation	10	in.prep,outside.prep,between.prep,amid.prep,among.prep,inside.prep,within.prep,outside the wire.adv,in between.prep,in among.prep
+Actually_occurring_entity	2	actual.a,true.a
+Representative	4	representative.n,spokesperson.n,spokesman.n,spokeswoman.n
+Taking_time	11	quick.a,rapid.a,slow.a,take.v,speedy.a,swift.a,quickly.adv,fast.a,slowly.adv,in.prep,gradually.adv
+Communication_means	11	telex.v,cable.v,fax.v,telegraph.v,semaphore.v,call.v,phone.v,radio.v,telephone.v,wire.v,pdf.v
+Biological_mechanisms	5	inhibit.v,impair.v,increase.v,catalyze.v,stimulate.v
+Change_of_temperature	7	warm.v,reheat.v,heat.v,chill.v,cool off.v,refrigerate.v,cool.v
+Commitment	18	swear.v,threat.n,pledge.n,pledge.v,undertaking.n,consent.v,oath.n,promise.v,covenant.n,threaten.v,undertake.v,vow.n,vow.v,covenant.v,commitment.n,promise.n,volunteer.v,commit.v
+Prevent_or_allow_possession	5	allow.v,deprive.v,starve.v,deny.v,permit.v
+Shooting_scenario	0	
+Rashness	6	patient.a,rash.a,precipitate.a,impetuous.a,precipitous.a,impatient.a
+Cause_to_be_sharp	3	sharpen.v,dull.v,blunt.v
+Escaping	9	get free.v,get loose.v,escape.v,get out.v,evacuate.v,evacuation.n,bust out.v,fly the coop.v,scarper.v
+Planting	2	plant.v,sow.v
+Rope_manipulation	4	tangle.v,knot.v,braid.v,tie.v
+Posing_as	5	pose.v,impersonation.n,masquerade.v,impostor.n,impersonate.v
+Subjective_influence	20	influence.v,spur.v,motivate.v,influential.a,impact.v,stimulate.v,influence.n,coax.v,inspiration.n,encourage.v,goad.v,entice.v,discourage.v,impact.n,tempt.v,drive.v,inspire.v,galvanize.v,push.v,effect.n
+Means	16	process.n,by.prep,how.adv,way.n,means.n,recipe [cooking].n,approach.n,method.n,procedure.n,technique.n,on.prep,mechanism.n,tactic.n,course of action.n,modus operandi.n,nuts and bolts.n
+Accuracy	12	on.prep,inaccuracy.n,precision.n,accurately.adv,inaccurately.adv,true.a,precise.a,accurate.a,exact.a,accuracy.n,off.prep,inaccurate.a
+Boundary	4	boundary.n,line.n,border.n,edge.n
+Jury_deliberation	2	deliberation.n,deliberate.v
+Go_into_shape	5	fold.v,fold [protein].v,curl.v,twist.v,coil.v
+Being_wet	16	soaking.a,humid.a,saturated.a,soaked.a,clammy.a,waterlogged.a,sopping.a,damp.a,sodden.a,moistened.a,soggy.a,dewy.a,wet.a,moist.a,drenched.a,sweaty.a
+Medical_instruments	19	syringe.n,otoscope.n,fluoroscope.n,speculum.n,blood pressure cuff.n,oscilloscope.n,catheter.n,needle.n,colonoscope.n,endoscope.n,laparoscope.n,gastroscope.n,forceps.n,scalpel.n,ophthalmoscope.n,sigmoidoscope.n,stethoscope.n,cholecystoscope.n,bronchoscope.n
+Capacity	6	fit.v,serve.v,seat.v,take.v,sleep.v,feed.v
+Usefulness	23	splendid.a,utility.n,perfect.a,value.n,good.a,ideal.a,wonderful.a,superb.a,ineffective.a,great.a,work.v,super.a,strong.a,fine.a,outstanding.a,useful.a,excellent.a,terrific.a,marvellous.a,valuable.a,effective.a,fantastic.a,tremendous.a
+Motion	23	drift.v,fly.v,go.v,snake.v,soar.v,swerve.v,weave.v,wind.v,float.v,circle.v,move.v,zigzag.v,blow.v,undulate.v,roll.v,come.v,spiral.v,slide.v,swing.v,coast.v,glide.v,travel.v,meander.v
+Chemical_potency	3	strong.a,stiff.a,potent.a
+Location_in_time	3	time.n,date.n,day.n
+Being_relevant	4	irrelevant.a,pertinent.a,play (into).v,relevant.a
+Supporting	3	support.v,buttress.v,bolster.v
+Gradable_proximity	5	close.a,distant.a,far.a,proximity.n,near.a
+Social_behavior_evaluation	0	
+Prohibiting_or_licensing	12	proscribe.v,prohibition.n,allow.v,sanction.v,ban.v,forbid.v,entitle.v,outlaw.v,prohibit.v,bar.v,permit.v,ban.n
+Appeal	4	appellant.n,appellate.a,appeal.n,appeal.v
+Relation_between_individuals	0	
+Explosion	7	blow up.v,detonate.v,blow.v,explode.v,explosion.n,detonation.n,blast.n
+Body_description_part	18	fair.a,blonde.n,albino.a,knock-kneed.a,bow-legged.a,black-haired.a,grey-haired.a,redhead.n,cross-eyed.a,flat-footed.a,bearded.a,blue-eyed.a,moustached.a,albino.n,pigtailed.a,red-haired.a,brunette.n,peg-leg.n
+Giving_in	10	give way.v,acquiesce.v,relent.v,cave in.v,capitulate.v,fold [to demands].v,cave.v,give in.v,submit.v,yield.v
+Sequence	6	sequence.n,succession.n,series.n,order.n,sequential.a,successive.a
+Attitude_description	7	hopeless.a,negative.a,hopeful.a,dark.a,positive.a,optimistic.a,pessimistic.a
+Pattern	2	pattern.n,formation.n
+Level_of_force_resistance	24	frail.a,strong.a,pliable.a,durability.n,strength.n,flexible.a,durable.a,robustness.n,toughness.n,pliability.n,fragility.n,flexibility.n,tough.a,hardy.a,weak.a,sturdy.a,robust.a,hardiness.n,fragile.a,flimsy.a,flimsiness.n,weakness.n,sturdiness.n,impregnable.a
+Emotions_by_stimulus	3	joyful.a,jubilant.a,glad.a
+Non-commutative_statement	3	quotient.n,minus.prep,difference.n
+Releasing	4	release.n,release.v,set free.v,let go.v
+Possibility	4	might.v,may.v,could.v,can.v
+Military	13	navy.n,naval.a,national guard.n,military.n,armed forces.n,air force.n,militia.n,marines.n,coast guard.n,military.a,force.n,military forces.n,army.n
+Launch_process	1	launch.v
+Controller_object	6	switchboard.n,switch.n,board.n,button.n,knob.n,control.n
+Change_accessibility	6	block off.v,barricade.v,blockade.n,cordon off.v,road-block.n,blockade.v
+Execution	11	hang.v,guillotining.n,execute.v,guillotine.v,executioner.n,put to death.v,hanging.n,hangman.n,headsman.n,firing squad.n,execution.n
+Emotions	0	
+Chaos	6	disorder.n,order.n,riot.n,disarray.n,lawlessness.n,chaos.n
+Cause_change_of_consistency	12	thicken.v,curdle.v,congeal.v,thin.v,inspissate.v,jell.v,clot.v,indurate.v,set.v,soften.v,harden.v,coagulate.v
+Fighting_activity	6	melee.n,fray.n,donnybrook.n,free-for-all.n,fracas.n,affray.n
+Improvement_or_decline	11	ameliorate.v,decline.n,shape up.v,improvement.n,look up.v,deterioration.n,improve.v,deteriorate.v,worsen.v,amelioration.n,decline.v
+Negation	6	no.art,without.prep,far.a,never.adv,no longer.adv,not.adv
+Cause_to_continue	1	keep.v
+Making_arrangements	5	make arrangements.idio,organize.v,put together.v,plan.v,set up.v
+Ratification	2	ratification.n,ratify.v
+Birth_scenario	0	
+Being_awake	4	conscious.a,watch.v,wakeful.a,awake.a
+Renting_out	2	rent.v,lease.v
+Forgiveness	5	condone.v,excuse.v,forgive.v,forgiveness.n,pardon.v
+State_continue	3	stay.v,rest.v,remain.v
+Sound_movement	5	reverberate.v,roll.v,blast.v,echo.v,resound.v
+Thermodynamic_phase	2	phase.n,state.n
+Awareness	28	aware.a,conceive.v,presumption.n,idea.n,conscious.a,understand.v,conception.n,thought.n,know.v,unknown.a,suspect.v,understanding.n,ignorance.n,reckon.v,hunch.n,believe.v,suspicion.n,knowledgeable.a,cognizant.a,imagine.v,comprehend.v,knowledge.n,supposition.n,consciousness.n,presume.v,think.v,awareness.n,comprehension.n
+Front_for	3	front.v,front.n,blind.n
+Proliferating_in_number	5	proliferation.n,proliferate.v,multiply.v,dwindle.v,non-proliferation.n
+Preventing_or_letting	24	stopping.n,frustrate.v,permit.v,keep (from).v,avoid.v,preempt.v,nip in the bud.v,enable.v,avert.v,preemption.n,preemptive.a,forestall.v,prohibit.v,stop.v,let.v,enablement.n,preclude.v,obviate.v,check.v,upset.v,allow.v,prevent.v,stave off.v,prevention.n
+Destroying	22	vaporize.v,unmake.v,annihilation.n,lay waste.v,demolish.v,dismantle.v,demolition.n,dismantlement.n,destructive.a,raze.v,blow up.v,level.v,take out.v,destroy.v,obliterate.v,blast.v,obliteration.n,ruin.v,annihilate.v,destruction.n,devastate.v,devastation.n
+Tool_purpose	2	function.n,use.n
+Dimension	22	circumference.n,wide.a,measure.v,height.n,grand.a,high.a,thick.a,length.n,broad.a,around.adv,level.n,across.adv,breadth.n,work.n,long.a,deep.a,width.n,tall.a,weight.n,area.n,weigh.v,depth.n
+Cycle_of_life_and_death	0	
+Cause_to_fragment	25	shatter.v,snap.v,break apart.v,smash.v,rip.v,break.v,shred.v,sliver.v,tear up.v,split.v,rip up.v,dissect.v,break down.v,fragment.v,splinter.v,break up.v,cleave.v,dissolve.v,tear.v,take apart.v,rive.v,fracture.v,shiver.v,rend.v,chip.v
+Kinship	59	maternal.a,grandmother.n,paternal.a,mother-in-law.n,parental.a,father-in-law.n,filial.a,auntie.n,son-in-law.n,ancestral.a,dad.n,daughter-in-law.n,scion.n,stepson.n,relative.n,kid.n,aunt.n,stepdaughter.n,offspring.n,grandson.n,stepmother.n,clan.n,uncle.n,mother.n,stepfather.n,people.n,niece.n,stepbrother.n,name.n,nephew.n,stepsister.n,kin.n,kinship.n,brother-in-law.n,sister-in-law.n,cousin.n,daddy.n,mom.n,granddaughter.n,great-grandson.n,great-granddaughter.n,parent.n,father.n,child.n,in-law.n,family.n,sibling.n,ancestor.n,descendant.n,daughter.n,forebear.n,son.n,forefather.n,kinsman.n,brother.n,kinsfolk.n,kinswoman.n,sister.n,grandfather.n
+Intoxication	14	blotto.a,stoned.a,trip.n,intoxicated.a,pissed.a,blasted.a,inebriated.a,sloshed.a,under the influence (of).prep,sober.a,tipsy.a,wasted.a,drunk.a,high.a
+Type	14	sort.n,shade.n,version.n,make.n,breed.n,class.n,race.n,kind.n,type.n,variety.n,ilk.n,form.n,strain.n,brand.n
+Visiting_scenario	0	
+Perception	0	
+Withdraw_from_participation	5	withdraw.v,beg off.v,pull-out.n,withdrawal.n,pull out.v
+Redirecting	3	redirect.v,divert.v,detour.v
+Being_born	2	born.v,come into the world.v
+Proportional_quantity	29	much.art,odd.a,about.prep,thereabouts.adv,circa.prep,or so.adv,precisely.adv,something like.prep,exactly.adv,in vicinity (of).prep,most.art,close (to).a,tops.n,over.prep,little.art,almost.prep,in neighborhood (of).prep,upwards of.prep,approximately.adv,minimum.n,under.prep,barely.adv,at least.adv,around.prep,at most.adv,nearly.adv,a good.a,roughly.adv,some.art
+Temporary_group	2	detachment.n,detail.n
+Inclination	10	prone.a,sense (of humor).n,of a mind.a,predisposition.n,propensity.n,inclined.a,proclivity.n,penchant.n,predisposed.a,tendency.n
+Placing_scenario	0	
+Abundance	4	abundant.a,galore.a,abound.v,teem.v
+Lodging_scenario	0	
+Being_contained_within	0	
+Firing	16	sack.v,shitcan.v,terminate.v,fire.v,give the boot.v,let go.v,dismiss.v,lay off.v,lay-off.n,dismissal.n,firing.n,the sack.n,termination.n,discharge.v,downsize.v,can.v
+Bail_decision	5	fix.v,bond.n,set.v,order.v,bail.n
+Arithmetic_non-commutative	0	
+Namesake	2	namesake.n,eponymous.a
+Examination	6	examine.v,test.n,examination.n,test.v,exam.n,assessment.n
+Importing	4	importation.n,import [entity].n,import [act].n,import.v
+Fluidic_motion	28	run.v,spout.v,squirt.v,rush.v,soak.v,course.v,purl.v,dribble.v,spill.v,splash.v,drip.v,spew.v,stream.v,flow.v,seep.v,percolate.v,hiss.v,pump.v,trickle.v,leak.v,gush.v,splatter.v,bubble.v,spray.v,jet.v,ooze.v,cascade.v,spurt.v
+Recovery	9	ease.v,recuperation.n,convalesce.v,heal.v,recuperate.v,perk up.v,convalescence.n,recovery.n,recover.v
+Being_obligatory	7	behoove.v,incumbent.a,compulsory.a,binding.a,voluntary.a,mandatory.a,obligatory.a
+Change_event_time	13	put off.v,hold over.v,defer.v,delay [duration].n,put over.v,move up.v,delay.n,postpone.v,move back.v,hold up.v,reschedule.v,advance.v,delay.v
+Research	3	investigate.v,research.v,research.n
+Procreative_sex	1	make baby.v
+Desiring	53	will.n,desire.n,hunger.n,desirous.a,in the hope of.prep,spoiling.a,thirst.v,crave.v,hunger.v,wants.n,desire.v,urge.n,hanker.v,lust.n,long.v,covetous.a,wish (that).v,yen.n,aspire.v,feel like.v,hope.n,fancy.v,wish.v,dying.a,hankering.n,hope.v,raring.a,thirsty.a,will.v,itch.v,eager.a,desired.a,in hopes of.prep,lust.v,longing.n,want.v,wish.n,aspiration.n,yen.v,impulse.n,interested.a,yearn.v,care.v,craving.n,ache.v,loath.a,reluctant.a,ambition.n,hungry.a,thirst.n,covet.v,pine.v,yearning.n
+Cause_fluidic_motion	11	sprinkle.v,spill.v,drip.v,spatter.v,squirt.v,splatter.v,spew.v,splash.v,dribble.v,spray.v,pump.v
+Soaking	3	marinate.v,soak.v,steep.v
+Using_resource	2	spend.v,use.v
+Increment	8	other.a,other.n,further.a,more.n,additional.a,more.a,another.n,another.a
+Physical_artworks	14	photograph.n,painting.n,bronze.n,statue.n,statuette.n,sculpture.n,trace.n,diagram.n,image.n,poster.n,tracing.n,drawing.n,photo.n,picture.n
+Stage_of_progress	13	advanced.a,generation.n,maturity.n,next generation.a,sophisticated.a,cutting-edge.a,developed.a,low-tech.a,state-of-the-art.a,old-fashioned.a,mature.a,high-tech.a,modern.a
+Time_period_of_action	1	window.n
+Level_of_force_exertion	11	mighty.a,force.n,powerful.a,powerless.a,strong.a,weak.a,forceful.a,might.n,strength.n,weakness.n,power.n
+Attempt	13	undertake.v,endeavor.v,stab.n,endeavor.n,quest.n,try.v,attempt.n,try.n,push.n,attempt.v,shot.n,effort.n,go.n
+Counterattack	3	counter-attack.n,counter-offensive.n,counter-attack.v
+Cause_to_amalgamate	26	fuse.v,mix.v,pair.v,meld.v,jumble.v,merger.n,blend.v,combination.n,admix.v,throw together.v,combine.v,unite.v,fold.v,consolidate.v,coalesce.v,unify.v,lump.v,merge.v,join.v,intermix.v,amalgamate.v,bring together.v,conflate.v,commingle.v,flux.v,compound.v
+Popularity	5	in.a,cool.a,hot.a,popular.a,in demand.a
+Guest_and_host	2	host.n,guest.n
+Authority	5	sway.n,jurisdiction.n,power.n,dominion.n,authority.n
+Adjacency	13	adjacent.a,bordering.a,contiguity.n,border.v,next to.prep,neighbor.n,abut.v,adjoining.a,neighbor.v,adjoin.v,adjacency.n,contiguous.a,neighboring.a
+Dominate_situation	5	domination.n,dominant.a,predominate.v,rule.v,dominate.v
+Terms_of_agreement	6	condition.n,clause.n,stipulation.n,parameter.n,term.n,provision.n
+Contact_image_schema	0	
+Catastrophe	21	accident.n,mishap.n,disaster.n,betide.v,suffer.v,apocalypse.n,catastrophic.a,mischance.n,misfortune.n,cataclysm.n,debacle.n,calamitous.a,calamity.n,disastrous.a,befall.v,crisis.n,incident.n,catastrophe.n,tragedy.n,victim.n,casualty.n
+First_experience	1	first.adv
+Activity_abandoned_state	0	
+Beat_opponent	9	upend.v,rout.n,defeat.v,rout.v,demolish.v,beat.v,prevail.v,defeat.n,trounce.v
+Substance	26	juice.n,gas.n,metal.n,oil.n,glass.n,paper.n,liquid.n,solid.n,mud.n,plutonium.n,water.n,cement.n,chemical.n,methane.n,calcium.n,iron.n,atropine.n,petroleum.n,oxygen.n,material.n,fertilizer.n,uranium.n,aluminum.n,yellowcake.n,sand.n,ore.n
+Communication_manner	24	babble.v,rave.v,shout.v,simper.v,chant.v,sing.v,chatter.v,slur.v,drawl.v,stammer.v,gabble.v,stutter.v,mumble.v,whisper.v,gibber.v,blabber.v,jabber.v,bluster.v,lisp.v,mouth.v,mutter.v,natter.v,prattle.v,rant.v
+Visiting_scenario_stay	0	
+Bragging	10	rodomontade.v,boast.v,rodomontade.n,gripe.v,braggart.n,brag.v,preen.v,boast.n,boastful.a,vaunt.v
+Growing_food	2	raise.v,grow.v
+Destiny	13	destiny.n,lot.n,the breaks.n,fate.n,doom.n,kismet.n,in the cards.adv,destined.a,stars.n,predestined.a,fated.a,doomed.a,fortune.n
+Being_active	3	actively.adv,inactive.a,active.a
+Expertise	73	awful.a,bad.a,wonderful.a,tremendous.a,superb.a,stupendous.a,so-so.a,mediocre.a,incredible.a,great.a,good.a,fantastic.a,excellent.a,dreadful.a,terrible.a,terrific.a,superlative.a,maven.n,outstanding.a,expert.n,splendid.a,expertise.n,know-how.n,expert.a,specialist.n,experience.n,new (to).a,familiar.a,experienced.a,excel.v,master.a,strong.a,mastery.n,layman.n,connoisseur.n,lay.a,pro.n,buff.n,ace.n,versed.a,well-versed.a,conversant.a,conversance.n,crack.a,skilled.a,skilful.a,ace.a,wizard.n,whiz.n,novice.n,inexperienced.a,inexpert.a,guru.n,proficient.a,proficiency.n,prowess.n,virtuoso.n,virtuosity.n,adept.a,adeptness.n,adept.n,skill.n,amateur.n,amateur.a,master.n,incompetent.a,incompetence.n,competent.a,competence.n,inept.a,ineptitude.n,ineptness.n,knowledgeable.a
+Path_traveled	4	circuit.n,course.n,path.n,orbit.n
+Participation	13	engage.v,concerned.a,embroiled.a,entangled.a,party.n,take part.v,entanglement.n,player.n,involved.a,involvement.n,participant.n,participation.n,participate.v
+Defending	7	defenses.n,defense.n,defend.v,defender.n,defensive.a,biodefense.n,hold.v
+Process_pause	0	
+Short_selling	1	sell short.v
+Preference	3	favor.v,disprefer.v,prefer.v
+Absorb_heat	25	singe.v,deep fry.v,braise.v,cook.v,coddle.v,sear.v,char.v,boil.v,poach.v,sizzle.v,fry.v,barbecue.v,roast.v,simmer.v,parboil.v,saute.v,scorch.v,steam.v,stew.v,toast.v,grill.v,broil.v,bake.v,brown.v,blanch.v
+Reshaping	17	scrunch.v,flatten.v,crumple.v,deformation.n,curl.v,dent.v,form.v,mold.v,shape.v,warp.v,squash.v,launch.v,bend.v,roll.v,squish.v,fold.v,crush.v
+Artificiality	14	bogus.a,phoney.a,fake.a,actual.a,counterfeit.a,pseudo.a,artificial.a,phoney.n,real.a,genuine.a,ersatz.a,true.a,disingenuous.a,false.a
+Arranging	9	order.v,justify.v,array.v,deploy.v,set up.v,arrangement.n,format.v,arrange.v,deployment.n
+Abusing	7	maltreat.v,domestic violence.n,abuse.v,abuse.n,maltreatment.n,batter.v,abusive.a
+Be_translation_equivalent	1	translate.v
+Change_operational_state	9	boot.v,cut off.v,shut off.v,kill.v,activate.v,turn off.v,turn on.v,cut.v,deactivate.v
+Sign_agreement	4	accede.v,signature.n,signatory.n,sign.v
+Attributes	0	
+Noise_makers	10	siren.n,guitar.n,xylophone.n,drum.n,cello.n,piano.n,bell.n,saxophone.n,alarm.n,rattle.n
+Drop_in_on	3	drop in.v,stop in.v,pop in.v
+Temporal_pattern	5	beat.n,rhythm.n,rhythmic.a,time.n,rhythmically.adv
+Indicating	5	finger.v,indicate.v,point out.idio,name.v,identify.v
+Retaining	4	keep.v,hang on to.v,retain.v,hold on to.v
+Becoming_detached	4	decouple.v,unhinge.v,detach.v,unhook.v
+Coming_to_be	14	arise.v,coalesce.v,appear.v,take shape.v,evolve.v,emerge.v,form.v,come into existence.v,evolution.n,materialize.v,develop.v,spring up.v,come to be.v,development.n
+Gesture	8	gesture.v,motion.v,nod.v,beckon.v,signal.v,wave.v,signal.n,gesticulate.v
+Visitor_and_host	0	
+Citing	6	summons.n,summon.v,notice to appear.n,summons.v,cite.v,citation.n
+Criminal_investigation	9	investigate.v,inquire.v,lead.n,case.n,investigation.n,clue.n,inquiry.n,probe.n,probe.v
+Colonization	10	colony.n,settlement [entity].n,colonize.v,settle.v,colonist.n,settler.n,populate.v,settlement [act].n,people.v,repopulate.v
+Cause_harm	72	cuff.v,fracture.v,gash.v,injure.v,jab.v,bruise.v,knock.v,lash.v,maul.v,pelt.v,strike.v,thwack.v,bash.v,belt.v,kick.v,buffet.v,horsewhip.v,smack.v,claw.v,squash.v,slap.v,knee.v,wound.v,pummel.v,electrocute.v,electrocution.n,poisoning.n,beat up.v,torture.v,flog.v,maim.v,impale.v,break.v,biff.v,batter.v,cane.v,flagellate.v,chop.v,poison.v,whip.v,transfix.v,stone.v,welt.v,spear.v,mutilate.v,stab.v,elbow.v,hurt.v,sting.v,punch.v,swipe.v,knife.v,strike.n,drug.v,twist.v,smash.v,run through.v,butt.v,beat.v,boil.v,hammer.v,bayonet.v,club.v,burn.v,cut.v,hit.v,crush.v,slice.v,bludgeon.v,clout.v,crack.v,cudgel.v
+Knot_creation	1	tie.v
+Seeking_to_achieve	3	seek.v,pursuit.n,pursue.v
+Goal	2	into.prep,to.prep
+Collocation_image_schema	0	
+Conditional_occurrence	8	if.scon,provided.scon,what if.scon,assuming.scon,supposing.scon,in the event.prep,in case.scon,as long as.scon
+Concessive	11	much as.scon,but.c,if.scon,despite.prep,in spite of.prep,although.scon,however.adv,nevertheless.adv,while.scon,though.scon,to be fair.adv
+Getting_underway	4	get under way.v,hit the road.v,head out.v,get going.v
+Willingness	9	willingness.n,loath.a,grudging.a,down.a,willing.a,unwilling.a,unwillingness.n,prepared.a,reluctant.a
+Medical_conditions	80	meningitis.n,menorrhagia.n,polio.n,psoriasis.n,pyelonephritis.n,rosacea.n,schizophrenia.n,sciatica.n,shock.n,stress.n,strongylosis.n,syphilis.n,tetanus.n,amnesia.n,tuberculosis.n,tumor.n,ulcer.n,rubella.n,mumps.n,bacterial meningitis.n,German measles.n,candida.n,affliction.n,ailment.n,wound.n,arthritis.n,condition.n,syndrome.n,stenosis.n,asphyxia.n,sick.a,ill.a,unwell.a,health.n,plague.n,anorexia.n,malnourishment.n,malnutrition.n,cholecystitis.n,paraplegic.a,cholera.n,healthy.a,cancer.n,cirrhosis.n,AIDS.n,cold.n,Alzheimer's.n,colitis.n,disorder.n,conjunctivitis.n,develop.v,cryptosporidiosis.n,diarrhea.n,depression.n,dermatitis.n,diabetes.n,diphtheria.n,diverticulosis.n,dysmenorrhoea.n,eczema.n,cataract.n,flu.n,influenza.n,hepatitis.n,asthma.n,hernia.n,hypertension.n,hypoglycaemia.n,bronchitis.n,illness.n,cholangitis.n,disease.n,sickness.n,acromegaly.n,infection.n,jaundice.n,leprosy.n,leukemia.n,malaria.n,measles.n
+Remembering_to_do	2	forget.v,remember.v
+Function	1	serve.v
+Removing	50	unload.v,expurgate.v,wash.v,eject.v,shave.v,evacuate.v,rinse.v,ejection.n,roust.v,eliminate.v,dust.v,elimination.n,extraction.n,empty.v,scrape.v,evacuation.n,rip.v,evict.v,tear.v,eviction.n,cut.v,excise.v,file.v,expel.v,clear.v,disgorge.v,expulsion.n,flush.v,expunge.v,weed.v,extract.v,amputate.v,dislodge.v,oust.v,drain.v,pluck.v,confiscate.v,prise.v,purge.n,purge.v,removal.n,remove.v,skim.v,snatch.v,strip.v,discard.v,swipe.v,take.v,withdraw.v,withdrawal.n
+Preferred_alternative_scenario	0	
+Breaking_out_captive	2	free.v,break out.v
+Education_teaching	27	teacher.n,educate.v,teach.v,educational.a,tutee.n,education.n,schoolmaster.n,tutor.v,instruct.v,study.v,train.v,pupil.n,coach.v,instruction.n,schoolteacher.n,tutor.n,student.n,schoolmistress.n,graduate.n,lecturer.n,cram.v,learn.v,school.v,master.v,protege.n,training.n,professor.n
+Medical_intervention	7	prevent.v,result.v,attempt.v,consist.v,indicate.v,treat.v,develop.v
+Corroding	3	corrode.v,rust.v,oxidize.v
+People_by_morality	13	saint.n,sinner.n,degenerate.n,malefactor.n,wrongdoer.n,low life.n,evildoer.n,reprobate.n,delinquent.n,villain.n,bad apple.n,miscreant.n,fink.n
+Attributed_information	4	according to.prep,source.n,viewpoint.n,on authority.idio
+Annoyance	3	irritated.a,frustrated.a,annoyed.a
+Convey_importance	4	emphasize.v,underscore.v,underline.v,stress.v
+Surpassing	8	outstrip.v,surpass.v,outdo.v,outshine.v,pale.v,better.v,exceed.v,eclipse.v
+Duration_relation	3	persist.v,for.prep,last.v
+Conditional_scenario	0	
+Come_down_with	5	contract.v,get.v,come down (with).v,acquire.v,catch.v
+Shopping	2	shopping.n,shop.v
+Infrastructure	2	infrastructure.n,base.n
+Hindering	29	hinder.v,trammel.v,interfere.v,repress.v,obstruction [entity].n,obstruction [act].n,hamper.v,slow.v,interference.n,retard.v,block.v,repressive.a,hurdle.n,impediment.n,obstructive.a,constrain.v,handicap.v,restrain.v,curtail.v,encumbrance.n,hold back.v,obstruct.v,hardship.n,impede.v,inhibit.v,delay.v,hindrance.n,restraint.n,encumber.v
+Crime_scenario	0	
+Mental_stimulus_stimulus_focus	6	interesting.a,fascinating.a,absorbing.a,engrossing.a,enthralling.a,captivating.a
+Temporal_collocation	32	while.c,as of late.adv,modern.a,ultimately.adv,now.adv,lately.adv,on.prep,as.adv,in.prep,of late.adv,at.prep,newly.adv,at present.adv,then.adv,overnight.adv,back then.n,within.prep,over.prep,prehistoric.a,during.prep,current.a,recently.adv,around.prep,future.a,ancient.a,nowadays.n,today.n,at the time.adv,when.adv,early.a,no longer.adv,currently.adv
+Alliance	2	coalition.n,alliance.n
+Win_prize	1	win.v
+Roadways	38	line.n,highway.n,bridge.n,artery.n,underpass.n,roadway.n,road.n,track.n,byway.n,thoroughfare.n,rail.n,street.n,autobahn.n,path.n,expressway.n,railway.n,sidewalk.n,pavement.n,route.n,cul-de-sac.n,flyover.n,railroad.n,way.n,tunnel.n,bypass.n,lane.n,runway.n,crosswalk.n,trail.n,freeway.n,pathway.n,overpass.n,driveway.n,avenue.n,boulevard.n,parkway.n,course.n,motorway.n
+Armor	6	plate.n,bulletproof vest.n,flak jacket.n,armor.n,greaves.n,mail.n
+Touring	9	tour.n,sights.n,tour.v,sight-see.v,tourist.n,do.v,tourism.n,see.v,sight seer.n
+Key	5	password.n,passcard.n,key.n,keycard.n,combination.n
+Sending	17	shipment [items].n,wire.v,ship.v,post.v,forward.v,refer.v,shipment [act].n,mail.v,fax.v,barge.v,telex.v,route.v,shipping.n,dispatch.v,send.v,express.v,export.v
+Inhibit_motion_scenario	0	
+Proximity_image_schema	0	
+Law_enforcement_agency	3	police department.n,police.n,fire department.n
+Building	15	make.v,fit together.v,weld.v,assemble.v,fashion.v,erect.v,construction.n,glue.v,raise.v,assembly.n,construction [entity].n,piece together.v,put together.v,construct.v,build.v
+Estimated_value	3	estimate.n,estimation.n,ballpark figure.n
+Becoming_silent	16	sh.intj,quiet down.v,quiet.v,stow it.v,quieten.v,hush.v,hush up.v,not a word.idio,shush.v,silence.v,shut up.v,button (one's) lip.v,pipe down.v,quiet.n,hold (one's) tongue.idio,seal (one's) lips.v
+Ontogeny	4	grow.v,growth.n,development.n,develop.v
+Friction	6	screech.v,scrape.v,grate.v,rasp.v,scrunch.v,squeal.v
+Importance	23	decisive.a,crucial.a,key.a,fundamental.a,count.v,epic.a,pivotal.a,significant.a,seriously.adv,serious.a,vital.a,critical.a,main.a,landmark.n,considerable.a,priority.n,acute.a,major.a,important.a,import.n,instrumental.a,significance.n,importance.n
+Presentation_of_mitigation	8	at any rate.adv,at a minimum.adv,in any case.adv,at least.adv,anyhow.adv,at the least.adv,in any event.adv,anyway.adv
+Reliance	6	dependence.n,dependency.n,rely.v,count.v,depend.v,reliance.n
+Create_physical_artwork	6	take [picture].v,sculpt.v,cast.v,artist.n,paint.v,draw.v
+Ambient_temperature	9	scorcher.n,temperature.n,cold.a,freezing.a,warm.a,cool.a,chilly.a,cold.n,hot.a
+First_rank	9	leading.a,principal.a,lead.a,main.a,chief.a,lead.n,primary.a,foremost.a,leader.n
+Victim_operated_IED	2	VOIED.n,PPIED.n
+Encounter	2	stumble.v,encounter.v
+Transfer	2	transfer.n,transfer.v
+Buildings	104	igloo.n,manse.n,mosque.n,outbuilding.n,outhouse.n,pagoda.n,palazzo.n,mansion.n,pavilion.n,lodge.n,penthouse.n,pyramid.n,monastery.n,rotunda.n,shebang.n,shed.n,skyscraper.n,hotel.n,stable.n,stadium.n,supermarket.n,synagogue.n,tabernacle.n,tavern.n,tepee.n,house.n,terminal.n,triplex.n,warehouse.n,wigwam.n,tower.n,hacienda.n,cabin.n,homestead.n,motel.n,bunker.n,palace.n,theater.n,pension.n,home.n,bar.n,pueblo.n,condominium.n,city hall.n,residence.n,castle.n,disco.n,shack.n,dacha.n,library.n,shanty.n,discotheque.n,shelter.n,dormitory.n,temple.n,tenement.n,bungalow.n,building.n,tent.n,structure.n,villa.n,hospital.n,housing.n,acropolis.n,cottage.n,fortress.n,arena.n,houseboat.n,fortification.n,auditorium.n,church.n,citadel.n,barn.n,fort.n,barracks.n,farmhouse.n,airport.n,basilica.n,dwelling.n,pub.n,blockhouse.n,high-rise.n,campanile.n,quarters.n,caravan.n,caravanserai.n,chalet.n,hostel.n,chateau.n,conservatory.n,garage.n,gazebo.n,greenhouse.n,hall.n,hangar.n,hippodrome.n,hovel.n,inn.n,kennel.n,kiosk.n,lighthouse.n,maisonette.n,mall.n,manor.n
+Institutionalization	8	institutionalization.n,admit.v,institutionalize.v,hospitalization.n,commit.v,hospitalize.v,commitment.n,admission.n
+Post_giving	0	
+Inherent_purpose	2	function.n,purpose.n
+Manufacturing	14	fabricate.v,produce.v,manufacture.v,industrial.a,manufacture.n,producer.n,maker.n,production.n,assembly line.n,make.v,fabrication.n,product.n,manufacturer.n,manufacturing.n
+Awareness_status	4	possible.a,suspected.a,known.a,presumed.a
+Image_schema	0	
+Manipulate_into_doing	16	cheat.v,deceive.v,fool.v,defraud.v,bully.v,manipulate.v,hustle.v,con.v,badger.v,trick.v,flatter.v,blackmail.v,cajole.v,harass.v,lure.v,dupe.v
+Reciprocality	0	
+Talking_into	5	induce.v,talk.v,lead.v,incite.v,influence.v
+Change_of_phase_scenario	0	
+Arriving	22	return.v,entrance.n,visit.n,return.n,reach.v,make.v,approach.n,get.v,make it.v,descend (on).v,entry.n,crest.v,visit.v,come.v,influx.n,approach.v,arrival.n,hit.v,appear.v,arrive.v,enter.v,find.v
+Invasion_scenario	0	
+Commerce_pay	6	payment.n,pay.v,disbursement.n,shell out.v,payer.n,disburse.v
+Emitting	10	emit.v,radiate.v,emanate.v,discharge.v,exude.v,excrete.v,void.v,give off.v,exhale.v,secrete.v
+Dynamism	16	lazy.a,sluggishness.n,lethargy.n,sluggish.a,lethargic.a,intensity.n,vibrant.a,vigorous.a,dynamism.n,energy.n,intense.a,energetic.a,dynamic.a,laziness.n,stamina.n,vigor.n
+Make_noise	105	plash.v,plonk.v,plop.v,purr.v,quack.v,rasp.v,rattle.v,roar.v,rustle.v,scrape.v,screech.v,scrunch.v,bark.v,sizzle.v,snarl.v,snicker.v,babble.v,snigger.v,snore.v,snort.v,bellow.v,sob.v,blare.v,sough.v,blast.v,squawk.v,bleat.v,squeak.v,caw.v,squeal.v,bray.v,thump.v,burble.v,thunder.v,cackle.v,tinkle.v,caterwaul.v,titter.v,chatter.v,toll.v,cheep.v,trumpet.v,chirp.v,tweet.v,chuckle.v,twitter.v,clang.v,ululate.v,clash.v,wail.v,clatter.v,whimper.v,click.v,whine.v,coo.v,whinny.v,cough.v,whisper.v,creak.v,whistle.v,croak.v,yammer.v,croon.v,yap.v,crunch.v,yelp.v,drone.v,yodel.v,fizzle.v,yowl.v,gasp.v,crepitate.v,giggle.v,laugh.v,gobble.v,clack.v,growl.v,sploosh.v,grunt.v,scream.v,guffaw.v,ring.v,gurgle.v,beep.v,hawk.v,hem and haw.v,hiss.v,boom.v,hoot.v,cry.v,howl.v,sound.v,hum.v,honk.v,keen.v,play.v,mew.v,toot.v,mewl.v,moan.v,moo.v,neigh.v,patter.v,peal.v,peep.v
+Cause_impact	23	slap.v,collide.v,run.v,thump.v,plow.v,rustle.v,strike.v,rattle.v,graze.v,jab.v,crash.v,bang.v,slam.v,clatter.v,thud.v,click.v,rap.v,clash.v,hit.v,clang.v,smack.v,clink.v,ram.v
+Post_receiving	0	
+Taking_captive	4	take captive.v,secure.v,capture.n,capture.v
+Sexual_reproduction_scenario	0	
+Religious_belief	4	faithful.n,believe.v,belief.n,faith.n
+Delimitation_of_diversity	2	from to.idio,range.v
+Intentionally_act	17	engage.v,activity.n,doing.n,carry out.v,agent.n,deed.n,do.v,action.n,actor.n,move.n,act.v,act.n,step.n,measures.n,conduct.v,execute.v,perform.v
+Attaching	55	tie.v,staple.v,tape.v,attachment [act].n,adhere.v,pin.v,bind.v,append.v,yoke.v,glue.v,detach.v,link.v,attachment [item].n,truss.v,affix.v,handcuff.v,agglutinate.v,connect.v,moor.v,join.v,tack.v,anchor.v,mount.v,fuse.v,solder.v,wire.v,secure.v,hitch.v,bracket.v,tying.n,untie.v,cinch.v,plaster.v,concatenate.v,lash.v,gum.v,hook.v,sew.v,stick.v,tether.v,shackle.v,strap.v,manacle.v,bond.v,attach.v,rivet.v,weld.v,chain.v,fix.v,fetter.v,tack on.v,nail.v,fasten.v,cement.v,paste.v
+Emotions_success_or_failure	4	unfulfilled.a,fulfilled.a,dissatisfied.a,satisfied.a
+Fire_emergency_scenario	0	
+Pre_getting	0	
+Result_of_attempt_scenario	0	
+Quantity	6	quantity.n,level.n,number.n,extent.n,amount.n,degree.n
+Receiving_scenario	0	
+Cause_to_start	21	generate.v,create.v,motivate.v,stimulate.v,set off.v,produce.v,arouse.v,actuate.v,excite.v,call forth.v,bring about.v,incite.v,provoke.v,stir up.v,engender.v,instigate.v,prompt.v,kindle.v,spark.v,elicit.v,trigger.v
+Transitive_action	0	
+Being_named	46	entitled.a,stage name.n,alias.n,given name.n,codename.n,named.a,name.n,codenamed.a,pet name.n,cognomen.n,pseudonym.n,by-name.n,agnomen.n,caconym.n,nickname.n,praenomen.n,misnomer.n,married name.n,allonym.n,nee.a,soubriquet.n,brand name.n,patronymic.n,forename.n,trivial name.n,maiden name.n,metronymic.n,moniker.n,eponym.n,Christian name.n,aka.a,designated.a,pen name.n,also known as.a,family name.n,go.v,nom de plume.n,nameless.a,nom de guerre.n,known.a,surname.n,first name.n,so-called.a,full name.n,middle name.n,last name.n
+Out_of_existence	4	gone.a,a thing of the past.n,toast.n,history.n
+Visitor_arrival	0	
+Vocalizations	3	squeak.n,cry.n,howl.n
+Assigned_location	4	station.v,post.n,place.n,station.n
+Perception_body	18	discomfort.n,hurt.v,tickle.v,tingle.v,burn.v,sting.v,be killing.v,prickle.v,ail.v,pain.v,hum.v,chafe.v,ache.v,pain.n,smart.v,itch.v,spin.v,goosebump.n
+Economy	2	economy.n,economic.a
+Breaking_apart	8	fragment.v,break down.v,crumble.v,snap.v,splinter.v,shatter.v,break apart.v,break.v
+People_by_vocation	94	server.n,web developer.n,software developer.n,homemaker.n,flight attendant.n,saleswoman.n,salesperson.n,student.n,artist.n,musician.n,singer.n,painter.n,politician.n,dancer.n,writer.n,editor.n,actor.n,producer.n,scientist.n,director.n,designer.n,actress.n,neuroscientist.n,farmer.n,technician.n,biologist.n,pilot.n,waitress.n,chemist.n,toxicologist.n,physicist.n,engineer.n,anthropologist.n,double agent.n,linguist.n,researcher.n,psychologist.n,professional.a,psychiatrist.n,private eye.n,archaeologist.n,mathematician.n,agent.n,sociologist.n,journalist.n,fire fighter.n,judge.n,firefighter.n,mechanic.n,driver.n,oilman.n,programmer.n,receptionist.n,reporter.n,scholar.n,veterinarian.n,trader.n,mole.n,spy.n,lawyer.n,businessperson.n,speculator.n,architect.n,plain-clothes man.n,magistrate.n,police officer.n,carpenter.n,officer.n,spokesperson.n,spokeswoman.n,gardener.n,spokesman.n,policeman.n,bodyguard.n,salesman.n,police.n,attendant.n,tailor.n,correspondent.n,servant.n,cook.n,manager.n,manservant.n,professor.n,senator.n,waiter.n,attorney.n,maid.n,athlete.n,chef.n,bartender.n,teacher.n,clerk.n,consultant.n
+Commerce_scenario	6	goods.n,price.n,commerce.n,trafficker.n,merchandise.n,supply side.n
+Nuclear_process	12	fuse.v,nuclear.a,fissile.a,fusion.n,decay.v,thermonuclear.a,radioactive.a,fission.v,decay.n,fission.n,radioactivity.n,fusable.a
+Prominence	7	prominent.a,blatant.a,flashy.a,conspicuous.a,eye-catching.a,salient.a,quiet.a
+Judicial_body	4	court.n,tribunal.n,judiciary.n,judicial.a
+Activity	0	
+People_by_military_specialty	4	gunner.n,infantryman.n,sniper.n,signaller.n
+Simple_naming	2	call.v,term.v
+Topic	16	treat.v,cover.v,on.prep,theme.n,subject.n,regard.n,about.prep,discuss.v,dwell (on).v,concern.v,concerning.prep,address.v,topic.n,regarding.prep,refer.v,regard.v
+Atonement	7	atoner.n,expiatory.a,expiation.n,expiator.n,expiate.v,atone.v,atonement.n
+Opinion	15	believe.v,think.v,expect.v,feel.v,figure.v,subscribe.v,take.n,believer.n,belief.n,suppose.v,hold.v,sense.n,view.n,subscriber.n,opinion.n
+Using	13	utilise.v,use.n,utilisation.n,application.n,avail oneself.v,apply.v,employment.n,operate.v,exercise.v,use.v,operational.a,operation.n,employ.v
+Activity_resume	3	renew.v,resume.v,restart.v
+Traversing	14	pass.v,leap.v,mount.v,descent.n,hop.v,jump.v,circle.v,traverse.v,ascend.v,skirt.v,cross.v,ascent.n,crisscross.v,descend.v
+Sufficiency	22	insufficient.a,enough.adv,adequate.a,sufficient.a,serve.v,adequately.adv,enough.a,adequacy.n,suffice.v,plenty.adv,insufficiently.adv,enough.n,inadequacy.n,inadequate.a,too.adv,sufficiently.adv,so.adv,inadequately.adv,insufficiency.n,plenty.n,plenty.a,ample.a
+Successful_action	12	come off.v,manage.v,succeed.v,do it.v,unsuccessful.a,success.n,failed.a,do the trick.v,serve.v,go wrong.v,fail.v,successful.a
+Memorization	4	commit to memory.v,memorise.v,memorization.n,learn.v
+Exemplariness	3	exemplary.a,standard.a,prototypical.a
+Bounded_entity	0	
+Give_impression	9	seem.v,stink.v,smell.v,look.v,appear.v,feel.v,sound.v,taste.v,reek.v
+Accoutrements	77	medal.n,medallion.n,ribbon.n,badge.n,armband.n,armlet.n,goggles.n,mitre.n,helm.n,helmet.n,gorget.n,greaves.n,coif.n,hauberk.n,tiara.n,mantle.n,circlet.n,gas mask.n,diadem.n,chain.n,locket.n,pendant.n,wig.n,toupee.n,cufflink.n,glasses.n,spectacles.n,brooch.n,hat.n,hat-pin.n,cap.n,ring.n,bonnet.n,mask.n,anklet.n,bandanna.n,regalia.n,headband.n,hairpiece.n,fez.n,earring.n,skullcap.n,jewellery.n,top-hat.n,accoutrement.n,yarmulkah.n,balaclava.n,necklace.n,beret.n,crown.n,biretta.n,boater.n,bracelet.n,bowler.n,coronet.n,nightcap.n,panama.n,bangle.n,sombrero.n,trilby.n,turban.n,shako.n,veil.n,headdress.n,headpiece.n,belt.n,trinket.n,choker.n,sporran.n,snood.n,hairnet.n,hairslide.n,hairpin.n,hairband.n,hairgrip.n,sash.n,watch.n
+Damaging	17	vandalise.v,key.v,scratch.v,nick.v,chip.v,score.v,rip.v,sabotage.v,tear.v,dent.v,damage.n,rend.v,scrape.v,damage.v,deface.v,vandalism.n,mar.v
+Being_in_control	9	domination.n,manage.v,manipulate.v,rule.v,control.n,manipulation.n,dominate.v,control.v,management.n
+Strictness	7	indulgent.a,strict.a,liberal.a,lenient.a,tolerant.a,severe.a,authoritarian.a
+Misdeed	6	sin.n,peccadillo.n,transgression.n,transgress.v,sin.v,misdeed.n
+Relation	1	relation.n
+Hospitality	3	red carpet.n,hospitality.n,hospitable.a
+Soaking_up	3	absorb.v,soak up.v,sponge.v
+Partitive	2	out of.prep,of.prep
+Heralding	1	herald.v
+Render_nonfunctional	6	break.v,incapacitate.v,hose.v,knock out.v,disable.v,total.v
+Thriving	9	slump.n,do.v,fare.v,prosper.v,thrive.v,prosperity.n,live.v,flourish.v,languish.v
+Clemency	1	clemency.n
+Prison	10	prison.n,joint.n,jailhouse.n,penitentiary.n,stockade.n,correctional institution.n,slammer.n,brig.n,jail.n,pen.n
+Source_path_goal	0	
+Apply_heat	41	parboil.v,steaming.n,roast.v,baking.n,cooking.n,char.v,bake.v,blanch.v,stewing.n,brown.v,scorch.v,steep.v,braise.v,barbecue.v,scald.v,boil.v,grilling.n,toasting.n,steam.v,microwave.v,simmer.v,deep fry.v,sear.v,boiling.n,frying.n,cook.v,broiling.n,broil.v,coddle.v,toast.v,grill.v,roasting.n,melting.n,fry.v,melt.v,stew.v,singe.v,poach.v,simmering.n,saute.v,plank.v
+Firefighting	8	battle.n,tackle.v,fire fighting.n,fight.v,battle.v,attack.v,control.v,gain ground.idio
+Obligation_scenario	0	
+Rate_quantification	1	rate.n
+Cause_to_resume	4	revive.v,reinstate.v,restart.v,resume.v
+Change_post-state	4	changed.a,altered.a,unaltered.a,unchanged.a
+Sentencing	5	condemn.v,order.v,sentence.n,send up.v,sentence.v
+Mining	3	extract.v,miner.n,mine.v
+Stimulus_focus	179	bothersome.a,upsetting.a,spine-chilling.a,dismaying.a,soothing.a,irksome.a,sickening.a,unpleasant.a,mortifying.a,agonizing.a,alarming.a,delightful.a,uplifting.a,pleasant.a,worrisome.a,hair-raising.a,cheering.a,pleasing.a,disillusioning.a,blood-curdling.a,heart-warming.a,unnerving.a,thrilling.a,heartening.a,galling.a,stimulating.a,troubling.a,enjoyable.a,aggravating.a,irritating.a,terrifying.a,frightening.a,gratifying.a,vexatious.a,startling.a,stirring.a,embittering.a,perplexing.a,annoying.a,infuriating.a,stupefying.a,enraging.a,shocking.a,tormenting.a,reassuring.a,comforting.a,discomfiting.a,unsettling.a,disheartening.a,displeasing.a,pitiful.a,sobering.a,stinging.a,maddening.a,pleasurable.a,vexing.a,pathetic.a,beguiling.a,worrying.a,exasperating.a,discomforting.a,unpleasing.a,revolting.a,captivating.a,tiring.a,intimidating.a,scary.a,traumatising.a,traumatic.a,poignant.a,repellent.a,disorientating.a,alienating.a,mystifying.a,boring.a,tiresome.a,thorny.a,astonishing.a,electrifying.a,astounding.a,invigorating.a,appalling.a,disagreeable.a,baffling.a,agreeable.a,bewildering.a,nice.a,bewitching.a,dreadful.a,calming.a,distasteful.a,relaxing.a,ghastly.a,charming.a,abominable.a,confusing.a,delight.n,consoling.a,aggravation.n,surprising.a,depressing.a,annoyance.n,disappointing.a,vexation.n,disconcerting.a,amusing.a,discouraging.a,jolly.a,distressing.a,disturbing.a,engrossing.a,harrowing.a,embarrassing.a,chilling.a,enchanting.a,touching.a,entertaining.a,amazing.a,enthralling.a,empty.a,exciting.a,fulfilling.a,exhilarating.a,full.a,pacifying.a,rich.a,placating.a,unfulfilling.a,heartbreaking.a,satisfying.a,nerve-racking.a,solemn.a,stressful.a,mind-boggling.a,spine-tingling.a,breathtaking.a,heart-rending.a,impressive.a,heart-stopping.a,formidable.a,suspenseful.a,striking.a,sad.a,disgusting.a,hilarious.a,charm [mass].n,unfunny.a,charm [count].n,droll.a,recreation.n,comical.a,relaxation.n,white-knuckle.a,insulting.a,rousing.a,rest.n,tear-jerking.a,cool.a,funny.a,color.n,jaw-dropping.a,strike a chord.v,earth-shattering.a,dear.a,devastating.a,side-splitting.a,humorous.a,dull.a,unexciting.a,intriguing.a,fascinating.a,offensive.a,encouraging.a,mind-numbing.a,troublesome.a,tedious.a,gripping.a,absorbing.a,saddening.a
+Motion_noise	38	zing.v,whine.v,whir.v,thunder.v,clank.v,thump.v,clunk.v,thud.v,clatter.v,swish.v,click.v,wheeze.v,clack.v,fizz.v,patter.v,ping.v,creak.v,bang.v,clang.v,crackle.v,howl.v,gurgle.v,purr.v,putter.v,rumble.v,squelch.v,splash.v,roar.v,crunch.v,clink.v,hiss.v,rustle.v,screech.v,buzz.v,crash.v,splutter.v,chug.v,clump.v
+Change_resistance	3	bulwark.v,buttress.v,brace.v
+Set_relation	0	
+Fire_end_scenario	0	
+Body_parts	95	tentacle.n,incisor.n,appendage.n,crown.n,body.n,thigh.n,jaw.n,forefinger.n,cheek.n,mouth.n,hindquarters.n,bill.n,ear.n,thumb.n,flesh.n,heel.n,arm.n,limb.n,mustache.n,foreleg.n,neck.n,forefoot.n,thorax.n,hair.n,paw.n,eye.n,buttocks.n,forepaw.n,hoof.n,chest.n,tail.n,lung.n,trunk.n,eyelid.n,horn.n,earlobe.n,head.n,fin.n,breast.n,muzzle.n,beak.n,beard.n,tongue.n,wing.n,anus.n,forelimb.n,nose.n,hindleg.n,elbow.n,flipper.n,finger.n,fang.n,skin.n,maw.n,snout.n,foot.n,fluke.n,belly.n,antenna.n,forearm.n,claw.n,mane.n,throat.n,groin.n,pelt.n,chin.n,tooth.n,back.n,hindlimb.n,rump.n,hand.n,brow.n,midriff.n,shoulder.n,fingertip.n,sole.n,feeler.n,knee.n,leg.n,lip.n,navel.n,member.n,forehead.n,toe.n,toenail.n,nostril.n,whisker.n,talon.n,ankle.n,antler.n,pupil.n,face.n,fingernail.n,temple.n,nape.n
+Being_rotted	6	putrid.a,rotted.a,rotten.a,mouldy.a,rancid.a,decayed.a
+Commutative_process	4	multiply.v,add.v,multiplication.n,addition.n
+Differentiation	10	sort.v,distinguishable.a,discrimination.n,separate.v,tell from.v,differentiate.v,distinguish.v,tell apart.v,discriminate.v,know.v
+Partiality	14	favor.v,partial.a,bias.n,neutrality.n,prefer.v,prejudice.n,partiality.n,prejudiced.a,impartiality.n,impartial.a,bias.v,neutral.a,biased.a,prejudge.v
+Rescuing	2	save.v,rescue.v
+Emotion_directed	186	dismayed.a,disoriented.a,distressed.a,ecstatic.a,elated.a,displeased.a,embittered.a,enraged.a,exasperated.a,exhilarated.a,fed-up.a,gleeful.a,gratified.a,grief-stricken.a,heartbroken.a,horrified.a,indignant.a,infuriated.a,discouraged.a,frightened.a,mortified.a,glee.n,grief.n,mourning.n,disheartened.a,sympathetic.a,sympathize.v,unsympathetic.a,thrilled.a,saddened.a,irate.a,irked.a,ruffled.a,jubilant.a,abashed.a,mournful.a,flustered.a,mystified.a,disquieted.a,humiliated.a,nervous.a,flummoxed.a,nettled.a,nonplussed.a,offended.a,disconsolate.a,overjoyed.a,glum.a,peeved.a,woebegone.a,perplexed.a,lugubrious.a,perturbed.a,desolate.a,interest.n,wretched.a,concern.n,miserable.a,fed up.a,blue.a,all about.prep,despondent.a,demolished.a,downcast.a,fury.n,low-spirited.a,outrage.n,crestfallen.a,crushed.a,disgruntled.a,bitterness.n,downhearted.a,OK.a,flabbergasted.a,fine.a,affronted.a,misery.n,incensed.a,grim.a,overwrought.a,harried.a,riled.a,agonized.a,inconsolable.a,stunned.a,befuddled.a,anguished.a,happy.a,revulsion.n,vexation.n,anger.n,vexed.a,anguish.n,traumatised.a,agony.n,annoyance.n,despondency.n,disquiet.n,sad.a,elation.n,tormented.a,bafflement.n,astonishment.n,worried.a,bewilderment.n,perplexity.n,puzzlement.n,stupefaction.n,shocked.a,mystification.n,dismay.n,discomfiture.n,disgruntlement.n,resentful.a,disorientation.n,stressed.a,discouragement.n,glumness.n,annoyed.a,relaxed.a,disconcertion.n,displeasure.n,dejection.n,sorrow.n,terror-stricken.a,embarrassment.n,revolted.a,exhilaration.n,stupefied.a,disappointment.n,pleased.a,exasperation.n,agitation.n,embarrassed.a,amusement.n,livid.a,boredom.n,distress.n,fascinated.a,chagrined.a,sickened.a,excitement.n,gratification.n,heartbreak.n,rattled.a,horror.n,startled.a,mortification.n,cross.a,appalled.a,sadness.n,sympathy.n,agitated.a,miffed.a,alarmed.a,excited.a,amused.a,ashamed.a,astonished.a,upset.a,astounded.a,baffled.a,bewildered.a,disappointed.a,bored.a,mad.a,chagrin.n,concerned.a,contented.a,angry.a,sore.a,covetous.a,dejected.a,unsettled.a,delight.n,petrified.a,delighted.a,depressed.a,despair.n,devastated.a,anxious.a,discomfited.a,furious.a,disconcerted.a,irritated.a,sorrowful.a
+Self_motion	152	crawl.v,clomp.v,canter.v,bustle.v,clamber.v,climb.v,bound.v,bop.v,barge.v,burrow.v,back.v,caper.v,creep.v,dance.v,dart.v,dash.n,dash.v,flit.v,flounce.v,frolic.v,gallivant.v,gambol.v,hasten.v,hike.n,hike.v,hitchhike.v,hobble.v,hop.v,hurry.v,jaunt.n,jog.v,jump.v,leap.v,limp.v,lope.v,amble.v,lumber.v,trip.v,lunge.v,troop.v,lurch.v,trot.v,march.n,trudge.v,march.v,trundle.v,meander.v,vault.v,mince.v,waddle.v,mosey.v,wade.v,pace.v,walk.n,pad.v,waltz.v,parade.v,wander.v,plod.v,wriggle.v,pounce.v,slosh.v,prance.v,slop.v,promenade.v,skim.v,prowl.v,goose-step.v,roam.v,crawl.n,romp.v,proceed.v,run.v,sidle.v,rush.v,fly.v,sashay.v,head.v,saunter.v,repair.v,scamper.v,make.v,scoot.v,stalk.v,scramble.n,venture.v,scramble.v,storm.v,scurry.v,make a beeline.v,scuttle.v,walk.v,shuffle.n,drive.v,shuffle.v,sail.v,skip.v,coast.v,skulk.v,cruise.v,slalom.v,tack.v,sleepwalk.v,taxi.v,slink.v,shoulder.v,slither.v,nance.v,slog.n,swing.v,slog.v,edge.v,sneak.v,rove.v,spring.v,way.n,sprint.n,advance.v,sprint.v,file.v,stagger.v,take to the air.v,steal.v,rip.v,step.n,slip.v,step.v,slouch.v,stomp.v,enroute.a,straggle.v,press.v,stride.v,shrink.v,stroll.n,en route.adv,stroll.v,ramble.n,strut.v,hiker.n,stumble.v,whisk.v,swagger.v,swim.n,swim.v,tiptoe.v,toddle.v,totter.v,traipse.v,tramp.v,tread.v,trek.v
+Vehicle_departure_initial_stage	3	lift off.v,cast off.v,take off.v
+Cause_to_be_dry	10	dry out.v,dehydrate.v,dry up.v,dehumidification.n,dehumidify.v,desiccate.v,desiccation.n,anhydrate.v,dry off.v,dry.v
+Measure_by_action	3	bite.n,splash.n,pinch.n
+Expected_location_of_person	3	in.prep,out.prep,home.n
+Feigning	7	fake.v,stage.v,affect.v,pretend.v,counterfeit.v,simulate.v,feign.v
+Contrition	16	rue.v,repentant.a,repent.v,penitence.n,remorse.n,remorseful.a,rueful.a,guilty.a,repentance.n,penitent.a,guilt.n,remorseless.a,unrepentant.a,contrition.n,sorry.a,contrite.a
+Supply	14	supplier.n,furnish.v,outfit.v,afford.v,provision.n,fuel.v,equipment.n,fix up.v,provision.v,supply.n,issue.v,supply.v,equip.v,provide.v
+Being_in_effect	7	effective.a,void.a,effect.n,valid.a,force.n,null.a,binding.a
+Making_faces	7	smile.v,smirk.v,scowl.v,grimace.v,grin.v,pout.v,frown.v
+Inhibit_movement	12	tie.v,hold.v,lock.v,immure.v,constraint.n,confinement.n,constrain.v,restrict.v,confine.v,imprison.v,detain.v,shut up.v
+Mass_motion	15	swarm.v,flood.v,parade.v,rain.v,hail.v,shower.v,pelt.v,troop.v,stream.v,pour.v,throng.v,flock.v,crowd.v,roll.v,teem.v
+Change_of_consistency	12	clot.v,curdle.v,congeal.v,indurate.v,coagulate.v,thicken.v,coagulation.n,jell.v,set.v,thin.v,harden.v,soften.v
+Operational_testing	10	test.v,flight test.v,trial.n,test.n,flight-testing.n,flight test.n,crash-test.v,flight-test.v,testing.n,try out.v
+Appointing	7	accredited.a,designate.v,finger.v,appoint.v,tap.v,accredit.v,name.v
+Guilt_or_innocence	5	innocence.n,guilt.n,blood on hands.n,guilty.a,innocent.a
+Condition_symptom_relation	35	manifest.v,suggest.v,asymptomatic.a,due to.prep,cause.n,occur.v,cause.v,result.n,see.v,observe.v,present.v,symptomatic.a,consequence.n,characteristic.n,frequent.a,uncommon.a,provoke.v,lead.v,present.a,associate.v,contribute.v,mimic.v,result.v,produce.v,indicate.v,characterize.v,induce.v,manifest.n,include.v,relate.v,show.v,symptom.n,link.v,common.a,damage.v
+Risk_scenario	0	
+Attempt_distant_interaction_scenario	0	
+Passing_off	2	pass off.v,palm off.v
+Cure	27	heal.v,incurable.a,therapeutic.a,palliation.n,curative.a,cure.n,palliate.v,curable.a,resuscitate.v,remedy.v,alleviate.v,rehabilitate.v,palliative.a,nurse.v,therapy.n,healer.n,alleviation.n,rehabilitative.a,therapist.n,rehabilitation.n,ease.v,cure.v,remedy.n,treat.v,curative.n,palliative.n,treatment.n
+Rite	38	worship.n,confirmation.n,vesper.n,sacrifice.v,communion.n,order.v,consecrate.v,exercise.n,prayer.n,christen.v,pray.v,mass.n,bless.v,blessing.n,anoint.v,unction.n,rite.n,ritual.n,confirm.v,circumcise.v,circumcision.n,service.n,ordination.n,vigil.n,confession.n,baptize.v,sacrament.n,ordain.v,christening.n,consecration.n,baptism.n,bar mitzvah.n,sacrifice.n,eucharist.n,initiate.v,initiation.n,rite of passage.n,evensong.n
+Desirable_event	6	bad idea.n,should.v,be supposed to.v,have to.v,ought to.v,good idea.n
+People_along_political_spectrum	5	far left.n,far-left.n,conservative.n,leftist.n,left.n
+Robbery	13	robbery.n,mugging.n,robber.n,stick up.v,mug.v,hold-up.n,ransack.v,rifle.v,mugger.n,hold up.v,stick-up.n,rob blind.v,rob.v
+Bond_maturation	3	maturity.n,endow.v,mature.v
+Halt	4	halt.v,to a stop.adv,stop.v,to a halt.adv
+Activity_pause	7	take break.v,adjourn.v,freeze.v,pause.n,moratorium.n,suspend.v,freeze.n
+Submitting_documents	5	submission.n,turn in.v,submit.v,file.v,hand in.v
+Mention	2	mention.v,touch (on).v
+Openness	3	open.a,dark.a,closed.a
+Commonality	6	share.v,mutual.a,in common.a,common.a,collective.a,shared.a
+Have_as_translation_equivalent	1	translate.v
+Reassuring	2	reassure.v,reassurance.n
+Diversity	27	range.n,varied.a,miscellany.n,breadth.n,diverse.a,uniform.a,array.n,heterogeneous.a,variety.n,heterogeneity.n,diverseness.n,homogeneity.n,mixed bag.n,uniformity.n,homogeneous.a,multifariousness.n,assortment.n,multiplicity.n,multifarious.a,various.a,manifold.a,medley.n,variability.n,assorted.a,diversity.n,scope.n,broad.a
+Process	1	process.n
+Endangering	4	endangerment.n,jeopardise.v,imperil.v,endanger.v
+Being_in_captivity	2	captivity.n,prisoner.n
+Import_export_scenario	4	exporter.n,trans-shipping.n,transship.v,importer.n
+Artifact	13	technology.n,control panel.n,phone.n,wheel.n,board.n,board [game].n,spatula.n,biotechnology.n,whisk.n,tub.n,timer.n,oven.n,artifact.n
+Locale	13	region.n,site.n,place.n,grounds.n,spot.n,pocket.n,earth.n,location.n,point.n,locale.n,zone.n,area.n,regional.a
+Product_delivery	0	
+Getting	11	procurement [act].n,acquire.v,obtain.v,score.v,acquisition [act].n,gain.v,acquisition [entity].n,win.v,get.v,procure.v,secure.v
+Freeing_from_confinement	1	spring.v
+Fire_break	2	fire break.n,fire line.n
+Cause_to_be_included	2	add.v,include.v
+Working_a_post	3	man.v,work.v,staff.v
+Disgraceful_situation	2	disgraceful.a,shameful.a
+Graph_shape	2	plot.n,trace.n
+Rewards_and_punishments	10	disciplinary.a,recompense.v,punishment [penalty].n,reward.n,punish.v,penalty.n,discipline.v,punitive.a,reward.v,punishment [act].n
+Fields	16	industrial.a,art.n,sector.n,area.n,literary.a,industry.n,math.n,in.prep,artistic.a,technical.a,field.n,mathematics.n,literature.n,finance.n,theater.n,history.n
+Dominate_competitor	4	domination.n,dominate.v,dominant.a,strongman.n
+Locale_by_characteristic_entity	3	quarter.n,belt.n,enclave.n
+Basis_for_attribute	0	
+Visit_host_stay	0	
+Remembering_information	3	forget.v,draw blank.v,remember.v
+Billing	3	bill.v,invoice.v,invoice.n
+Response_scenario	0	
+Storing	7	store.v,keep.v,cellar.v,storage.n,cache.v,warehouse.v,stock.v
+Bearing_arms	9	bear arms.v,armed.a,draw.v,pack.v,carry.v,nuclear.a,gunman.n,unarmed.a,weaponless.a
+Risky_situation	10	safe.a,warm.a,danger.n,safely.adv,unsafe.a,dangerous.a,risky.a,risk.n,riskily.adv,threat.n
+Exclude_member	5	expulsion.n,expel.v,exclude.v,excommunication.n,excommunicate.v
+Location_of_light	47	glimmer.v,scintillate.v,illuminate.v,glow.v,brilliant.a,sparkle.v,glow.n,flame.v,twinkle.n,flicker.v,shimmer.v,bright.a,flash.n,lustre.n,light up.v,coruscation.n,glittering.a,glossy.a,shine.n,shiny.a,glister.v,gleam.n,shining.a,lambent.a,refulgence.n,lambency.n,flash.v,gleaming.a,sheen.n,glistening.a,light.n,gleam.v,twinkle.v,glister.n,glint.v,shine.v,flare.v,glitter.n,glisten.v,coruscate.v,flicker.n,flashing.a,glint.n,glimmer.n,refulgent.a,glitter.v,scintillation.n
+Death	20	mortal.a,death.n,starvation.n,expire.v,mortality.n,suffocate.v,suffocation.n,starve.v,asphyxiate.v,end.n,croak.v,die.v,kick the bucket.v,terminator.n,perish.v,croak it.v,pass away.v,drown.v,decease.v,demise.n
+Finish_competition	13	win.n,winner.n,tie.v,victorious.a,tie.n,draw.n,loss.n,fold.v,win.v,victor.n,show.v,lose.v,victory.n
+Access_scenario	0	
+Contacting	24	reach.v,telephone.v,telex.v,page.v,ring up.v,fax.v,write in.v,write.v,e-mail.v,call.v,phone.v,telegraph.v,call in.v,radio.v,ring.v,get through.v,cable.v,contact.n,contact.v,get in touch.v,call.n,call up.v,phone in.v,mail.v
+Delimited_state_scenario	0	
+Clothing_parts	40	zip.n,sash.n,lace.n,strap.n,hood.n,cowl.n,skirt.n,breastplate.n,waist-band.n,bootlace.n,clasp.n,shoelace.n,seam.n,placket.n,monogram.n,decolletage.n,cuff-link.n,waist.n,hem.n,insole.n,waistband.n,waistline.n,sole.n,brim.n,neckband.n,thong.n,neck.n,tassel.n,buckle.n,sleeve.n,collar.n,fringe.n,leg.n,button.n,pocket.n,zipper.n,cuff.n,braid.n,seat.n,snap.n
+Sharpness	3	sharp.a,blunt.a,dull.a
+Renting	4	rent.v,hire.v,charter.v,lease.v
+Membership	6	membership.n,membership [status].n,belong.v,part.n,member.n,associated.a
+Conferring_benefit	2	benefit.v,benefit.n
+Attempt_means	2	give try.idio,try.v
+Reliance_on_expectation	2	bank (on).v,count (on).v
+Entity	6	what.n,thing.n,item.n,individual.n,object.n,entity.n
+Knot_creation_scenario	0	
+Weapon	69	machine-gun.n,nerve gas.n,gun.n,bow.n,EFP.n,chemical.a,spear.n,rocket.n,mine.n,biological weapon.n,firearm.n,missile.n,plastic explosive.n,explosive.n,rifle.n,weapon of mass destruction.n,ordnance.n,six-shooter.n,BW.n,dynamite.n,mortar.n,crossbow.n,mustard gas.n,assault rifle.n,cannon.n,handgun.n,CW.n,C4.n,automatic weapon.n,gat.n,shooter.n,chemical weapon.n,grenade.n,nuclear weapon.n,atomic weapon.n,artillery.n,AK-47.n,weaponry.n,Scud-C missile.n,phosgene.n,warhead.n,WMD.n,RPG.n,revolver.n,explosive.a,pistol.n,Scud-B missile.n,ballistic missile.n,arsenal.n,Scud-B.n,nuclear.a,weapon.n,strategic.a,shotgun.n,shell.n,atomic bomb.n,small arms.n,ICBM.n,biological.a,sword.n,club.n,garrotte.n,flame-thrower.n,forty-four.n,strategic nuclear weapon.n,knife.n,bomb.n,arms.n,twenty-two.n
+Luck	9	luckily.adv,poor.a,fortunately.adv,happy.a,fortune.n,lucky.a,fortuitous.a,fortunate.a,luck.n
+Sports_jargon	3	strike [baseball].n,serve.n,strike [bowling].n
+Reference_text	4	see.v,qv.v,cf.v,refer.v
+Precipitation	22	sleet.n,hail.n,rain event.n,sleet.v,precipitation.n,drizzle.v,snowfall.n,rain.n,rain.v,hail.v,snow.v,snow [event].n,torrential.a,precipitation [event].n,downpour.n,shower.v,drizzle.n,torrent.n,rainfall.n,shower.n,snow.n,sprinkle.v
+Imitating	4	imitate.v,ape.v,copy.v,mimic.v
+Relative_time	39	come on heels.v,prior.a,subsequently.adv,subsequent.a,succeed.v,sooner.adv,coming.a,predate.v,erstwhile.a,last.a,late [at night].a,previous.a,antecedent.a,premature.a,latest.a,follow.v,late.a,precede.v,belated.a,punctuality.n,after.prep,past.a,next.a,in parallel.a,behind.adv,punctually.adv,overdue.a,sooner rather than later.adv,punctual.a,recent.a,early.a,as.adv,preceding.a,while.c,following.a,tardy.a,on time.adv,later.adv,ahead.adv
+Shapes	23	round.a,circle.n,line.n,cube.n,curve.n,oval.n,strip.n,stick.n,length.n,v.n,ellipse.n,circular.a,coil.n,shape.n,expanse.n,row.n,ball.n,triangle.n,stretch.n,wedge.n,ribbon.n,sheet.n,square.n
+Margin_of_resolution	5	close.a,decisiveness.n,narrow.a,narrowly.adv,decisive.a
+Cognitive_impact	2	strike.v,hit.v
+Reading_perception	8	perusal.n,read.v,scan.v,skim.v,reader.n,pore.v,peruse.v,devour.v
+Hit_target	3	pick off.v,hit.v,shoot.v
+Duration_scenario	0	
+Containers	120	bag.n,urn.n,crate.n,tank.n,pack.n,teaspoon.n,crock.n,pot [cooking].n,sarcophagus.n,safe.n,crucible.n,ashtray.n,tun.n,planter.n,cruet.n,stein.n,pot.n,glass.n,cup.n,spittoon.n,drawer.n,cuspidor.n,pannier.n,basin.n,goldfish bowl.a,cylinder.n,flask.n,ramekin.n,amphora.n,tub.n,cask.n,reticule.n,handbag.n,carryall.n,knapsack.n,suitcase.n,salver.n,censer.n,samovar.n,reservoir.n,chalice.n,barrel.n,snifter.n,chest.n,can.n,basket.n,creamer.n,backpack.n,thermos.n,wallet.n,decanter.n,tureen.n,dish.n,spoon.n,valise.n,ladle.n,dispenser.n,cauldron.n,envelope.n,drum.n,tin.n,satchel.n,casserole.n,duffel bag.n,folder.n,purse.n,flagon.n,bin.n,empty.n,rucksack.n,bowl.n,box.n,jar.n,pouch.n,etui.n,briefcase.n,vial.n,cart.n,goblet.n,bucket.n,vase.n,grail.n,canister.n,pail.n,hamper.n,canteen.n,pipette.n,haversack.n,carafe.n,bottle.n,tumbler.n,hopper.n,carton.n,vat.n,jeroboam.n,cartridge.n,beaker.n,vivarium.n,capsule.n,locker.n,mug.n,jigger.n,case.n,punch bowl.n,casket.n,jug.n,coffer.n,toilet bowl.n,sack.n,keg.n,wine bottle.n,coffin.n,magnum.n,chest of drawers.n,container.n,ampule.n,mailer.n,hot-water bottle.n,cooler.n,overnighter.n
+Cardinal_numbers	38	thousand.num,fourteen.n,five.num,one.num,fifteen.num,six.num,fifty.num,ten.num,forty.num,million.num,twenty-five.num,five hundred.num,sixty.num,seventy.num,two.num,twelve.num,three.num,twenty-one.num,zero.num,four.num,fifty-two.num,seven.num,twenty.num,couple.n,seventy-four.num,pair.n,twenty-seven.num,score.n,eight.num,brace.n,dual.a,thirty.num,number.n,hundred.num,nine.num,ninety.num,billion.num,two hundred.num
+Reading_aloud	2	read.v,read out.v
+Transfer_scenario	0	
+Coincidence	9	chance.a,randomly.adv,coincidence.n,chance.n,happenstance.n,happen.v,random.a,accident.n,chance.v
+Resolve_problem	13	clear up.v,work through.v,do something about.v,address.v,resolve.v,fix.v,handle.v,answer.n,correct.v,result.n,get a handle.v,deal.v,solve.v
+Non-commutative_process	5	subtract.v,subtraction.n,take away.v,division.n,divide.v
+Expectation	14	predictable.a,unpredictable.a,premonition.n,wait.v,predict.v,expectation.n,prediction.n,foresee.v,expect.v,anticipate.v,await.v,unexpected.a,unforeseeable.a,foreseeable.a
+Cause_expansion	24	dilate.v,widen.v,swell.v,expansion.n,lengthen.v,aggrandizement.n,augmentation.n,magnify.v,inflate.v,shrink.v,growth.n,grow.v,contraction.n,enlargement.n,compress.v,magnification.n,stretch.v,enlarge.v,condense.v,blow up.v,reduction.n,compression.n,narrow.v,expand.v
+Degree_of_processing	4	unprocessed.a,enriched.a,raw.a,processed.a
+Deception_end	0	
+Just_found_out	4	surprised.a,shock.n,surprise.n,shocked.a
+Infecting	2	give.v,infect.v
+Judgment_direct_address	32	reprimand.n,castigatory.a,reproach.v,reproof.n,reprimand.v,rebuke.n,jeer.n,admonishment.n,scold.v,compliment.v,admonish.v,rebuke.v,harangue.v,thank.v,upbraid.v,take to task.v,thanks.n,chastise.v,tell off.v,telling off.n,compliment.n,admonition.n,talking-to.n,tongue-lashing.n,chide.v,reprove.v,congratulate.v,jeer.v,give shit.v,castigation.n,berate.v,chastisement.n
+Claim_ownership	4	dibs.n,claim.n,call.v,claim.v
+Activity_stop	7	cease.v,discontinue.v,halt.v,terminate.v,abandon.v,quit.v,stop.v
+Be_in_agreement_on_assessment	4	agree.v,agreement.n,see eye to eye.v,concur.v
+Eventive_cognizer_affecting	2	convince.v,decide.v
+Forgoing	11	abstain.v,refrain.v,abstention.n,do without.v,forbear.v,go without.v,forgo.v,forbearance.n,forbearing.a,skip.v,abstinence.n
+Occupy_rank	3	rank.v,top.a,stand.v
+Simultaneity	9	concurrency.n,co-occurrence.n,simultaneously.adv,conjunction.n,co-occur.v,concurrent.a,simultaneity.n,simultaneous.a,coincide.v
+Cause_change_of_position_on_a_scale	26	knock down.v,lift.v,push.n,decrease.v,cut.n,lower.v,enhance.v,slash.v,reduction.n,move.v,promote.v,reduce.v,curtail.v,step up.v,increase.v,raise.v,growth.n,diminish.v,double.v,cut.v,development.n,add.v,drop.v,swell.v,crank.v,push.v
+Expensiveness	16	cheap.a,expense.n,expensive.a,affordable.a,affordability.n,set back.v,exorbitant.a,costly.a,low-cost.a,inexpensive.a,pricey.a,cost.v,low-priced.a,overpriced.a,cost.n,free.a
+Emphasizing	11	place weight.idio,centered.a,focus.v,growth-oriented.a,emphasis.n,focused.a,oriented.a,accentuate.v,stress.v,emphasize.v,prioritize.v
+Cause_to_end	7	end.v,abort.v,lifting.n,put an end to.v,arrest.v,lift.v,do away with.v
+Operate_vehicle_scenario	0	
+Subjective_temperature	6	cold.a,burn up.v,cool.a,hot.a,warm.a,freezing.a
+Fining	8	amerce.v,fine.n,ticket.n,fine.v,reparations.n,ticket.v,damages.n,mulct.v
+Inclusion_scenario	0	
+Position_on_a_scale	10	high.a,moderate.a,advanced.a,through the roof.adv,deficient.a,lacking.a,low.a,medium.a,poor.a,rich.a
+Relational_quantity	1	rate.n
+Idiosyncrasy	10	peculiar.a,particular.a,idiosyncratic.a,weird.a,unique.a,idiosyncrasy.n,peculiarity.n,certain.a,uncanny.a,oddity.n
+Downing	3	shoot down.v,downing.n,down.v
+Transportation_status	3	on board.a,on foot.adv,mounted.a
+Setting_back_burn	1	backfire.n
+Mental_stimulus_exp_focus	12	smitten.a,enthralled.a,interested.a,suspicious.a,engrossed.a,infatuated.a,curious.a,absorbed.a,lost (in).a,wrapped up (in).a,captivated.a,fascinated.a
+Verdict	12	find.v,verdict.n,not guilty.a,pronounce.v,finding.n,guilty.a,convict.v,acquit.v,acquittal.n,clear.v,conviction.n,ruling.n
+Cooking_creation	19	prepare.v,frying.n,bake.v,fix.v,put together.v,cook.v,cook.n,preparation.n,baking.n,cooking.n,make.v,grill.v,whip up.v,grilling.n,concoct.v,cook up.v,roast.v,roasting.n,fry.v
+Limiting	1	limit.v
+Receiving	3	accept.v,receipt.n,receive.v
+Being_at_risk	13	susceptible.a,susceptibility.n,safe.a,danger.n,insecure.a,risk.n,vulnerable.a,vulnerability.n,safety.n,threatened.a,security.n,secure.a,unsafe.a
+Locale_closure	2	shut down.v,close.v
+Losing_it	6	blow cool.v,flip out.v,lose it.v,go apeshit.v,freak out.v,go ballistic.v
+Collaboration	20	in cahoots.a,in league.a,conspire.v,together.adv,partner.n,cooperation.n,collude.v,collaborator.n,collusion.n,confederate.n,collaboration.n,partner.v,team up.v,associate.n,jointly.adv,collaborate.v,conspiracy.n,work together.v,affiliated.a,cooperate.v
+Distant_operated_IED	3	command IED.n,RCIED.n,CWIED.n
+Dead_or_alive	14	lifeless.a,dead.a,living.a,life.n,undead.n,alive.a,dirt nap.n,undead.a,dead.n,nonliving.a,living.n,live.v,late.a,deceased.a
+Wealthiness	13	underprivileged.a,affluent.a,privileged.a,prosperous.a,wealthy.a,poverty.n,impoverished.a,poor.a,needy.a,broke.a,well-off.a,rich.a,bankrupt.a
+Communication_response	16	reaction.n,answer.n,respond.v,reply.n,retort.n,come back.v,acknowledge.v,riposte.n,comeback.n,answer.v,counter.v,reply.v,rejoinder.n,rejoin.v,response.n,retort.v
+Meet_with_response	1	meet.v
+Becoming_attached	7	take hold.v,fasten.v,moor.v,agglutinate.v,stick.v,bind.v,attach.v
+Legality	14	prohibited.a,licit.a,wrongly.adv,unlawful.a,legitimate.a,fair.a,illegal.a,illicit.a,permissible.a,wrongful.a,wrong.a,criminal.a,legal.a,lawful.a
+Get_a_job	2	hire on.v,sign on.v
+Attempt_obtain_food_scenario	1	subsistence.n
+Posture	25	crouched.a,lie.v,huddled.a,bent.a,hunched.a,sprawled.a,squat.v,slouched.a,sit.v,seated.a,posture.n,hunch.v,stance.n,crouch.v,huddle.v,slouch.v,position.n,kneel.v,cower.v,shrink.v,bend.v,sprawl.v,stand.v,stoop.v,lean.v
+Have_visitor_over	1	have over.v
+Friendly_or_hostile	5	hostile.a,friendly.a,hostile.n,enemy.n,friendly.n
+Notification_of_charges	5	accuse.v,charge.v,charge.n,indictment.n,indict.v
+Work	4	work.v,work.n,bang away.v,plug away.v
+Losing_track_of_perceiver	1	lose.v
+Representing	2	be symbol.idio,symbolize.v
+Commutative_statement	3	times.n,product.n,sum.n
+Taking	5	take.v,seizure.n,grab.v,seize.v,commandeer.v
+Try_defendant	1	try.v
+Cycle_of_existence_scenario	0	
+Commutation	2	commutation.n,commute.v
+Relational_location	0	
+Left_to_do	3	remainder.n,remain.v,left.a
+Physical_entity	0	
+Undressing	10	peel off.v,doff.v,strip off.v,kick off.v,throw off.v,take off.v,slip.v,pull off.v,remove.v,shed.v
+Process_stop	11	halt.n,kill.v,discontinue.v,cessation.n,shutdown.n,stop.v,shut down.v,discontinuation.n,cease.v,quit.v,desist.v
+Others_situation_as_stimulus	5	compassion.n,empathize.v,sympathize.v,feel (for).v,pity.v
+Emptying	41	stalk.v,peel.v,flush.v,rid.v,expunge.v,disembowel.v,weed.v,skin.v,empty.v,core.v,gut.v,seed.v,bone.v,debug.v,deforest.v,degrease.v,descale.v,stone.v,scalp.v,drain.v,defrost.v,delouse.v,eviscerate.v,denude.v,unload.v,clear.v,emptying.n,expurgate.v,void.v,evacuate.v,debone.v,devein.v,disarm.v,disarmament.n,decontaminate.v,decontamination.n,cleanse.v,purge.v,pit.v,strip.v,divest.v
+Cause_change	16	make.v,convert.v,conversion.n,alteration.n,variation.n,vary.v,change.v,deform.v,modify.v,modification.n,turn.v,transformation.n,alter.v,transform.v,shift.v,reshape.v
+Being_in_operation	4	off.prep,operational.a,on.prep,operate.v
+Judgment_of_intensity	3	severe.a,weak.a,strong.a
+Measures	0	
+Relational_natural_features	12	summit.n,shoreline.n,seaboard.n,shore.n,foothill.n,bank.n,peak.n,coast.n,delta.n,source.n,estuary.n,mouth.n
+Avoiding	18	desist.v,shrink from.v,escape.v,skirt.v,avoidance.n,evade.v,evasion.n,shun.v,keep away.v,avoid.v,shirk.v,duck.v,dodge.v,sidestep.n,eschew.v,sidestep.v,forgo.v,stay away.v
+Government_institution	0	
+Forging	7	forgery [act].n,falsify.v,counterfeit.v,forgery [entity].n,fake.n,forge.v,fake.v
+Employer_scenario	0	
+Facial_expression	13	grimace.n,expression.n,look.n,scowl.n,frown.n,rictus.n,face.n,sneer.n,snarl.n,pout.n,grin.n,smile.n,smirk.n
+Releasing_from_custody	0	
+People	25	human being.n,man.n,human.n,dude.n,guy.n,pax.n,someone.n,folk.n,life.n,girl.n,un.n,fellow.n,folks.n,who.pron,chap.n,lady.n,people.n,personage.n,somebody.n,character.n,individual.n,gent.n,gentleman.n,woman.n,person.n
+Appellations	56	king.n,leader.n,representative.n,chairman.n,imam.n,legislator.n,mayor.n,mogul.n,premier.n,captain.n,governor.n,monarch.n,officer.n,official.n,president.n,minister.n,brother.n,general.n,maharaja.n,chief.n,commander.n,headmaster.n,queen.n,bishop.n,shah.n,director.n,mother.n,commissioner.n,principal.n,dr.n,executive.n,prince.n,mr.n,congresswoman.n,sheik.n,mrs.n,emperor.n,secretary.n,ms.n,empress.n,tsar.n,miss.n,chairperson.n,superintendent.n,child.n,kaiser.n,supervisor.n,aunt.n,duchess.n,father.n,uncle.n,sultan.n,doctor.n,sister.n,congressman.n,cousin.n
+Temporary_leave	10	absence.n,time off.n,sabbatical.n,leave of absence.n,holiday.n,furlough.n,PTO.n,vacation.n,absent.v,leave.n
+Manner	2	manner.n,way.n
+Frugality	22	frugal.a,thrifty.a,penny-wise.a,austerity.n,scrimp.v,spartan.a,sparing.a,austere.a,parsimony.n,economical.a,wasteful.a,extravagant.a,parsimonious.a,profligate.a,waste.v,squander.v,frugality.n,profligacy.n,economy.n,spendthrift.n,thrift.n,husband.v
+Food_gathering	4	gather.v,pick.v,bring in.v,harvest.v
+Cognitive_connection	8	relationship.n,have to do (with).v,identify with.v,connected.a,related.a,associated.a,tied.a,linked.a
+Process_completed_state	4	done.a,finished.a,over.a,complete.a
+Communicate_categorization	17	characterize.v,portray.v,cast.v,make out to be.v,define.v,definition.n,description.n,depict.v,represent.v,characterization.n,redefinition.n,redefine.v,describe.v,treat.v,depiction.n,representation.n,paint.v
+Request_entity	3	order.n,order.v,order [physical object].n
+Arithmetic_commutative	0	
+Part_whole	13	development.n,tenth.n,portion.n,segment.n,quarter.n,eighth.n,fragment.n,section.n,fifth.n,hundredth.n,third.n,part.n,half.n
+Living_conditions	1	live.v
+Success_or_failure	12	pull off.v,fail.v,failure.n,succeed.v,success.n,ace.v,get there.v,successful.a,unsuccessful.a,miss.v,failing.n,manage.v
+Impact	41	patter.v,plash.v,rap.v,glancing.a,tinkle.v,impact.v,clatter.v,hit.v,clink.v,run.v,hiss.v,smack.v,rattle.v,bang.v,touch.v,crash.v,brush.v,bump.v,knock.v,clang.v,impinge.v,plow.v,collide.v,collision.n,smash.v,strike.v,impact.n,hit.n,thud.v,crash.n,clunk.v,crunch.v,graze.v,slam.v,plop.v,plunk.v,slap.v,thump.v,chatter.v,clash.v,click.v
+Artistic_style	4	order.n,style.n,look.n,sound.n
+Scope	1	scope.n
+Remembering_experience	6	forget.v,memory.n,remember.v,reminisce.v,recall.v,look back.v
+Gizmo	20	instrument.n,system.n,machine.n,utensil.n,centrifuge.n,apparatus.n,device.n,mechanical.a,gear.n,gadget.n,equipment.n,contraption.n,appliance.n,technology.n,tool.n,core.n,range.n,player.n,implement.n,level.n
+Timespan	3	life.n,day.n,time.n
+Body_movement	63	wrinkle.v,arch.v,curtsy.n,cock.v,kneel.v,crane.v,writhe.v,cross.v,wriggle.v,drop.v,shudder.v,flap.v,flex.v,fidget.v,fling.v,bob.v,yawn.v,flutter.v,jiggle.v,gnash.v,shiver.v,grind.v,curtsy.v,blink.v,hang.v,duck.v,jerk.v,crease.v,lift.v,smack.v,nod.v,open.v,pout.v,close.v,pucker.v,wiggle.v,shut.v,purse.v,twiddle.v,roll.v,stamp.v,shake.v,crinkle.v,shrug.v,crumple.v,shuffle.v,scrunch.v,stretch.v,move.v,swing.v,twist.v,throw.v,wink.n,toss.v,reach.v,twitch.v,bat.v,wag.v,waggle.v,bend.v,wave.v,clap.v,wink.v
+See_through	1	see (through).v
+Intentional_traversing	4	ascend.v,cut.v,ford.v,climb.v
+Besieging	8	siege.n,siege.v,besiegement.n,encirclement.n,besiege.v,investment.n,invest.v,beleaguer.v
+Use_firearm	4	shoot.v,discharge.v,shot.n,fire.v
+Building_subparts	80	vestibule.n,ward.n,wing.n,workroom.n,workshop.n,banquet room.n,dining room.n,lavatory.n,dressing room.n,family room.n,guest room.n,living room.n,master bedroom.n,antechamber.n,powder room.n,anteroom.n,rest room.n,atelier.n,rumpus room.n,attic.n,sitting room.n,ballroom.n,utility room.n,boudoir.n,wine cellar.n,basement.n,apartment.n,bathroom.n,flat.n,bedroom.n,TV room.n,ben.n,belfry.n,buttery.n,altar.n,catacomb.n,tower.n,cell.n,laundry room.n,cellar.n,level.n,chamber.n,deck.n,chancellery.n,floor.n,chapel.n,checkroom.n,cloakroom.n,closet.n,corridor.n,den.n,foyer.n,garret.n,hallway.n,kitchen.n,room.n,kitchenette.n,larder.n,laundry.n,lift.n,elevator.n,lobby.n,loft.n,nursery.n,office.n,pantry.n,parlor.n,playroom.n,porch.n,refectory.n,repository.n,sacristy.n,salon.n,scullery.n,solarium.n,stoop.n,storeroom.n,studio.n,study.n,veranda.n
+Exchange	8	switch.v,trade.n,change.v,exchange.n,swap.n,swap.v,exchange.v,trade.v
+Foreign_or_domestic_country	5	domestic.a,home.n,homeland.n,international.a,foreign.a
+Invading	4	invasion.n,invader.n,invade.v,overrun.v
+Domain	10	in terms.idio,psychologically.adv,emotionally.adv,historically.adv,financially.adv,geographically.adv,socially.adv,culturally.adv,economically.adv,legally.adv
+Being_dry	5	dehydrated.a,dry.a,waterless.a,parched.a,desiccated.a
+Isolated_places	15	boondocks.n,back of beyond.n,Bumblefuck.n,outback.n,backwater.n,godforsaken.a,backcountry.n,Podunk.n,off the beaten path.adv,middle of nowhere.n,boonies.n,out-of-the-way.a,fly-over country.n,the sticks.n,backwoods.n
+Choosing	9	pick.v,settle on.v,selection.n,select.v,elect.v,pick.n,choice.n,opt.v,choose.v
+Expansion	16	contract.v,shrink.v,lengthen.v,contraction.n,expansion.n,extension.n,swell.v,grow.v,explosive.a,enlargement.n,inflate.v,spread.v,stretch.v,enlarge.v,dilate.v,expand.v
+Relating_concepts	5	connect.v,tie.v,link.v,associate.v,relate.v
+Name_conferral	8	rename.v,dub.v,call.v,name.v,entitle.v,christen.v,nickname.v,baptize.v
+Set_of_interrelated_entities	1	system.n
+Hiring	12	commission.v,sign.v,retain.v,hire.n,give job.idio,take on.v,contract.v,commission.n,subcontract.v,sign on.v,sign up.v,hire.v
+Biological_classification	9	class.n,family.n,order.n,domain.n,phylum.n,genus.n,variety.n,species.n,kingdom.n
+Optical_image	3	image.n,silhouette.n,shadow.n
+Assessing	14	appraise.v,grade.v,appraisal.n,weigh.v,value.v,reappraisal.n,judge.v,rank.v,assessment.n,evaluate.v,rate.v,evaluation.n,assess.v,reappraise.v
+Health_response	6	sensitivity.n,susceptibility.n,susceptible.a,sensitive.a,allergic.a,allergy.n
+Cause_to_perceive	9	present.v,exhibit.v,depict.v,represent.v,point.v,present[medical].v,bring to attention.v,demonstrate.v,show.v
+Social_connection	10	intimate [setting].a,tie.n,intimate.a,close.a,linked.a,bond.n,closeness.n,connection.n,link.n,connected.a
+Corroding_caused	4	corrode.v,tarnish.v,oxidize.v,rust.v
+Sign	9	symptom.n,indication.n,symptomatic.a,indicate.v,mark.v,sign.n,usher in.v,signify.v,indicative.a
+Justifying	6	rationalize.v,explain.v,account.v,justify.v,justification.n,defend.v
+Cause_to_burn	0	
+Explaining_the_facts	3	account.v,explanation.n,explain.v
+Weather	14	rainstorm.n,sunshine.n,hailstorm.n,fair.a,stormy.a,thunderstorm.n,storm.n,weather.n,climate.n,lowering sky.n,storm.v,snowstorm.n,snowy.a,blizzard.n
+Setting_fire	11	ignite.v,set on fire.v,set fire.v,torch.v,light.v,spark.v,kindle.v,catch on fire.v,set ablaze.idio,set alight.idio,start.v
+Hunting_scenario	0	
+Want_suspect	1	wanted.a
+Repel	2	repel.v,resist.v
+Fragmentation_scenario	0	
+Suitability	17	suit.v,suited.a,unsuitability.n,proper.a,appropriate.a,fitting.a,right.a,suitable.a,correct.a,unsuitable.a,suitability.n,become.v,fit.v,suitableness.n,inappropriate.a,fit.a,unsuitableness.n
+Practice	12	rehearse.v,rehearsal [mass].n,drill.n,mock.a,rehearsal.n,practice [mass].n,run (through).v,dry run.n,practice.v,run-through.n,practice.n,exercise.n
+Time_vector	32	hence.prep,ago.idio,from.prep,sooner rather than later.adv,down the road.adv,afterwards.adv,until.prep,after.prep,since.adv,pre.prep,afterward.adv,eventually.adv,post.prep,formerly.adv,previously.adv,already.adv,beforehand.adv,ante.prep,finally.adv,following.prep,before.prep,then.a,through.prep,later.adv,previous.a,in time.adv,right away.adv,since.prep,thereafter.adv,yet.adv,former.a,prior.adv
+Assemble	3	meet.v,convene.v,assemble.v
+Rank	5	order.n,degree.n,baseline.n,level.n,rank.n
+Request	26	command.v,plea.n,beg.v,plead.v,command.n,request.n,request.v,summon.v,tell.v,urge.v,order.v,call.v,implore.v,invite.v,demand.n,beseech.v,call.n,demand.v,instruct.v,entreat.v,invitation.n,entreaty.n,appeal.n,order.n,ask.v,petition.n
+Surrounding	9	surround.v,surrounding.a,ring.v,edge.v,rim.v,astride.prep,straddling.a,straddle.v,around.prep
+Post_transfer	0	
+Predicament	12	misfortune.n,fix.n,scrape.n,jam.n,mess.n,pinch.n,trouble.n,problem.n,bind.n,plight.n,predicament.n,pickle.n
+Visit_host_arrival	0	
+Assistance	14	cater.v,succor.v,aid and abet.v,help.n,helpful.a,help.v,abet.v,help out.v,aid [entity].n,aid [act].n,serve.v,assist.v,assistance.n,aid.v
+Theft	46	light-fingered.a,lift.v,pilferage.n,thief.n,snatch.v,shoplifting.n,theft.n,cutpurse.n,pilferer.n,snatcher.n,thieve.v,stolen.a,nick.v,embezzlement.n,embezzle.v,embezzler.n,thieving.a,peculation.n,shoplift.v,misappropriation.n,larceny.n,stealer.n,shoplifter.n,snatch.n,misappropriate.v,stealing.n,purloin.v,thieving.n,pickpocket.v,heist.n,pickpocket.n,pilfering.n,flog.v,abstract.v,steal.v,cop.v,rustle.v,bag.v,pilfer.v,abstraction.n,swipe.v,make off (with).v,filch.v,pinch.v,abscond (with).v,snitch.v
+Sole_instance	5	sole.a,only.a,lone.a,one and only.a,single.a
+Translating	2	translate.v,translation.n
+Take_place_of	7	substitute.v,do duty.v,take place.v,succeed.v,replacement.n,replace.v,succession.n
+Obscurity	4	recondite.a,little known.a,obscure.a,unsung.a
+Cause_to_make_progress	8	improved.a,mature.v,improve.v,perfect.v,gains.n,advance.v,develop.v,modernization.n
+Agree_or_refuse_to_act	4	decline.v,refuse.v,agree.v,refusal.n
+Discussion	21	talk over.v,dialog.n,discussion.n,debate.n,exchange.n,meeting.n,discuss.v,confer.v,parley.v,parley.n,interlocutor.n,conference.n,discussant.n,negotiation.n,communicate.v,negotiate.v,communication.n,talk.n,debate.v,consultation.n,talk (to).v
+Active_substance	6	active.a,irritant.n,bioactive.a,incapacitant.n,agent.n,causative agent.n
+Going_back_on_a_commitment	3	renege.v,back out.v,go back.v
+Getting_vehicle_underway	6	cast off.v,pull (out).v,lift (off).v,weigh anchor.v,take (off).v,launch.v
+Reasoning	11	reason.v,prove.v,demonstrate.v,argument.n,show.v,case.n,reasoning.n,demonstration.n,polemic.n,disprove.v,argue.v
+Containment_scenario	0	
+Needing	3	require.v,need.n,need.v
+Satisfying	1	satisfy.v
+Encoding	13	misword.v,put.v,word.v,cast.v,phrasing.n,formulate.v,couch.v,phrase.v,expression.n,frame.v,express.v,formulation.n,wording.n
+Wholes_and_parts	0	
+Receive_visitor_scenario	0	
+Statement	79	conjecture.v,smirk.v,confirm.v,avowal.n,acknowledge.v,acknowledgment.n,note.v,observe.v,declaration.n,refute.v,describe.v,denial.n,promulgation.n,message.n,detail.v,tell.v,conjecture.n,allow.v,exclaim.v,caution.n,be like.v,challenge.v,announcement.n,pronounce.v,concession.n,caution.v,comment.n,admission.n,exclamation.n,explain.v,claim.v,gloat.v,comment.v,insist.v,maintain.v,mention.n,contend.v,mention.v,preach.v,proclaim.v,proclamation.n,contention.n,profess.v,pronouncement.n,announce.v,proposal.n,assert.v,propose.v,proposition.n,reaffirm.v,recount.v,reiterate.v,relate.v,aver.v,remark.n,remark.v,address.v,report.n,allege.v,report.v,add.v,say.v,declare.v,speak.v,state.v,statement.n,suggest.v,attest.v,talk.v,claim.n,write.v,allegation.n,insistence.n,assertion.n,explanation.n,avow.v,venture.v,hazard.v,pout.v
+Verification	11	verify.v,identify.v,substantiate.v,unconfirmed.a,confirm.v,unidentified.a,certify.v,make sure.v,verifiable.a,verification.n,confirmation.n
+Body_decoration	11	kohl.n,concealer.n,eyeliner.n,mascara.n,blusher.n,lipstick.n,eyeshadow.n,tattoo.n,rouge.n,foundation.n,make-up.n
+Becoming_a_member	5	join.v,sign up.v,enlist.v,enroll.v,enter.v
+Addiction	10	hooked.a,addict.n,junkie.n,habit.n,addicted.a,fiend.n,addiction.n,alcoholic.n,alcoholism.n,compulsive.a
+Breathing	20	exhalation [act].n,exhalation.n,insufflate.v,sigh.v,expire.v,inspire.v,breathe.v,blow.v,breath.n,exhale.v,gasp.v,puff.v,inhale.v,sigh.n,inhalation [breath].n,suspire.v,inhalation.n,huff.v,respire.v,pant.v
+Morality_evaluation	39	honorable.a,good.a,iniquitous.a,unscrupulous.a,degenerate.a,foul.a,right.a,felonious.a,evil.a,low-minded.a,stand-up.a,reprobate.a,upstanding.a,wicked.a,corrupt.a,unethical.a,vile.a,high-minded.a,dark.a,improper.a,sinful.a,insidious.a,righteous.a,depravity.n,decent.a,virtuous.a,villainous.a,depraved.a,bad.a,ethical.a,heinous.a,nefarious.a,base.a,immoral.a,moral.a,low.a,dishonorable.a,wrong.a,miscreant.a
+Distinctiveness	11	aspect.n,marked.a,trademark.a,characterize.v,characteristic.a,distinctive.a,distinct.a,signature.n,characteristic.n,trademark.n,signature.a
+Rebellion	6	insurgent.n,insurgency.n,rebel.v,insurge.v,insurgence.n,rebel.n
+Business_closure	3	close its doors.v,founder.v,close down.v
+Cause_to_experience	5	entertain.v,divert.v,terrorize.v,torment.v,amuse.v
+Awareness_situation	0	
+Text_creation	26	pen.v,jot down.v,type in.v,say.v,print.v,print out.v,type up.v,compose.v,utter.v,jot.v,list.v,type.v,print up.v,dash off.v,write in.v,get down.v,write down.v,type out.v,author.v,write.v,sign.v,draft.v,write up.v,write out.v,speak.v,chronicle.v
+Leaving_traces	6	trail.n,wake.n,vestige.n,trace.n,contrail.n,track.n
+Creating	11	yield.v,issue.v,issuance.n,production.n,produce.v,create.v,form.v,assemble.v,make.v,formation.n,generate.v
+Duplication	14	clone.n,duplicate.n,copy.n,duplication.n,run off.v,duplicate.v,photocopy.v,reproduce.v,replicate.v,replica.n,clone.v,reduplicate.v,photocopy.n,copy.v
+Evidence	31	from.prep,demonstrate.v,suggest.v,argument.n,indicate.v,attest.v,imply.v,evidence.v,proof.n,substantiate.v,corroborate.v,illustrate.v,evince.v,point (to).v,prove.v,credence [lend].n,reveal.v,tell.v,show.v,support.v,testify.v,rule out.v,confirm.v,verify.v,demonstration.n,disprove.v,contradict.v,assure.v,argue.v,mean.v,evidence.n
+Hostile_encounter	47	conflict.n,dust-up.n,warfare.n,confrontation.n,cw.n,row.n,bw.n,fighting.n,tussle.n,struggle.n,fistfight.n,struggle.v,hostility.n,infighting.n,skirmish.n,engage.v,combat.n,engagement.n,clash.n,squabble.n,stalemate.n,firefight.n,brawl.n,duel.n,strife.n,fight.v,battle.v,duel.v,fight.n,clash.v,brawl.v,skirmish.v,scuffle.v,confront.v,war.n,bout.n,war.v,gunfight.n,shootout.n,standoff.n,scuffle.n,showdown.n,wrangling.n,altercation.n,tiff.n,battle.n,spat.n
+Individual_history	2	past.n,history.n
+Cutting	9	mince.v,cut.v,dice.v,carve.v,fillet.v,chop.v,slice.v,cube.v,pare.v
+Change_of_quantity_of_possession	2	lose.v,gain.v
+Killing	71	annihilate.v,blood-bath.n,decapitation.n,extermination.n,fratricide.n,garrotte.v,murderer.n,slaughterer.n,slayer.n,kill.v,assassinate.v,immolation.n,behead.v,patricide.n,eliminate.v,silence.v,exterminate.v,deadly.a,terminate.v,fatal.a,drown.v,fatality.n,liquidate.v,destroy.v,murder.v,take out.v,slay.v,bloodshed.n,suffocate.v,take (someone's) life.idio,smother.v,do in.v,starve.v,asphyxiate.v,suicide.v,homicide.n,suicide.n,euthanize.v,euthanasia.n,dispatch.v,lethal.a,annihilation.n,liquidation.n,crucify.v,crucifixion.n,decapitate.v,massacre.v,slaughter.v,lynch.v,liquidator.n,killing.n,murder.n,slaughter.n,killer.n,massacre.n,infanticide.n,smothering.n,slaying.n,regicide.n,pogrom.n,shooting.n,holocaust.n,matricide.n,genocide.n,butcher.v,beheading.n,assassination.n,butchery.n,carnage.n,suffocation.n,assassin.n
+Origin	38	vietnamese.a,canadian.a,originate.v,jamaican.a,byzantine.a,cuban.a,colombian.a,portuguese.a,chinese.a,of.prep,egyptian.a,iranian.a,saudi.a,origin.n,turkish.a,roman.a,european.a,ottoman.a,from.prep,indian.a,jordanian.a,american.a,dutch.a,date.v,finnish.a,russian.a,french.a,spanish.a,irish.a,come from.v,italian.a,syrian.a,japanese.a,national.a,iraqi.a,swiss.a,assyrian.a,greek.a
+Excreting	22	urinate.v,sweat.n,vomit.v,piss.v,pee.v,belch.v,fart.v,retch.v,burp.v,shit.v,spew.v,take a piss.v,spit up.v,throw up.v,perspire.v,puke.v,evacuate.v,sweat.v,defecate.v,regurgitate.v,perspiration.n,void.v
+Ranked_expectation	3	entire.a,mere.a,whole.a
+Directional_locative_relation	18	north.n,south.adv,west.adv,north.adv,east.n,northeast.n,above.prep,northwest.n,southwest.adv,northeast.adv,below.prep,west.n,southeast.n,southeast.adv,south.n,northwest.adv,east.adv,southwest.n
+Stinginess	12	hoard.v,miser.n,lavish.a,generous.a,stingy.a,miserly.a,ungenerous.a,miserliness.n,niggardliness.n,lavish.v,mean.a,niggardly.a
+Sent_items	3	shipment.n,mail.n,post.n
+Scarcity	5	scarcity.n,scarceness.n,plentifulness.n,scarce.a,plentiful.a
+Confronting_problem	2	confront.v,face.v
+Measure_volume	39	tablespoon.n,bagful.n,busload.n,litre.n,spoonful.n,pint.n,pack.n,bucketful.n,bottle.n,teaspoon.n,box.n,planeload.n,tray.n,spoon.n,cup.n,packet.n,truckload.n,boatload.n,bushel.n,scoop.n,trainload.n,bag.n,platter.n,boxful.n,carload.n,roomful.n,can.n,barrel.n,bowl.n,sackful.n,case.n,teaspoonful.n,quart.n,mug.n,gallon.n,tankful.n,jug.n,glass.n,scoopful.n
+Memory	7	recollection.n,bethink oneself.v,memory.n,recollect.v,recall.v,remember.v,retain.v
+Piracy	8	carjacking.n,hijack.v,hijacked.a,hijacker.n,carjack.v,hijacking.n,pirate.v,piracy.n
+Response	6	respond.v,response.n,react.v,meet.v,reaction.n,act (on).v
+Trust	10	believe.v,credence.n,faith.n,trust.v,reliability.n,trustworthy.a,reliable.a,credulous.a,gullible.a,trust.n
+Detaining	7	internment.n,intern.v,under arrest.a,detain.v,custody.n,at large.a,hold.v
+Cause_change_of_phase	10	defrost.v,thaw.v,unfreeze.v,solidify.v,flux.v,evaporate.v,melt.v,boil.v,freeze.v,liquefy.v
+Burying	1	bury.v
+Processing_materials	15	process.v,stain.v,develop.v,enrich.v,development.n,spin.v,etch.v,weaponization.n,dye.v,reprocessing.n,weaponize.v,treat.v,reprocess.v,enrichment.n,galvanize.v
+Make_compromise	3	compromise.v,meet half-way.v,compromise.n
+Control	7	determine.v,command.n,control.v,command.v,regulate.v,control.n,regulation.n
+Sociability	12	companionable.a,gregarious.a,recluse.n,loner.n,extrovert.n,friendly.a,shy.a,outgoing.a,sociable.a,timid.a,introverted.a,affable.a
+Getting_triggered	2	trigger.v,go off.v
+Deception_success	2	deception.n,deceit.n
+Residence	23	camper.n,stay.v,squat.v,live.v,inhabitant.n,lodge.v,occupant.n,squatter.n,room.v,inhabit.v,dweller.n,resident.n,occupy.v,dwell.v,camp.v,shack up.v,camp.n,bivouac.v,camped.a,tenant.n,room-mate.n,bivouac.n,reside.v
+Being_located	8	sit.v,lie.v,located.a,stand.v,whereabouts.n,twenty.n,find.v,situated.a
+Remainder	4	remnant.n,remain.v,remains.n,left.a
+Information	11	information.n,data.n,skinny.n,intel.n,details.n,straight dope.n,dope.n,scoop.n,info.n,dirt.n,intelligence.n
+Setting_out	3	decamp.v,set off.v,set out.v
+Expressing_publicly	8	put into words.v,vent.v,air.v,expression.n,express.v,give voice.v,articulate.v,voice.v
+Visiting_scenario_departing	0	
+Dough_rising	2	prove.v,rise.v
+Required_event	13	got to.v,need.v,ought to.v,gotta.v,shall.v,oughta.v,hafta.v,must.v,better.v,best.v,have to.v,be supposed (to).v,had better.v
+Behind_the_scenes	12	soundtrack.n,stage.v,film.v,producer.n,score.n,direct.v,shoot.v,produce.v,compose.v,cast.v,film-maker.n,director.n
+Suasion	6	dissuade.v,convince.v,incite.v,motivate.v,persuade.v,sway.v
+Locating	2	find.v,locate.v
+Political_locales	42	metropolis.n,megalopolis.n,city.n,world.n,federal.a,global.a,parish.n,diocese.n,international.a,local.a,locality.n,municipal.a,national.a,empire.n,village.n,nation.n,commonwealth.n,province.n,internationally.adv,country.n,multinational.a,territory.n,city-state.n,barony.n,district.n,duchy.n,fiefdom.n,viscountcy.n,jurisdiction.n,town.n,land.n,county.n,state [internal].n,state [sovereign].n,provincial.a,principality.n,territorial.a,borough.n,township.n,realm.n,kingdom.n,municipality.n
+Publishing	6	publish.v,appear.v,put out.v,release.v,release [event].n,publication.n
+Connectors	26	link.n,staple.n,glue.n,tack.n,wire.n,tie.n,ribbon.n,trace.n,strap.n,bolt.n,shoelace.n,withy.n,nail.n,screw.n,tape.n,nut.n,lace.n,string.n,connector.n,adhesive.n,thread.n,chain.n,cord.n,bond.n,peg.n,rope.n
+Spatial_contact	11	atop.prep,against.prep,off.prep,contact.n,tangent.a,upon.prep,on.prep,touching.a,contact.v,touch.v,on top (of).prep
+Attending	3	go (to).v,attend.v,attendance.n
+Renunciation	2	renounce.v,renunciation.n
+People_by_origin	25	englishwoman.n,Dubliner.n,german.n,ottoman.n,Indian [American].n,American.n,Californian.n,Frenchman.n,Frenchy.n,Iranian.n,Greek.n,Turk.n,New Yorker.n,italian.n,English.n,Irish.n,Kraut.n,foreigner.n,American [N and S Am].n,Mexican.n,Chicagoan.n,Frenchwoman.n,Persian.n,Denverite.n,Brit.n
+Process_resume	2	resume.v,restart.v
+Information_display	3	board [white/black/chalk].n,board [forum].n,monitor.n
+Fame	16	legendary.a,stature.n,reputation.n,infamous.a,notorious.a,well known.a,notoriety.n,renown.n,renowned.a,epic.a,name.n,famous.a,known.a,fame.n,big name.n,make a name for oneself.v
+Spatial_co-location	6	there.adv,at.prep,where [interrog].adv,here.adv,where [relativizer].adv,home.adv
+Resurrection	5	resurrection.n,return.v,rise.v,resurrect.v,come back.v
+Color_qualities	7	vivid.a,pale.a,dull.a,light.a,warm.a,bright.a,dark.a
+Alternativity	0	
+Closure	15	unscrew.v,unfasten.v,button.v,lace.v,open.v,buckle.v,unbuckle.v,cap.v,uncork.v,tie.v,close.v,fasten.v,unzip.v,zip.v,seal.v
+Giving	27	donation.n,hand in.v,volunteer.v,treat.v,gift.v,donate.v,gift.n,foist.v,contribution.n,endow.v,fob off.v,donor.n,hand over.v,charity.n,confer (upon).v,give out.v,give.v,advance.v,bequeath.v,leave.v,hand.v,will.v,pass.v,bequest.n,pass out.v,hand out.v,contribute.v
+Conduct	15	way.n,misbehavior.n,deportment.n,manner.n,behavior.n,bearing.n,behave.v,conduct.n,comportment.n,demeanor.n,conduct.v,carry oneself.v,act up.v,misbehave.v,act.v
+Correctness	8	wrong.a,incorrect.a,correctness.n,right.a,true.a,exact.a,correct.a,accurate.a
+Quantified_mass	58	mountain.n,pinch.n,handful.n,ounce.n,a lot.n,mite.n,pile.n,touch.n,few.n,scads.n,many.n,measure.n,amount.n,several.n,scores.n,several.a,degree.n,few.a,a few.art,avalanche.n,any.a,billions.n,all.a,heap.n,deluge.n,many.a,dozens.n,numerous.a,ton.n,torrent.n,a bit.n,oodles.n,mass.n,shitload.n,no.a,hundreds.n,flood.n,dose.n,abundance.n,multiple.a,thousands.n,trickle.n,a little.n,load.n,myriad.n,both.a,stream.n,fair.a,plethora.n,smattering.n,modicum.n,wave.n,trace.n,millions.n,quantity.n,deal.n,raft.n,number.n
+Biological_urge	49	bone-weary.a,fatigued.a,exhaustion.n,queasy.a,thirsty.a,fatigue.n,parched.a,beat.a,nausea.n,pooped.a,queasiness.n,tuckered out.a,hunger.n,drowsiness.n,weary.a,sleepiness.n,horny.a,dog-tired.a,nauseated.a,in the mood.a,sick.a,bilious.a,somnolent.a,soporific.a,somnolence.n,amorous.a,hungry.a,thirst.n,full.a,knackered.a,sated.a,tired.a,weariness.n,ravenous.a,sleepy.a,peckish.a,tiredness.n,nauseous.a,famished.a,drowsy.a,bushed.a,enervated.a,randy.a,worn out.a,arousal.n,tuckered.a,aroused.a,turned on.a,exhausted.a
+Fall_asleep	8	pass out.v,konk out.v,doze off.v,black out.v,faint.v,zonk out.v,drift off.v,nod off.v
+Change_posture	25	lie.v,stand.v,slouch.v,sit up.v,crouch down.v,lie down.v,kneel down.v,hunch.v,drop.v,stand up.v,huddle.v,rise.v,sprawl.v,crouch.v,squat down.v,squat.v,lean.v,kneel up.v,sit.v,hunch up.v,sprawl out.v,kneel.v,stoop.v,bend.v,sit down.v
+Irregular_combatants	6	militant.n,combatant.n,guerrilla.n,hostile.n,fighter.n,belligerent.n
+Word_relations	14	homophonous.a,contrary.n,hyponym.n,holonym.n,homograph.n,synonymous.a,homophone.n,meronym.n,collocate.v,homonym.n,antonym.n,synonym.n,collocate.n,hypernym.n
+Undergo_change	11	change.v,plummet.v,swing.v,veer.v,shift.n,transition.n,turn.v,changeable.a,change.n,shift.v,go.v
+Severity_of_offense	4	capital.a,indictable.a,actionable.a,felonious.a
+Medical_specialties	29	gastroenterology.n,oncology.n,immunology.n,therapy.n,orthopaedics.n,homeopathy.n,obstetrics.n,medicine.n,cardiology.n,nephrology.n,chiropractic.n,paediatrics.n,midwifery.n,dentistry.n,neurology.n,podiatry.n,endocrinology.n,radiology.n,psychotherapy.n,rheumatology.n,neonatology.n,gynaecology.n,epidemiology.n,dermatology.n,psychoanalysis.n,haematology.n,speech therapy.n,histology.n,allopathy.n
+Employment_continue	0	
+Disaster_scenario	0	
+Visit_host_departure	0	
+Giving_birth	21	lay.v,father.v,calving.n,lambing.n,drop.v,carry to term.v,birth.v,spawn.v,mother.v,bring forth.v,generate.v,birth.n,have.v,get.v,propagate.v,beget.v,bear.v,whelp.v,kid.v,sire.v,calve.v
+Violence	3	brutality.n,savagery.n,violence.n
+Motion_directional	10	drop.v,plunge.v,descend.v,slant.v,rise.v,plummet.v,dip.v,angle.v,fall.v,topple.v
+Becoming_visible	1	appear.v
+Wagering	3	wager.v,wager.n,bet.v
+State_of_entity	2	state.n,condition.n
+Adjusting	6	adjustment.n,tweak.n,calibration.n,tweak.v,calibrate.v,adjust.v
+Natural_features	115	slough.n,mesa.n,fjord.n,bayou.n,isle.n,outcrop.n,islet.n,tor.n,island.n,eyot.n,cay.n,lagoon.n,archipelago.n,plateau.n,sandbar.n,crag.n,seamount.n,coombe.n,glacier.n,guyot.n,key.n,canyon.n,volcano.n,mount.n,declivity.n,crater.n,corrie.n,cove.n,ridge.n,bar.n,bay.n,skerry.n,sandbank.n,inlet.n,rapids.n,sandspit.n,cirque.n,cliff.n,reef.n,watershed.n,channel.n,height.n,clough.n,headland.n,dale.n,beach.n,isthmus.n,rill.n,defile.n,continent.n,peak.n,mountain.n,dell.n,cave.n,depression.n,cavern.n,continental.a,knoll.n,coastal.a,range.n,iceberg.n,wash.n,cordillera.n,dingle.n,strand.n,berg.n,rugged.a,lake.n,gap.n,falls.n,gulf.n,pass.n,cascade.n,crevasse.n,waterfall.n,land.n,pond.n,glen.n,cataract.n,water.n,tarn.n,graben.n,spring.n,range [grazing].n,creek.n,gulch.n,stream.n,vale.n,gully.n,hollow.n,brook.n,ravine.n,atoll.n,sound.n,beck.n,floe.n,strait.n,loch.n,hummock.n,valley.n,dune.n,moraine.n,river.n,massif.n,burn.n,sea.n,butte.n,shelf.n,hill.n,ocean.n,fell.n,shoal.n,pool.n,hillock.n,peninsula.n
+Body_mark	21	mole.n,acne.n,blister.n,blemish.n,rash.n,wart.n,zit.n,birthmark.n,boil.n,pustule.n,liver spot.n,sore.n,pimple.n,callus.n,blackhead.n,blotch.n,scar.n,love bite.n,bedsore.n,cold sore.n,freckle.n
+Commerce_collect	3	charge.v,collect.v,collection.n
+Predicting	10	vaticinate.v,prophesy.v,prediction.n,foretell.v,forecast.v,prognosticate.v,claim.v,predict.v,soothsay.v,prophecy.n
+Subordinates_and_superiors	16	hireling.n,minion.n,superior.n,lackey.n,master.n,junior.a,serve.v,assistant.n,underling.n,servant.n,stooge.n,henchman.n,senior.a,paxman.n,goon.n,subordinate.n
+Change_event_duration	8	abbreviate.v,prolong.v,drag out.v,slow.v,protract.v,extend.v,cut short.v,shorten.v
+Hit_or_miss	6	wide.adv,bullseye.n,hit.n,hit.v,hole in one.n,miss.v
+Forming_relationships	17	leave.v,engagement.n,betroth.v,woo.v,wedding.n,befriend.v,wed.v,tie the knot.v,betrothal.n,separation.n,marriage (into).n,marry.v,marry (into).v,marriage.n,divorce.v,divorce.n,separate.v
+Pre_lose_possession	0	
+Referring_by_name	5	refer.v,address.v,name.n,designation.n,call.v
+Having_or_lacking_access	5	inaccessible.a,access.n,access.v,accessible.a,blocked.a
+Fullness	4	emptiness.n,empty.a,full.a,fullness.n
+Eventive_affecting	6	happen.v,see.v,strike.v,hit.v,suffer.v,what become (of).v
+Age	12	age.n,mature.a,oldish.a,youngish.a,elderly.a,of.prep,maturity.n,old.a,new.a,fresh.a,ancient.a,young.a
+Change_direction	8	right.n,turn.v,turn.n,left.n,bear.v,veer.v,cut.v,swing.v
+Attention_getting	16	sir.n,ma'am.n,miss.n,buddy.n,guy.n,bro.n,yoohoo.intj,officer.n,excuse me.intj,boy.n,kid.n,hello there.intj,hey.intj,pal.n,dude.n,homes.n
+Elusive_goal	3	elude.v,escape.v,evade.v
+Law	9	policy.n,code.n,law.n,order.n,regime.n,act.n,protocol.n,statute.n,regulation.n
+Legal_rulings	6	decree.v,deem.v,rule.v,judge.v,adjudicate.v,judgment.n
+Sound_level	2	quiet.a,loud.a
+Documents	35	brief.n,testimony.n,agreement.n,will.n,treaty.n,opinion.n,confirmation.n,business card.n,passport.n,ruling.n,subpoena.n,writ.n,document.n,license.n,visa.n,summons.n,permit.n,diploma.n,papers.n,accord.n,warrant.n,deed.n,deposition.n,certificate.n,lease.n,authorization.n,title.n,charter.n,contractual.a,contract.n,identification.n,finding.n,affidavit.n,orders.n,testament.n
+Fire_stopping_scenario	0	
+Conquering	7	capture.v,reduce.v,take.v,overcome.v,fall.v,takeover.n,conquer.v
+Fastener	4	buckle.n,button.n,seal.n,zipper.n
+Meet_specifications	2	fulfill.v,meet.v
+Cause_emotion	9	insult.n,affront.n,offense.n,concern.v,affront.v,call name.v,offend.v,insult.v,offensive.a
+Member_of_military	7	commando.n,service member.n,marine.n,airman.n,troop.n,sailor.n,soldier.n
+Change_position_on_a_scale	56	rise.n,dip.v,mushroom.v,shift.n,reach.v,growth.n,increase.n,slide.v,balloon.v,down.prep,edge.v,drop.v,lower.v,fluctuate.v,elevation.n,decline.v,accelerated.a,increase.v,explosion.n,gain.n,depression.n,dwindle.v,decline.n,plummet.v,climb.v,decrease.n,decrease.v,fluctuation.n,contraction.n,explode.v,grow.v,swing.v,fall.n,gain.v,triple.v,fall.v,skyrocket.v,rocket.v,advance.v,tumble.n,growing.a,shift.v,diminish.v,swell.v,depressed.a,hike.n,contract.v,move.v,double.v,escalation.n,increasingly.adv,rise.v,jump.v,elevated.a,soar.v,tumble.v
+Locale_by_ownership	3	land.n,estate.n,property.n
+Money	8	capital.n,dinero.n,sterling.n,fund.n,cash.n,dough.n,funds.n,money.n
+Socially_significant_history_scenario	0	
+Existence	5	existence.n,remain.v,there be.v,exist.v,real.a
+Eclipse	32	eclipse.n,occlude.v,masked.a,cover.v,shroud.v,obscured.a,shrouded.a,block.v,covered.a,hide.v,obscure.v,cloaked.a,screened.a,occlusion.n,mask.v,occultation.n,conceal.v,hidden.a,concealed.a,blot out.v,obstruct.v,becloud.v,befog.v,beclouded.a,veil.v,befogged.a,enshroud.v,eclipse.v,cloak.v,enshrouded.a,veiled.a,screen.v
+Medical_interaction_scenario	5	doctor.n,patient.n,surgeon.n,medical care.n,nurse.n
+Sleep_wake_cycle	0	
+Estimating	4	estimation.n,estimate.v,put (at).v,guess.v
+Cause_change_of_strength	5	fortify.v,strengthen.v,reinforce.v,beef up.v,weaken.v
+Simple_name	2	word.n,term.n
+Historic_event	3	make history.idio,historic.a,historic [entity].a
+Meet_with	1	meet with.v
+Being_up_to_it	3	sufficient.a,equal.a,up to.prep
+Distributed_abundance	0	
+Thwarting	11	prevent.v,counter.v,hamstring.v,stop.v,derail.v,frustrate.v,stymie.v,thwart.v,forestall.v,preclude.v,foil.v
+Becoming	2	turn.v,become.v
+Emotion_heat	8	smoulder.v,fume.v,burn.v,boil.v,stew.v,chafe.v,seethe.v,simmer.v
+Noncombatant	3	civilian.n,civvie.n,non-combatant.n
+Cause_to_be_wet	12	douse.v,wet.v,humidify.v,hydrate.v,soak.v,sop.v,saturate.v,moisturize.v,moisten.v,souse.v,drench.v,dampen.v
+Breaking_off	3	snap.v,break.v,chip.v
+Detaching	10	unhook.v,detach.v,untie.v,unfasten.v,undo.v,unhinge.v,unmoor.v,unhitch.v,unchain.v,decouple.v
+Ingredients	6	element.n,material.n,precursor.n,component.n,trace.n,ingredient.n
+Records	5	recording.n,log.n,journal.n,record.n,book.n
+Abandonment	5	abandonment.n,forget.v,abandon.v,leave.v,abandoned.a
+Ingest_substance	15	pop.v,smoke.v,pull.v,sniff.v,have.v,inject.v,use.v,drag.n,take.v,snort.v,drag.v,do.v,puff.v,toke.n,shoot.v
+Hearsay	2	hear.v,read.v
+Activity_paused_state	0	
+Commerce_money-transfer	0	
+Cause_to_wake	5	wake up.v,rouse.v,get up.v,wake.v,awaken.v
+Cause_to_move_in_place	16	roll.v,wave.v,juggle.v,jiggle.v,wiggle.v,spin.v,twirl.v,vibrate.v,shake.v,swing.v,seesaw.v,rock.v,turn.v,rotate.v,squeeze.v,swirl.v
+Undergoing	2	experience.v,undergo.v
+Amounting_to	7	total.a,total.v,in amount.idio,tally.n,total.n,amount.v,number.v
+Losing_track_of	0	
+Attempt_obtain_mineral_scenario	0	
+Achieving_first	15	discoverer.n,pioneer.v,originator.n,invent.v,inventor.n,discover.v,pioneer.n,coin.v,pioneering.a,coinage.n,find.v,invention.n,invention artifact.n,originate.v,discovery.n
+Make_cognitive_connection	7	connection.n,tie.v,connect.v,link.n,tie.n,link.v,linked.a
+Aggregate	69	school.n,covey.n,crop.n,mob.n,harem.n,horde.n,stand.n,repertoire.n,posse.n,huddle.n,claque.n,flock.n,repertory.n,population.n,quartet.n,host.n,quintet.n,army.n,trio.n,sextet.n,flotilla.n,clump.n,passel.n,community.n,body.n,tribe.n,herd.n,force.n,book.n,combination.n,team.n,batch.n,brood.n,pack.n,collection.n,party.n,cohort.n,bunch.n,legion.n,gaggle.n,heap.n,class.n,clique.n,crew.n,assembly.n,variety.n,crowd.n,assortment.n,gang.n,throng.n,multitude.n,assemblage.n,band.n,clutch.n,multiplicity.n,bevy.n,group.n,circle.n,coterie.n,colony.n,cluster.n,family.n,corps.n,swarm.n,set.n,squad.n,slew.n,package.n,shoal.n
+Intentional_deception	6	fool.v,deception.n,trick.v,get.v,deceive.v,mislead.v
+Cogitation	20	ruminate.v,meditate.v,reflection.n,consideration.n,deliberation.n,ponder.v,wonder.v,deliberate.v,consider.v,meditation.n,muse.v,dwell.v,brood.v,mull over.v,reflect.v,give thought.idio,contemplation.n,thought.n,contemplate.v,think.v
+Enforcing	2	enforce.v,enforcement.n
+Proportion	1	rate.n
+Familiarity	7	familiar.a,know.v,ken.n,new.a,unfamiliar.a,acquainted.a,intimate.a
+Accomplishment	6	achievement.n,bring about.v,accomplish.v,accomplishment.n,achieve.v,effect.v
+Cause_temperature_change	10	refrigerate.v,heat up.v,cool down.v,warm.v,warm up.v,heat.v,overheat.v,cool.v,reheat.v,chill.v
+Part_ordered_segments	6	inning.n,level.n,act.n,chapter.n,book.n,layer.n
+Repayment	3	repay.v,repayment.n,pay back.v
+Funding	5	finance.v,bankroll.v,back.v,support.v,fund.v
+Fall_for	2	swallow.v,fall for.v
+Exercising	3	exercise.v,work out.v,exercise.n
+Gradable_artistic_quality	5	austere.a,cluttered.a,stark.a,severe.a,busy.a
+Fairness_evaluation	7	unjust.a,fair.a,unfairly.adv,unjustly.adv,inequitable.a,fairly.adv,unfair.a
+Being_necessary	8	requirement.n,essential.a,necessity.n,basic.a,needed.a,indispensable.a,necessary.a,required.a
+Successfully_communicate_message	3	convey.v,get across.v,get through.v
+Duration_description	17	rapid.a,chronic.a,ephemeral.a,extended.a,lengthy.a,short.a,eternal.a,long.a,sustained.a,enduring.a,persistent.a,momentary.a,perpetual.a,brief.a,lasting.a,interim.a,abiding.a
+Continued_state_of_affairs	6	up to.prep,as of yet.adv,still.adv,as yet.adv,to date.adv,so far.adv
+Arson	2	arson.n,arsonist.n
+Gradable_attributes	0	
+Pardon	2	pardon.v,pardon.n
+Pre_receiving	0	
+Alternatives	8	alternative.n,future.n,option.n,way.n,possibility.n,use.n,chance.n,choice.n
+Suspicion	3	suspect.n,suspect.v,under suspicion (of).prep
+Amassing	5	stockpile.v,hoard.v,amass.v,accumulation.n,accumulate.v
+Make_acquaintance	2	meet.v,make (someone's) acquaintance.idio
+Standing_by	3	on call.a,stand by.v,on station.a
+Have_as_requirement	4	need.v,require.v,take.v,demand.v
+Sounds	87	gurgle.n,hiss.n,hoot.n,hum.n,mew.n,moan.n,neigh.n,patter.n,peal.n,peep.n,plash.n,plop.n,plunk.n,purr.n,quack.n,rap.n,rasp.n,roar.n,rustle.n,scrape.n,screech.n,scrunch.n,sizzle.n,slap.n,smack.n,snarl.n,snigger.n,snore.n,snort.n,sob.n,sough.n,babble.n,bark.n,squawk.n,beep.n,thump.n,bellow.n,squeal.n,blare.n,thunder.n,blast.n,tinkle.n,buzz.n,titter.n,bleat.n,toll.n,boom.n,trumpet.n,bray.n,tweet.n,burble.n,twitter.n,cackle.n,wail.n,caw.n,whimper.n,chatter.n,whine.n,cheep.n,whinny.n,chirp.n,whistle.n,chuckle.n,yammer.n,clack.n,yap.n,clang.n,yelp.n,clash.n,yodel.n,clatter.n,yowl.n,click.n,sound.n,clink.n,noise.n,coo.n,bang.n,cough.n,creak.n,crunch.n,drone.n,gasp.n,giggle.n,growl.n,grunt.n,guffaw.n
+Certainty	20	doubt.n,certain.a,believe.v,confident.a,know.v,certainty.n,dubious.a,doubt.v,skepticism.n,doubtful.a,skeptical.a,convinced.a,trust.v,confidence.n,skeptic.n,sure.a,positive.a,unsure.a,uncertain.a,uncertainty.n
+Grasp	14	get.v,fathom.v,incomprehensible.a,apprehend.v,intelligible.a,comprehensible.a,see.v,grasp.v,comprehend.v,understand.v,unintelligible.a,graspable.a,follow.v,grasp.n
+Trendiness	8	chic.a,hip.a,big.a,cool.a,fashionable.a,trendy.a,style.n,fashion.n
+Categorization	28	category.n,classification.n,understand.v,identify.v,categorize.v,interpret.v,consider.v,translate.v,deem.v,peg.v,pigeonhole.v,conceive.v,count.v,define.v,view.v,stereotype.v,interpretation.n,typecast.v,regard.v,bracket.v,perceive.v,read.v,class.v,classify.v,construe.v,categorization.n,see.v,render.v
+Process_continue	9	continue.v,drag on.v,underway.a,go on.v,persist.v,on.adv,ongoing.a,proceed.v,persistence.n
+Obviousness	15	audible.a,manifest.a,obvious.a,evident.a,visible.a,obviously.adv,show.v,clear.a,clearly.adv,clarity.n,show up.v,clearly [with clarity].adv,stand out.v,noticeable.a,unclear.a
+Cause_to_land	2	land.v,set down.v
+Transition_to_a_situation	1	come.v
+Range	8	intercontinental.a,view.n,strike.n,sight.n,earshot.n,range.n,distance.n,reach.n
+Hunting	3	seal.v,fish.v,hunt.v
+Delivery	2	delivery.n,deliver.v
+Event	9	transpire.v,go on.v,occur.v,take place.v,event.n,happen.v,episode.n,incident.n,development.n
+Source_of_getting	1	source.n
+Adding_up	3	tally.v,add up.v,total.v
+Reason	5	motivation.n,reason.n,motive.n,why.n,basis.n
+History	1	history.n
+Temporary_stay	10	stay.n,overnight.v,sleep over.v,stay over.v,quarter.v,room.v,guest.v,board.v,lodge.v,stay.v
+Size	36	gigantic.a,big.a,small.a,large.a,enormous.a,immeasurable.a,huge.a,jumbo.a,tiny.a,little.a,medium.a,grand.a,mini.a,giant.a,Brobdingnagian.a,great.a,voluminous.a,infinitesimal.a,miniature.a,sizable.a,miniscule.a,substantial.a,capacious.a,medium-sized.a,immense.a,mid-size.a,ample.a,Lilliputian.a,massive.a,bitty.a,wee.a,colossal.a,puny.a,petite.a,humongous.a,bulky.a
+Endeavor_failure	6	flop.v,fold.v,go under.v,go bust.v,collapse.v,fail.v
+Come_together	11	throng.v,meet.v,gang together.v,amass.v,assemble.v,convene.v,band.v,band together.v,come together.v,gather.v,congregate.v
+Losing_someone	1	lose.v
+Hunting_success_or_failure	2	catch.v,bag.v
+Punctual_perception	3	glimpse.n,glimpse.v,get an eyeful.v
+Measurable_attributes	13	long.a,big around.a,low.a,thick.a,deep.a,short.a,thin.a,high.a,narrow.a,tall.a,broad.a,heavy.a,light [weight].a
+Subsisting	2	subsist.v,live (on).v
+Cause_to_make_noise	16	sound.v,toll.v,trumpet.v,clang.v,peep.v,blast.v,tinkle.v,toot.v,blare.v,play.v,ringer.n,creak.v,ring.v,honk.v,beep.v,clash.v
+Locale_by_event	6	battlefield.n,scene.n,field.n,site.n,venue.n,theater [of war].n
+Organization	18	group.n,board.n,order.n,society.n,cartel.n,parliament.n,government.n,news outlet.n,club.n,organization.n,association.n,league.n,delegation.n,intelligence.n,agency.n,union.n,brotherhood.n,committee.n
+Deciding	4	decision.n,determine.v,decide.v,rule out.v
+Firing_point	1	firing point.n
+Alignment_image_schema	0	
+Spelling_and_pronouncing	7	write.v,pronounce.v,say.v,spell.v,misspell.v,sound.n,mispronounce.v
+Being_in_category	4	constitute.v,tantamount.a,count.v,amount.v
+Hedging	8	on the side.a,like.adv,rather.adv,something.n,sort of.adv,kind of.adv,a bit.n,in a way.adv
+Pre_transfer	0	
+Identicality	5	identical.a,same.a,identity.n,different.a,distinct.a
+Architectural_part	13	wall.n,facade.n,landing.n,foundation.n,flight.n,window.n,ceiling.n,fireplace.n,mantel.n,counter.n,floor.n,roof.n,rail.n
+Instance	4	example.n,specimen.n,instance.n,case.n
+History_scenario	0	
+Ride_vehicle	13	hitchhike.v,cruise.n,sail.v,ride.n,flight.n,taxi.v,jet.v,cruise.v,coast.v,fly.v,take.v,ride.v,bus.v
+Operate_vehicle	24	row.v,skate.v,canoe.v,sledge.v,tack.v,taxi.v,toboggan.v,cruise.v,boat.v,drive.v,balloon.v,ride.v,sail.v,bicycle.v,fly.v,motor.v,pedal.v,bike.v,caravan.v,paddle.v,cycle.v,parachute.v,punt.v,raft.v
+Prank	2	prank.n,practical joke.n
+Level_of_light	12	lightless.a,unlighted.a,sunny.a,black.a,moonless.a,sunless.a,light.a,lighted.a,bright.a,shady.a,dim.a,dark.a
+Change_tool	5	trade.v,swap.v,switch.v,transfer.v,change.v
+Labeling	4	call.v,term.v,label.v,brand.v
+Use_vehicle	0	
+Lose_possession	0	
+Inclusion	9	integrated.a,excluding.prep,incorporate.v,have.v,contain.v,including.prep,exclude.v,inclusive.a,include.v
+Run_risk	5	risk.n,wager.v,peril.n,risk.v,endangered.a
+Light_movement	33	glimmer.n,scintillate.v,coruscation.n,gleam.v,coruscate.v,refulgence.n,glint.v,shimmer.v,twinkle.n,glint.n,gleam.n,glister.v,glisten.v,glitter.n,strike.v,scintillation.n,glistening.a,shine.n,glow.v,glister.n,flash.v,shine.v,glow.n,flare.v,flicker.n,flash.n,glitter.v,sheen.n,twinkle.v,flicker.v,glimmer.v,sparkle.v,flame.v
+Contrary_circumstances	4	amidst.prep,in the face of.prep,despite.prep,in face of.prep
+Dynamic_situation_scenario	0	
+Path_shape	42	exit.v,twisty.a,ascend.v,swing.v,undulate.v,crisscross.v,twisting.a,descent.n,edge.v,veer.v,dive.v,rise.v,emergence.n,crest.v,meander.v,round.v,dip.v,weave.v,enter.v,winding.a,pass.v,ford.v,twist.v,run.v,drop.v,bend.v,windy.a,emerge.v,traverse.v,descend.v,bear.v,swerve.v,ascent.n,reach.v,cross.v,snake.v,zigzag.v,slant.v,wind.v,skirt.v,leave.v,angle.v
+Being_obligated	13	bound.a,task.n,responsibility.n,obliged.a,duty.n,mission.n,contract.n,obligation.n,commission.n,obligated.a,assignment.n,job.n,imposition.n
+Visitor_scenario	0	
+Perception_experience	13	overhear.v,perception.n,feel.v,see.v,smell.v,sense.v,experience.v,detect.v,taste.v,experience.n,witness.v,perceive.v,hear.v
+Waiting	2	bide its time.v,wait.v
+Co-association	10	countryman.n,sister.n,associate.n,comrade.n,co-worker.n,colleague.n,co-religionist.n,brother.n,partner.n,fellow.a
+Sensation	24	incense.n,scent.n,noise.n,sense.n,feeling.n,taste.n,aroma.n,odor.n,image.n,scene.n,feel.n,fragrance.n,sound.n,sensation.n,savour.n,stink.n,perfume.n,reek.n,perception.n,smell.n,bouquet.n,whiff.n,flavour.n,sight.n
+Cause_motion	42	stick.v,toss.v,push.v,knock.v,nudge.v,haul.v,throw.v,jerk.v,scoot.v,drive.v,thrust.v,hurl.v,slide.v,shove.v,force.v,run.v,propel.v,drop.v,impel.v,press.v,rake.v,draw.v,punt.v,cast.v,transfer.v,tug.v,wrest.v,pitch.v,lift.v,pull.v,attract.v,wrench.v,chuck.v,roll.v,fling.v,launch.v,hit.v,drag.v,move.v,slam.v,catapult.v,yank.v
+Quitting_a_place	21	retreat.v,sally.v,escapee.n,defection.n,vacate.v,desertion.n,emigrant.n,withdrawal.n,emigrate.v,withdraw.v,emigration.n,quit.v,defect.v,bolt.v,retreat.n,abandon.v,emigre.n,vamoose.v,split.v,desert.v,skedaddle.v
+Reserving	5	booking.n,hold.v,book.v,reserve.v,reservation.n
+Respond_to_proposal	8	acceptance.n,rejection.n,accept.v,rebuff.n,turn down.v,reject.v,rebuff.v,refuse.v
+Heat_potential	2	toasty.a,warm.a
+Compatibility	26	congruous.a,incompatibility.n,accord.v,incompatible.a,biocompatible.a,compatibility.n,harmonize.v,square.v,consonant.a,comport.v,agree.v,cohere.v,consistent.a,conflicting.a,congruent.a,dovetail.v,go.v,compatible.a,harmony.n,match.v,at variance.a,clash.v,fly in the face of.v,conflict.v,rhyme.v,jibe.v
+Commercial_transaction	1	transaction.n
+Influencing_potential	0	
+Cause_proliferation_in_number	2	proliferation.n,multiplication.n
+Emotions_by_possibility	0	
+Aging	3	aging.a,age.v,mature.v
+System	3	complex.n,system.n,cascade.n
+Linguistic_meaning	15	reading.n,ambiguous.a,mean.v,designate.v,meaning.n,sense.n,vague.a,monosemous.a,denote.v,polysemous.a,intension.n,referential.a,non-referential.a,denotation.n,extension.n
+Intercepting	2	intercept.v,interception.n
+Extreme_value	7	maximum.a,maximum.n,minimum.n,high.n,low.n,acme.n,minimum.a
+Circumscribed_existence	3	occur.v,appear.v,found.a
+Undergo_transformation	12	transform.v,transmogrify.v,transubstantiation.n,transition.v,metamorphose.v,transmute.v,transubstantiate.v,transmutation.n,transformation.n,conversion.n,metamorphosis.n,convert.v
+Causation	39	for.c,because of.prep,make.v,leave.v,due to.prep,raise.v,send.v,consequence.n,resulting.a,motivate.v,dictate.v,give rise.v,cause.n,cause.v,legacy.n,since.c,lead (to).v,resultant.a,reason.n,sway.v,consequent.a,consequential.a,bring about.v,result.n,precipitate.v,responsible.a,because.c,bring.v,put.v,render.v,mean.v,force.v,bring on.v,result (in).v,causative.a,see.v,so.c,induce.v,wreak.v
+Gusto	3	life.n,spirit.n,vim.n
+Contingency	14	variable.n,dependence.n,factor.n,depends.v,independence.n,depend.v,hang (on).v,dictate.v,dependent.a,determine.v,independent.a,hinge.v,function.n,turn.v
+Visiting_scenario_arrival	0	
+Waver_between_options	6	waffle.v,waver.v,flip-flop.v,vacillate.v,dither.v,go back and forth.v
+Hiding_objects	7	camouflage.v,hide.v,cover.v,conceal.v,shroud.v,block.v,mask.v
+Trying_out	3	try.v,test out.v,try out.v
+Capability	17	capability.n,potential.n,powerlessness.n,capable.a,potential.a,powerless.a,inability.n,power [statistical].n,incapable.a,able.a,can.v,powerful.a,unable.a,capacity.n,power.n,incapacity.n,ability.n
+Placing	69	smear.v,stand.v,stash.v,stow.v,stuff.v,tuck.v,wrap.v,bag.v,billet.v,bin.v,bottle.v,archive.v,box.v,cage.v,crate.v,file.v,garage.v,pocket.v,shelve.v,stable.v,perch.v,sit.v,daub.v,drizzle.v,dab.v,drape.v,brush.v,dust.v,heap.v,jam.v,hang.v,rub.v,cram.v,shower.v,pot.v,sheathe.v,warehouse.v,load.v,shoulder.v,inject.v,stick.v,implant.v,bestow.v,immerse.v,put.v,insert.v,package.v,plunge.v,arrange.v,emplace.v,enclose.v,implanted.a,gag.v,embed.v,insertion.n,lay.v,lean.v,lodge.v,pack.v,park.v,pile.v,place.v,deposit.v,placement.n,plant.v,position.v,rest.v,set.v,situate.v
+Cache	2	cache.n,stash.n
+Ammunition	7	ammunition.n,shell.n,round.n,ordnance.n,munitions.n,ammo.n,bullet.n
+Having_commercial_agreement	0	
+Indigenous_origin	6	indigenous.a,stranger.n,local.n,non-native.a,autochthonous.a,native.a
+Catching_fire	5	catch fire.v,start.v,combust.v,catch.v,break out.v
+Fire_going_out	4	go out.v,die.v,burn out.v,gutter out.v
+Waking_up	7	come to.v,come back around.v,wake.v,awake.v,wake up.v,get up.v,revive.v
+Come_into_effect	5	kick in.v,come into effect.v,take effect.v,go into effect.v,apply.v
+Evading	9	elude.v,evasion.n,skip town.v,evade.v,flee.v,elusive.a,give the slip.v,get away.v,evasive.a
+Being_incarcerated	8	incarcerated.a,serve (one's) time.v,inmate.n,jail.n,prison.n,behind bars.adv,do time.idio,serve.v
+Passing	1	pass.v
+Distributed_position	24	coat.v,garnish.v,litter.v,festoon.v,pave.v,blanket.v,line.v,adorn.v,envelop.v,decorate.v,across.prep,dot.v,wreathe.v,cloak.v,deck.v,film.v,around.prep,cover.v,stud.v,encrust.v,all over.prep,fill.v,over.prep,encircle.v
+Grinding	14	mash.v,crush.v,mill.v,crunch.v,chew.v,pulverize.v,shred.v,pulp.v,crumble.v,masticate.v,grate.v,mastication.n,grind.v,flake.v
+Event_initial_state	0	
+Measure_mass	8	milligram.n,ton.n,metric ton.n,gram.n,ounce.n,kilo.n,pound.n,kilogram.n
+Employment_scenario	0	
+Locative_relation	40	near.prep,underground.a,elsewhere.adv,athwart.prep,surrounding.a,here.adv,mainland.n,there.adv,southeast.prep,around.prep,bracket.v,all over.prep,out.prep,northeast.prep,astride.prep,to.prep,along.prep,everywhere.adv,distant.a,border.v,outlying.a,west.prep,northwest.prep,north.prep,offshore.a,south.prep,throughout.prep,southwest.prep,beyond.prep,up.prep,down.prep,where.adv,above-ground.a,inland.a,at.prep,past.prep,meet.v,underground.adv,over.prep,ubiquitous.a
+Vehicle_landing	3	land.v,set down.v,touch down.v
+Social_interaction_evaluation	52	ill-mannered.a,rudeness.n,disrespectful.a,gracious.a,discourteous.a,kind.a,thoughtful.a,impolite.a,churlish.a,amiable.a,tactful.a,sweet.a,compassionate.a,cruelty.n,cruel.a,impudent.a,compassion.n,insensitive.a,unfriendly.a,ungracious.a,atrocious.a,mean.a,boorish.a,considerate.a,spiteful.a,thoughtless.a,uncivil.a,rude.a,genial.a,mature.a,cordial.a,diplomatic.a,civil.a,pleasant.a,thoughtfulness.n,sociable.a,good-humored.a,smart.a,respectful.a,warm.a,nice.a,impertinent.a,horrible.a,inconsiderate.a,friendly.a,polite.a,barbaric.a,courteous.a,good.a,maturity.n,good-natured.a,unkind.a
+Objective_influence	7	effect.n,influence.v,impact.v,influence.n,impact.n,affect.v,power.n
+Post_lose_possession	0	
+Artifact_subpart	1	part.n
+Performing_arts	3	play.n,performance.n,music.n
+Coming_up_with	18	formulate.v,concoct.v,think up.v,conceive.v,design.v,devise.v,contrivance.n,invent.v,contrive.v,find.v,concoction.n,hatch.v,cook up.v,invention [artifact].n,come up.v,design.n,invention [process].n,improvise.v
+Progression	13	progression.n,advance.n,mature.v,maturation.n,develop.v,burgeon.v,stagnate.v,improve.v,progress.v,progress.n,advance.v,development.n,advancement.n
+Revolution	1	revolutionary.n
+Vehicle	46	helicopter.n,bus.n,canoe.n,kayak.n,car.n,buggy.n,truck.n,liner.n,bike.n,sedan.n,taxi.n,vessel.n,plane.n,tank car.n,tram.n,warplane.n,ferry.n,chopper.n,boat.n,yacht.n,bicycle.n,helo.n,ship.n,bird.n,automobile.n,minivan.n,tricycle.n,ambulance.n,airplane.n,aircraft.n,scooter.n,schooner.n,train.n,carriage.n,cab.n,coach.n,vehicle.n,lorry.n,submarine.n,tank.n,cart.n,toboggan.n,pick-up.n,van.n,limousine.n,convertible.n
+Make_agreement_on_action	5	deal.n,agree.v,agreement.n,settle.v,treaty.n
+Change_of_phase	15	solidification.n,sublimation.n,melt.v,evaporation.n,liquefy.v,unfreeze.v,freeze.v,thaw.v,sublime.v,solidify.v,evaporate.v,vaporize.v,condense.v,condensation.n,defrost.v
+Manner_of_life	3	live.v,lifestyle.n,life.n
+Adopt_selection	3	adopt.v,embrace.v,assume.v
+Process_end	12	conclude.v,finale.n,draw to a close.v,end [cessation].n,come to a end.v,pass.v,final.a,end.v,end [final-subevent].n,end.n,come to a close.v,draw to a end.v
+Temporary_transfer_scenario	0	
+Fugitive	5	fugitive.n,lamster.n,on the run.a,on the lam.a,on the loose.a
+Craft	3	art.n,science.n,craft.n
+Capital_stock	6	ordinary.a,common.a,stock.n,share.n,preferred.a,voting.a
+Color	28	ebony.a,black.a,green.a,beige.a,turquoise.a,colored.a,pink.a,violet.a,tan.a,mauve.a,puce.a,maroon.a,purple.a,orange.a,color.n,white.a,crimson.a,brown.a,azure.a,red.a,indigo.a,gray.a,vermilion.a,buff.a,scarlet.a,yellow.a,pitchblack.a,blue.a
+Warning	4	warn.v,alert.n,forewarn.v,warning.n
+Electricity	13	power.n,electrical.a,hydroelectricity.n,electrical power.n,electric power.n,juice.n,energy.n,current.n,electricity.n,photoelectric.a,photoelectricity.n,electric.a,hydroelectric.a
+Possession	23	belongings.n,assets.n,owner.n,want.n,property.n,own.v,lack.v,possession [definite noun].n,possessor.n,possession [of goods].n,possess.v,ownership.n,effects.n,have got.v,wanting.a,custody.n,belong.v,have.v,got.v,lack.n,want.v,possession.n,lacking.a
+Part_piece	18	chip.n,scrap.n,smidgen.n,lump.n,flake.n,shred.n,clump.n,slice.n,board [computer].n,piece.n,morsel.n,fragment.n,clod.n,hunk.n,chunk.n,shard.n,sliver.n,snippet.n
+Proper_reference	2	proper.a,self.n
+Becoming_aware	28	tell.v,detect.v,chance (on).v,find out.v,note.v,find (oneself).v,discovery.n,recognize.v,observe.v,spy out.v,chance (across).v,happen (on).v,come (upon).v,locate.v,find.v,espy.v,discern.v,spot.v,pick up.v,perceive.v,discover.v,encounter.v,fall (on).v,notice.v,register.v,learn.v,come (across).v,descry.v
+Create_representation	6	carve.v,cast.v,draw.v,paint.v,photograph.v,sketch.v
+Social_event	26	ball.n,social.n,barbecue.n,fair.n,dinner-party.n,feast.n,gala.n,get-together.n,host.v,fete.n,jollification.n,bash.n,reception.n,soiree.n,shindig.n,benefit.n,dance.n,rave.n,party.n,celebration.n,banquet.n,picnic.n,function.n,dinner.n,meeting.n,festival.n
+Custom	12	habit.n,custom.n,ways.n,practice.n,ritualistic.a,customary.a,ritual.n,habitual.a,tradition.n,traditional.a,convention.n,traditionally.adv
+Inspecting	9	double-check.v,proof-read.v,examine.v,pat down.v,examination.n,inspection.n,frisk.v,check.v,inspect.v
+Installing	2	install.v,installation.n
+Extradition	2	extradition.n,extradite.v
+Secrecy_status	12	publicly.adv,public.a,surreptitious.a,covert.a,clandestine.a,secret.a,unclassified.a,open.a,secretly.adv,concealed.a,confidential.a,shadowy.a
+Chatting	16	conversation.n,speak.v,chat.v,chat.n,gossip.n,banter.n,joke.v,gossip.v,gab.v,badinage.n,shoot the breeze.v,yak.v,colloquy.n,chit-chat.n,converse.v,talk.v
+Replacing	8	replacement.n,swap out.v,exchange.v,switch.v,substitute.v,replace.v,change.v,substitution.n
+Be_in_agreement_on_action	6	deal.n,accord.n,treaty.n,agreement.n,strike.v,convention.n
+Unemployment_rate	3	unemployment.n,joblessness.n,employment.n
+Imprisonment	8	imprison.v,incarceration.n,time.n,jail.v,put away.v,imprisonment.n,life.n,incarcerate.v
+Becoming_dry	4	dehydrate.v,dry up.v,dry.v,exsiccate.v
+Ground_up	10	milled.a,crushed.a,crumbled.a,ground.a,grated.a,powdered.a,pulverized.a,flaked.a,shredded.a,granulated.a
+Court_examination	5	cross-examination.n,examination.n,examine.v,cross-examine.v,cross.n
+Toxic_substance	6	venom.n,poison.n,venomous.a,toxic.a,toxin.n,poisonous.a
+Bungling	34	muff.v,fuck-up [person].n,fuck-up [event].n,screw-up [event].n,fumble.n,fiasco.n,foozle.v,bungler.n,screw up.v,bungling.a,bumble.v,louse up.v,bumbling.a,flounder.v,founder.v,stumble.v,bollix.v,fuck up.v,bollix up.v,botch up.v,fumble.v,flub.v,ruin.v,blow.v,blow it.v,screw-up [person].n,ball up.v,mess-up.n,fluff.v,mess up.v,foul up.v,muck up.v,bungle.v,botch.v
+Measure_linear_extent	11	block.n,mile.n,inch.n,centimeter.n,foot.n,meter.n,kilometer.n,furlong.n,yard.n,light-year.n,millimeter.n
+Be_subset_of	4	among.prep,subset.n,count.v,number.v
+Visit_host	0	
+Exchange_currency	3	convert.v,exchange.v,change.v
+Commemorative	7	Labor Day.n,birthday.n,Boxing Day.n,Passover Eve.n,April Fool's Day.n,Armistice Day.n,Christmas Day.n
+Process_start	10	commence.v,commencement.n,erupt.v,start.v,incipient.a,begin.v,onset.n,eruption.n,nascent.a,break out.v
+Activity_prepare	8	prepare.v,fix.v,compose.v,rally.v,gear up.v,ready.v,get ready.v,preparation.n
+Detonate_explosive	5	detonate.v,blow.v,detonation.n,explode.v,blow up.v
+Kidnapping	12	kidnapping.n,kidnapped.a,abduction.n,abducted.a,kidnap.v,kidnapper.n,abduct.v,abductor.n,shanghai.v,snatcher.n,nab.v,snatch.v
+Putting_out_fire	8	extinguish.v,blow out.v,stamp out.v,quench.v,douse.v,snuff out.v,smother.v,put out.v
+Experience_bodily_harm	20	burn.v,graze.v,sprain.v,twist.v,hit.v,jam.v,abrade.v,pull.v,stub.v,break.v,scrape.v,sunburn.v,injure.v,strain.v,injury.n,tear.v,cut.v,bruise.v,smack.v,hurt.v
+Employing	8	employee.n,commission.v,employ.v,personnel.n,employment.n,staff.n,employer.n,worker.n
+Lending	3	loan.v,loan.n,lend.v
+Social_desirability	9	common.a,low.a,proletarian.a,upper-class.a,plebeian.a,working-class.a,pedestrian.a,humble.a,vulgar.a
+Moving_in_place	18	quiver.v,quiver.n,wave.v,roll.v,swing.n,spin.v,turn.v,shake.v,earthquake.n,judder.v,temblor.n,rotate.v,quake.n,twirl.v,vibrate.v,swing.v,rock.v,flop.v
+Extreme_point	5	high-water mark.n,zenith.n,nadir.n,high point.n,low point.n
+Execute_plan	5	effect [into effect].n,implement.v,institute.v,implementation.n,force [into force].n
+Shaped_part	6	brim.n,handle.n,rind.n,arm.n,leg.n,mouth.n
+Transition_to_a_quality	1	go.v
+Scouring	8	ransack.v,sweep.n,sweep.v,rummage.v,sift.v,comb.v,rifle.v,scour.v
+Be_on_alert	2	alert.n,guard.n
+Losing_track_of_theme	1	lose.v
+Offshoot	5	offshoot.n,splinter group.n,breakaway.a,faction.n,sect.n
+Text	92	essay.n,history.n,exemplum.n,brochure.n,fable.n,material.n,festschrift.n,pamphlet.n,haiku.n,issue.n,letter.n,paper [newspaper].n,limerick.n,paper [article].n,lyric.n,epic.a,fanzine.n,eulogy.n,memoir.n,publication.n,monograph.n,life.n,mystery.n,record.n,novel.n,textbook.n,novelette.n,novella.n,ode.n,poetry.n,poem.n,autobiography.n,rhyme.n,saga.n,song.n,sonnet.n,speech.n,tetralogy.n,thriller.n,tragedy.n,trilogy.n,whodunit.n,manual.n,imprecation.n,handbook.n,paperback.n,hardback.n,grimoire.n,spellbook.n,lay.n,book.n,magazine.n,tome.n,account.n,sermon.n,tract.n,screenplay.n,script.n,article.n,obituary.n,volume.n,mag.n,epilogue.n,edition.n,treatise.n,report.n,bulletin.n,tractate.n,hagiography.n,epigram.n,journal.n,periodical.n,editorial.n,meditation.n,booklet.n,biography.n,epistle.n,fiction.n,manuscript.n,ballad.n,chronicle.n,writings.n,diary.n,missive.n,drama.n,comedy.n,newspaper.n,elegy.n,list.n,epic.n,benediction.n,literature.n
+Dispersal	13	pass on.v,dispersal.n,distribution.n,disseminate.v,strew.v,distribute.v,spread.v,disperse.v,sprinkle.v,scatter.v,dissolve.v,dissolution.n,dispersion.n
+Triggering	2	set off.v,trigger.v
+Impression	2	image.n,persona.n
+Probability	6	chance.n,probability.n,odds.n,likelihood.n,significance.n,chances.n
+Agriculture	3	farm.v,farming.n,cultivate.v
+Body_description_holistic	42	heavy-set.a,muscular.a,brawny.a,tall.a,spindly.a,lean.a,portly.a,stout.a,thin.a,lanky.a,slender.a,stubby.a,angular.a,fat.a,pudgy.a,paunchy.a,skinny.a,puny.a,dumpy.a,scrawny.a,svelte.a,female.a,beefy.a,gaunt.a,big-boned.a,chubby.a,medium-build.a,hefty.a,wiry.a,male.a,stocky.a,plump.a,short.a,lithe.a,slim.a,thickset.a,rangy.a,squat.a,corpulent.a,bony.a,flabby.a,obese.a
+Removing_scenario	0	
+Convoy	2	convoy.n,train.n
+Interrupt_process	3	uninterrupted.a,interrupt.v,interruption.n
+Mental_activity	0	
+Vehicle_subpart	12	seatbelt.n,windshield.n,tire.n,seat.n,trunk.n,door.n,wheel.n,brake.n,part.n,window.n,engine.n,hood.n
+Commerce_goods-transfer	0	
+Feeling	6	feelings.n,feel.v,experience.v,full.a,emotion.n,sense.n
+Presence	3	presence.n,absence.n,present.a
+Expend_resource	11	use up.v,eat up.v,devour.v,exhaust.v,deplete.v,squander.v,expend.v,run out.v,spend.v,go through.v,consume.v
+Rising_to_a_challenge	2	rise.v,rise to the occasion.v
+Biological_area	36	bog.n,wood.n,jungle.n,swampland.n,plain.n,meadowland.n,heathland.n,copse.n,glade.n,tundra.n,taiga.n,marsh.n,marshland.n,fen.n,shrubbery.n,moor.n,grassland.n,mead.n,lea.n,veld.n,wold.n,thicket.n,savanna.n,mire.n,prairie.n,bush.n,woodland.n,greenwood.n,swamp.n,spinney.n,mudflat.n,scrub.n,desert.n,oasis.n,forest.n,rainforest.n
+Disembarking	9	debark.v,disembark.v,detrain.v,dismount.v,disembarkation.n,get.v,debus.v,alight.v,deplane.v
+Rate_description	3	rapid.a,fast.a,rapidly.adv
+Version_sequence	6	initial.a,draft.n,rough.a,working.a,preliminary.a,final.a
+Reading_activity	1	read.v
+Relational_political_locales	3	capital.n,county seat.n,see.n
+Event_endstate	0	
+Offering	4	offer.v,serve.v,extend.v,proffer.v
+Communication	12	say.v,speech.n,signal.v,codeword.n,indicate.v,contact.n,communication [act].n,password.n,share.v,communicate.v,convey.v,communication [entity].n
+Personal_relationship	61	familiar.a,fiancée.n,fiancé.n,divorcee.n,friend.n,relationship.n,betrothed.a,chummy.a,cohabit.v,cohabitation.n,partner.n,seeing.v,widower.n,widow.v,bachelor.n,divorced.a,break-up.n,buddy.n,date.v,moll.n,widow.n,paramour.n,wife.n,mistress.n,inamorata.n,court.v,beau.n,romance.n,widowed.a,sugar daddy.n,spouse.n,significant other.n,couple.n,cobber.n,betrothed.n,chum.n,husband.n,lover.n,pal.n,befriend.v,mate.n,crush.n,affair.n,married.a,adultery.n,girlfriend.n,amigo.n,single.a,suitor.n,sleep (together/with).v,engaged.a,spousal.a,engagement.n,marital.a,boyfriend.n,estranged.a,affianced.a,marriage.n,friendship.n,spinster.n,companion.n
+Fleeing	4	run away.v,bolt.v,flight.n,flee.v
+System_complexity	3	simple.a,complex.a,byzantine.a
+Process_initial_state	0	
+Gathering_up	8	amass.v,assemble.v,herd.v,bring together.v,round up.v,convene.v,gather.v,collect.v
+Being_included	0	
+Activity_finish	7	conclude.v,tie up.v,graduate.v,finish.v,wrap up.v,completion.n,complete.v
+Perception_active	34	listen.v,look.n,taste.n,gaze.v,look.v,taste.v,observation.n,glance.n,view.v,observe.v,watch.v,palpate.v,feel.v,eavesdrop.v,squint.v,peek.n,admire.v,peek.v,eye.v,peep.v,gape.v,peer.v,gawk.v,goggle.v,savour.v,smell.v,glance.v,attend.v,sniff.n,sniff.v,spy.v,gaze.n,stare.n,stare.v
+Typicality	13	average.a,normal.a,typically.adv,unusual.a,irregularity.n,curious.a,abnormal.a,common.a,conventional.a,odd.a,commonplace.a,vanilla.a,ordinary.a
+Animals	6	pig.n,animal.n,sheep.n,cat.n,dog.n,cow.n
+Entourage	4	retinue.n,tail.n,entourage.n,train.n
+Ordinal_numbers	14	first.a,tenth.a,ninth.a,nineteenth.a,last.a,seventeenth.a,fifth.a,sixteenth.a,third.a,thirteenth.a,fourth.a,eighth.a,final.a,second.a
+Omen	23	presage.n,ominous.a,foretoken.v,foreshadowing.n,bode.v,omen.n,foretell.v,portend.v,prefigure.v,threaten.v,promise.v,foreshadow.v,foretoken.n,harbinger.n,portent.n,forebode.v,promising.a,announce.v,promise.n,betoken.v,herald.v,augur.v,presage.v
+Bringing	31	airlift.v,hump.v,bike.v,transport.n,take.v,trundle.v,transport.v,ferry.v,lug.v,cart.v,mobile.a,bus.v,drive.v,motor.v,truck.v,tote.v,row.v,bear.v,convey.v,fly.v,fetch.v,get.v,carry.v,portable.a,schlep.v,jet.v,bring.v,wheel.v,shuttle.v,haul.v,paddle.v
+Abounding_with	67	bespattered.a,spattered.a,decorated.a,studded.a,lined.a,ornamented.a,varnished.a,painted.a,lacquered.a,glazed.a,wallpapered.a,gilded.a,embellished.a,panelled.a,rife.a,teem.v,piled.a,littered.a,full.a,filled.a,overfilled.a,bedecked.a,crawling.a,overcrowded.a,adorned.a,crawl.v,bejewelled.a,chock-a-block.a,chock-full.a,throng.v,surfaced.a,swarm.v,crowded.a,blanketed.a,jostling.a,thronged.a,covered.a,cloaked.a,coated.a,dabbed.a,thronging.a,dusted.a,smeared.a,buttered.a,draped.a,dotted.a,plastered.a,strewn.a,drizzled.a,splattered.a,tiled.a,injected.a,crammed.a,sprinkled.a,asphalted.a,stuffed.a,brushed.a,teeming.a,hung.a,jammed.a,paved.a,brimming.a,festooned.a,replete.a,decked.a,swarming.a,heaped.a
+Difficulty	26	a cinch.n,challenging.a,a snap.n,easy.a,like taking candy from a baby.adv,a pain.n,arduous.a,challenge.n,a breeze.n,a pain in the neck.n,tough.a,ease.n,a piece of cake.n,trivial.a,child's play.n,difficulty.n,a bitch.n,a walk in the park.n,near thing.a,impossible.a,a doddle.n,no picnic.n,difficult.a,a bastard.n,hard.a,tricky.a
+Questioning	12	question.v,interrogate.v,question.n,questioning.n,interrogation.n,query.v,ask.v,query.n,quiz.v,grill.v,inquire.v,inquiry.n
+Rotting	10	rot.v,moulder.v,spoil.v,fester.v,rot.n,putrefy.v,decay.v,perish.v,decay.n,decompose.v
+Compliance	35	lawless.a,breach.v,contrary.a,violate.v,breach.n,conformity.n,keep.v,honor.v,abide (by).v,obedient.a,observant.a,violation.n,play by the rules.v,circumvent.v,adhere.v,(in/out of) line.n,noncompliance.n,observance.n,disobey.v,in accordance.a,by-pass.v,adherence.n,contravention.n,contravene.v,follow.v,compliance.n,flout.v,conform.v,break.v,obey.v,observe.v,compliant.a,comply.v,transgress.v,transgression.n
+Amalgamation	19	fuse.v,band together.v,unite.v,jumble.v,combination.n,mix.v,consolidate.v,amalgamate.v,come together.v,coalesce.v,blend.v,unify.v,combine.v,merge.v,commingle.v,meld.v,intermix.v,merger.n,join.v
+Measure_area	2	acre.n,hectare.n
+Post_getting	0	
+Visitor_departure	0	
+Activity_ongoing	8	continue.v,carry on.v,maintenance.n,proceed.v,keep on.v,keep up.v,maintain.v,keep.v
+Complaining	15	whinge.v,belly-ache.v,bitch.v,grievance.n,moan.v,gripe.n,complain.v,grouse.v,grousing.n,complaint.n,gripe.v,grumble.v,lament.v,whine.v,piss and moan.v
+Trial	2	case.n,trial.n
+Plants	2	tree.n,weed.n
+Opportunity	4	opportunity.n,chance.n,opportune.a,break.n
+Exemplar	7	image.n,paragon.n,epitome.n,exemplar.n,model.n,prototype.n,true.a
+Event_instance	7	twice.adv,occasion.n,repeated.a,time.n,once.adv,repeatedly.adv,thrice.adv
+Emanating	7	radiate.v,emanate.v,excrete.v,issue.v,exude.v,secrete.v,discharge.v
+Separating	11	sever.v,bisect.v,part.v,section.v,segregate.v,segment.v,separate.v,split.v,partition.v,divide.v,partition.n
+Price_per_unit	1	rate.n
+Part_orientational	45	base.n,back.a,left.n,southern.a,tip.n,northern.a,right.n,northernmost.a,south.a,easternmost.a,apex.n,western.a,top.a,top.n,southernmost.a,westernmost.a,eastern.a,bottom.a,crest.n,north.n,left.a,south.n,east.a,west.n,underside.n,east.n,side.n,right.a,northwest.n,bottom.n,north-south.n,foot.n,west.a,hind.a,underbelly.n,front.a,back.n,rear.a,heart.n,summit.n,front.n,north.a,face.n,rear.n,peak.n
+Product_line	2	line.n,collection.n
+Serving_in_capacity	1	serve.v
+Surrendering	4	surrender.n,surrender.v,give up.v,turn in.v
+Lose_possession_scenario	0	
+Requirement_scenario	0	
+Frequency	51	recurrent.a,recurring.a,daily.adv,sporadic.a,seldom.adv,weekly.a,usually.adv,yearly.a,normally.adv,interval.n,in general.adv,period.n,generally.adv,sometime.a,every so often.adv,on and off.adv,ordinarily.adv,off and on.adv,now and then.adv,frequency.n,common.a,always.adv,recurrence.n,time to time.adv,never.adv,often.adv,frequently.adv,annual.a,infrequently.adv,bi-annual.a,occasionally.adv,bi-monthly.a,biennial.a,sometimes.adv,daily.a,every.prep,fortnightly.a,all the time.adv,nightly.a,once in a while.adv,frequent.a,regularly.adv,infrequent.a,every once in a while.adv,intermittent.a,at times.adv,rare.a,monthly.a,constantly.adv,occasional.a,periodic.a
+Non-gradable_proximity	21	by.prep,left [landmark-based].n,under.prep,port.n,over.prep,neighboring.a,on.prep,along.prep,in back (of).prep,right [landmark-based].n,ahead.adv,left [viewpoint-based].n,beneath.prep,underneath.prep,opposite.prep,behind.prep,opposite.a,in front (of).prep,right [viewpoint-based].n,starboard.n,beside.prep
+Locale_by_use	64	hedge.n,cemetery.n,urban.a,village.n,countryside.n,center.n,facility.n,complex.n,installation.n,reactor.n,harbor.n,lab.n,plant.n,rural.a,country.n,laboratory.n,depot.n,farm.n,site.n,school.n,airfield.n,university.n,factory.n,silo.n,parking lot.n,base.n,courtyard.n,settlement.n,institute.n,pub.n,restaurant.n,museum.n,gallery.n,garden.n,park.n,square.n,mine.n,theater.n,city.n,shop.n,college.n,field.n,open space.a,post office.n,park[2].n,canal.n,green.n,ranch.n,headquarters.n,downtown.n,campus.n,zoo.n,port.n,work.n,court.n,range.n,compound.n,station.n,firehouse.n,bathhouse.n,development.n,plantation.n,safe house.n,boutique.n
+Borrowing	1	borrow.v
+Searching_scenario	0	
+Evoking	12	put in mind (of).v,call to mind.v,conjure.v,evocative.a,evoke.v,ring a bell.v,recall.v,bring to mind.v,evocation.n,suggest.v,reminder.n,remind.v
+Preliminaries	6	preliminary.n,groundwork.n,prefatory.a,preparatory.a,exploratory.a,preliminary.a
+Criminal_process	0	
+Losing	2	lose.v,misplace.v
+Tolerating	6	toleration.n,bear.v,tolerant.a,stand.v,endure.v,tolerate.v
+Beyond_compare	12	nonpareil.a,incomparable.a,beyond compare.a,unrivalled.a,without peer.a,without match.a,unmatched.a,without equal.a,without compare.a,unequalled.a,peerless.a,matchless.a
+Team	4	team.n,firefighter.n,crew.n,fire fighter.n
+Similarity	33	resemblance.n,like.n,unlike.a,distinct.a,alike.a,similarity [count].n,mimic.v,discrepant.a,ringer.n,differ.v,disparity.n,vary.v,image.n,very image.n,discrepancy.n,dissimilarity [mass].n,dissimilar.a,like.prep,difference.n,variant.n,resemble.v,take after.v,dissimilarity.n,disparate.a,difference [count].n,different.a,like.a,distinction.n,similar.a,similarity [mass].n,parallel.n,unlike.prep,spitting image.n
+Military_operation	3	operate.v,campaign.n,operation.n
+Operating_a_system	3	operate.v,manage.v,run.v
+Improvised_explosive_device	6	car bomb.n,dismounted IED.n,IED.n,improvised explosive device.n,VBIED.n,roadside bomb.n
+Earnings_and_losses	12	net.v,earn.v,loss.n,revenue.n,result.n,net.n,make.v,earnings.n,lose.v,pull.v,profit.n,income.n
+Intoxicants	37	dope.n,ketamine.n,hashish.n,speed.n,marijuana.n,cocaine.n,heroin.n,acid.n,LSD.n,cannabis.n,freebase.n,codeine.n,upper.n,alcohol.n,weed.n,methamphetamine.n,crack.n,tobacco.n,pot.n,hallucinogen.n,opium.n,snuff.n,amphetamine.n,nicotine.n,inhalant.n,grass.n,morphine.n,peyote.n,drug.n,cigarette.n,sedative.n,coke.n,barbiturate.n,tranquillizer.n,ecstasy.n,mescaline.n,downer.n
+Treating_and_mistreating	3	treat.v,use.v,mistreat.v
+Part_edge	1	edge.n
+Protest	5	protester.n,protest.v,demonstrate.v,protest.n,demonstration.n
+Fire_burning	17	conflagration.n,flames.n,ablaze.a,spot fire.n,inferno.n,blaze.n,alight.a,rage.v,on fire.a,brush fire.n,fire.n,hot spot.n,burn.v,bonfire.n,campfire.n,blaze.v,backfire.n
+Attempting_and_resolving_scenario	0	
+Taking_sides	18	oppose.v,supportive.a,part.n,opposition [act].n,opposition [entity].n,opponent.n,side.n,for.prep,in favor.prep,endorse.v,pro.adv,side.v,support.v,supporter.n,back.v,backing.n,believe (in).v,against.prep
+Ineffability	7	magic.a,ineffable.a,je ne sais quoi.n,magical.a,magic.n,ineffability.n,magicalness.n
+Self_control	12	repress.v,suppress.v,refrain.v,restrain.v,repression.n,suppression.n,resistant.a,restraint.n,resist.v,(can't) help.v,resistance.n,hold back.v
+Change_of_leadership	29	depose.v,rebellion.n,election.n,enthrone.v,coronate.v,crown.v,elect.v,vest.v,insurrection.n,install.v,revolt.v,oust.v,revolutionary.n,overthrow.v,dethrone.v,mutiny.v,independence.n,revolution.n,rising.n,freedom.n,overthrow.n,coup.n,ouster.n,mutiny.n,revolt.n,take over.v,uprising.n,throne.v,topple.v
+Medium	1	in.prep
+Cotheme	25	conduct.v,pursuer.n,accompany.v,usher.v,stalk.v,follow.v,tag along.v,walk.v,dog.v,guided.a,guide.v,dog (someone's) steps.idio,shepherd.v,pursuit.n,show.v,hound.v,lead.v,lead the way.v,chase.v,pursue.v,shadow.v,tail.v,track.v,trail.v,escort.v
+Attack	38	assault.v,attack.n,assailant.n,drive-by.n,safire.n,SAF.n,fall (upon).v,airstrike.n,charge.n,small arms fire.n,bombing.n,fire.n,onslaught.n,lay (into).v,ambush.v,storm.v,bombardment.n,jump.v,bomb.v,assail.v,raid.v,ambush.n,onset.n,set (upon).v,raid.n,hit.v,assault.n,offensive.a,attacker.n,infiltrate.v,attack.v,strike.v,incursion.n,infiltration.n,charge.v,bombard.v,strike.n,offensive.n
+Likelihood	31	chance.n,guaranteed.a,liable.a,probably.adv,may.v,certainly.adv,likely.adv,improbability.n,tend.v,assured.a,sure.a,likelihood.n,probability.n,certainty.n,probable.a,must.v,prone.a,possibly.adv,certain.a,undoubtedly.adv,likely.a,surely.adv,long.a,possibility.n,possible.a,would.v,can.v,bound.a,impossible.a,unlikely.a,might.v
+Activity_ready_state	3	prepared.a,set.a,ready.a

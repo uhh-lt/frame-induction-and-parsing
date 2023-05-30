@@ -1,0 +1,645 @@
+cid	size	cluster
+Preference	3	prefer.v, disprefer.v, favor.v
+Progression	7	develop.v, progress.v, burgeon.v, advance.v, mature.v, stagnate.v, improve.v
+Adjusting	3	calibrate.v, adjust.v, tweak.v
+Theft	22	pinch.v, pilfer.v, snitch.v, filch.v, thieve.v, steal.v, swipe.v, lift.v, abscond (with).v, shoplift.v, purloin.v, make off (with).v, misappropriate.v, embezzle.v, bag.v, nick.v, rustle.v, snatch.v, cop.v, abstract.v, flog.v, pickpocket.v
+Cause_to_continue	1	keep.v
+Enforcing	1	enforce.v
+Becoming_dry	4	dry up.v, dry.v, exsiccate.v, dehydrate.v
+Mass_motion	15	stream.v, roll.v, shower.v, flock.v, throng.v, swarm.v, hail.v, pour.v, rain.v, flood.v, parade.v, crowd.v, teem.v, troop.v, pelt.v
+Offering	4	serve.v, proffer.v, offer.v, extend.v
+Retaining	4	hang on to.v, keep.v, hold on to.v, retain.v
+Prevent_or_allow_possession	5	deny.v, deprive.v, starve.v, permit.v, allow.v
+Hit_target	3	shoot.v, hit.v, pick off.v
+Heralding	1	herald.v
+Surrendering	3	surrender.v, turn in.v, give up.v
+Commitment	10	swear.v, undertake.v, vow.v, consent.v, promise.v, threaten.v, covenant.v, commit.v, pledge.v, volunteer.v
+Emotions_of_mental_activity	6	groove.v, savour.v, luxuriate.v, enjoy.v, relish.v, delight (in).v
+Making_arrangements	4	set up.v, plan.v, put together.v, organize.v
+Reassuring	1	reassure.v
+Coming_to_believe	16	speculate.v, surmise.v, deduce.v, determine.v, realize.v, strike.v, ascertain.v, learn.v, conclude.v, infer.v, puzzle out.v, guess.v, work out.v, gather.v, find.v, figure out.v
+Reading_aloud	2	read.v, read out.v
+Desirable_event	4	ought to.v, have to.v, be supposed to.v, should.v
+Abundance	2	abound.v, teem.v
+Being_in_control	5	dominate.v, rule.v, manage.v, control.v, manipulate.v
+Launch_process	1	launch.v
+Linguistic_meaning	3	mean.v, denote.v, designate.v
+Counterattack	1	counter-attack.v
+Predicting	8	vaticinate.v, claim.v, foretell.v, forecast.v, prognosticate.v, prophesy.v, predict.v, soothsay.v
+Change_posture	25	kneel.v, stand up.v, stand.v, bend.v, stoop.v, drop.v, rise.v, hunch up.v, kneel up.v, hunch.v, slouch.v, crouch down.v, huddle.v, crouch.v, sprawl.v, sprawl out.v, squat down.v, squat.v, lean.v, sit up.v, sit.v, lie.v, sit down.v, kneel down.v, lie down.v
+Verification	6	certify.v, verify.v, confirm.v, make sure.v, identify.v, substantiate.v
+Sign	4	signify.v, mark.v, usher in.v, indicate.v
+Cause_change	11	change.v, convert.v, turn.v, make.v, transform.v, alter.v, deform.v, vary.v, modify.v, shift.v, reshape.v
+Sound_movement	5	echo.v, reverberate.v, resound.v, blast.v, roll.v
+Speak_on_topic	13	sermonize.v, go on.v, pontificate.v, ramble.v, deal.v, tell.v, preach.v, lecture.v, discuss.v, hold forth.v, expatiate.v, expound.v, address.v
+Trying_out	3	test out.v, try out.v, try.v
+Discussion	8	talk over.v, confer.v, talk (to).v, communicate.v, discuss.v, parley.v, negotiate.v, debate.v
+Detonate_explosive	4	detonate.v, blow.v, explode.v, blow up.v
+Self_control	7	(can't) help.v, hold back.v, repress.v, suppress.v, refrain.v, resist.v, restrain.v
+Using_resource	2	use.v, spend.v
+Bringing	28	tote.v, truck.v, take.v, jet.v, airlift.v, drive.v, bear.v, lug.v, hump.v, fetch.v, wheel.v, paddle.v, convey.v, bus.v, carry.v, schlep.v, motor.v, ferry.v, cart.v, bike.v, row.v, haul.v, transport.v, get.v, bring.v, trundle.v, shuttle.v, fly.v
+Quitting	6	quit.v, stand down.v, leave.v, retire.v, resign.v, step down.v
+Occupy_rank	2	stand.v, rank.v
+Reforming_a_system	3	restructure.v, reform.v, overhaul.v
+Living_conditions	1	live.v
+Contrition	2	repent.v, rue.v
+Circumscribed_existence	2	appear.v, occur.v
+Use_firearm	3	shoot.v, fire.v, discharge.v
+Competition	2	compete.v, play.v
+Objective_influence	3	affect.v, influence.v, impact.v
+Endeavor_failure	6	go under.v, fold.v, collapse.v, fail.v, flop.v, go bust.v
+Getting_vehicle_underway	6	cast off.v, weigh anchor.v, pull (out).v, take (off).v, launch.v, lift (off).v
+Win_prize	1	win.v
+Chatting	9	joke.v, yak.v, shoot the breeze.v, talk.v, speak.v, chat.v, converse.v, gab.v, gossip.v
+Required_event	13	had better.v, best.v, oughta.v, must.v, need.v, be supposed (to).v, shall.v, hafta.v, better.v, got to.v, ought to.v, have to.v, gotta.v
+Silencing	7	silence.v, shush.v, hush.v, quiet.v, hush up.v, quiet down.v, shut up.v
+Intentionally_create	9	generate.v, set up.v, produce.v, found.v, develop.v, create.v, make.v, establish.v, synthesise.v
+Cutting	9	fillet.v, chop.v, dice.v, cube.v, slice.v, mince.v, carve.v, cut.v, pare.v
+Reserving	3	book.v, reserve.v, hold.v
+Cause_emotion	5	affront.v, offend.v, insult.v, concern.v, call name.v
+Commerce_sell	4	vend.v, retail.v, sell.v, auction.v
+Be_in_agreement_on_action	1	strike.v
+Conduct	6	act.v, conduct.v, misbehave.v, behave.v, carry oneself.v, act up.v
+Memorization	3	learn.v, memorise.v, commit to memory.v
+Activity_start	12	open.v, launch (into).v, start.v, strike up.v, initiate.v, begin.v, set about.v, swing (into).v, enter.v, take up.v, get started.v, commence.v
+Gathering_up	8	gather.v, round up.v, amass.v, herd.v, collect.v, convene.v, bring together.v, assemble.v
+Make_noise	105	laugh.v, crepitate.v, yowl.v, yodel.v, growl.v, yelp.v, gobble.v, yap.v, giggle.v, yammer.v, whistle.v, whisper.v, whinny.v, gasp.v, fizzle.v, whine.v, drone.v, whimper.v, wail.v, ululate.v, crunch.v, croon.v, twitter.v, croak.v, tweet.v, trumpet.v, toll.v, creak.v, titter.v, cough.v, tinkle.v, coo.v, thunder.v, thump.v, click.v, squeal.v, clatter.v, squeak.v, clash.v, squawk.v, sough.v, clang.v, chuckle.v, sob.v, chirp.v, snort.v, snore.v, cheep.v, snigger.v, chatter.v, snicker.v, caw.v, snarl.v, caterwaul.v, cackle.v, sizzle.v, burble.v, scrunch.v, screech.v, scrape.v, bray.v, rustle.v, bleat.v, roar.v, blast.v, blare.v, bellow.v, rattle.v, babble.v, rasp.v, quack.v, bark.v, purr.v, plop.v, plonk.v, plash.v, peep.v, peal.v, patter.v, toot.v, neigh.v, play.v, moo.v, moan.v, honk.v, mewl.v, sound.v, mew.v, cry.v, keen.v, hum.v, howl.v, boom.v, hoot.v, hem and haw.v, hiss.v, beep.v, hawk.v, ring.v, scream.v, sploosh.v, gurgle.v, clack.v, guffaw.v, grunt.v
+Colonization	5	settle.v, repopulate.v, people.v, populate.v, colonize.v
+Atonement	2	atone.v, expiate.v
+Assistance	9	help out.v, aid.v, assist.v, serve.v, succor.v, aid and abet.v, cater.v, abet.v, help.v
+Cause_to_move_in_place	16	spin.v, juggle.v, wiggle.v, vibrate.v, turn.v, squeeze.v, swirl.v, roll.v, rock.v, seesaw.v, swing.v, shake.v, jiggle.v, rotate.v, wave.v, twirl.v
+Losing	2	lose.v, misplace.v
+Pardon	1	pardon.v
+Exporting	1	export.v
+Hiding_objects	7	conceal.v, block.v, cover.v, shroud.v, camouflage.v, mask.v, hide.v
+Taking_sides	6	support.v, side.v, back.v, believe (in).v, endorse.v, oppose.v
+Emitting	10	discharge.v, secrete.v, exude.v, radiate.v, excrete.v, exhale.v, emit.v, void.v, emanate.v, give off.v
+Halt	2	stop.v, halt.v
+Ceasing_to_be	6	go away.v, fade.v, disappear.v, vanish.v, dissolve.v, dissipate.v
+Finish_competition	5	fold.v, tie.v, lose.v, win.v, show.v
+Provide_lodging	4	house.v, put up.v, host.v, lodge.v
+Surpassing	8	outdo.v, pale.v, outstrip.v, outshine.v, surpass.v, eclipse.v, better.v, exceed.v
+Come_down_with	5	contract.v, come down (with).v, acquire.v, catch.v, get.v
+Making_faces	7	pout.v, grin.v, smirk.v, frown.v, grimace.v, smile.v, scowl.v
+Amassing	4	stockpile.v, amass.v, hoard.v, accumulate.v
+Closure	15	unscrew.v, seal.v, tie.v, unfasten.v, close.v, uncork.v, open.v, zip.v, cap.v, fasten.v, buckle.v, lace.v, unzip.v, button.v, unbuckle.v
+Motion	23	weave.v, slide.v, come.v, zigzag.v, circle.v, undulate.v, meander.v, coast.v, wind.v, travel.v, swerve.v, swing.v, spiral.v, roll.v, float.v, fly.v, glide.v, blow.v, go.v, soar.v, snake.v, drift.v, move.v
+Forgiveness	4	pardon.v, condone.v, forgive.v, excuse.v
+Causation	22	cause.v, leave.v, mean.v, render.v, wreak.v, result (in).v, bring on.v, bring.v, dictate.v, sway.v, force.v, make.v, precipitate.v, lead (to).v, send.v, raise.v, motivate.v, bring about.v, induce.v, put.v, see.v, give rise.v
+Mention	2	touch (on).v, mention.v
+Capacity	6	feed.v, fit.v, sleep.v, take.v, serve.v, seat.v
+Operational_testing	5	flight-test.v, crash-test.v, test.v, try out.v, flight test.v
+Separating	10	bisect.v, divide.v, split.v, separate.v, segregate.v, segment.v, section.v, partition.v, sever.v, part.v
+Adding_up	3	tally.v, total.v, add up.v
+Extradition	1	extradite.v
+Burying	1	bury.v
+Operate_vehicle	24	ride.v, drive.v, cruise.v, toboggan.v, taxi.v, tack.v, sledge.v, skate.v, row.v, raft.v, punt.v, pedal.v, parachute.v, paddle.v, balloon.v, motor.v, cycle.v, caravan.v, canoe.v, boat.v, bike.v, bicycle.v, fly.v, sail.v
+Arriving	15	arrive.v, crest.v, visit.v, return.v, find.v, descend (on).v, appear.v, approach.v, make it.v, hit.v, come.v, get.v, enter.v, make.v, reach.v
+Cause_to_be_wet	12	dampen.v, moisten.v, douse.v, sop.v, humidify.v, soak.v, hydrate.v, wet.v, souse.v, saturate.v, drench.v, moisturize.v
+Research	2	research.v, investigate.v
+Remainder	1	remain.v
+Submitting_documents	4	submit.v, hand in.v, turn in.v, file.v
+Misdeed	2	transgress.v, sin.v
+Seeking_to_achieve	2	seek.v, pursue.v
+Attaching	52	moor.v, cinch.v, agglutinate.v, solder.v, shackle.v, weld.v, fetter.v, fix.v, tack.v, bracket.v, staple.v, wire.v, stick.v, glue.v, mount.v, join.v, fasten.v, chain.v, connect.v, truss.v, paste.v, tether.v, lash.v, cement.v, link.v, yoke.v, tack on.v, sew.v, concatenate.v, handcuff.v, append.v, bond.v, adhere.v, gum.v, strap.v, fuse.v, pin.v, secure.v, tie.v, nail.v, rivet.v, plaster.v, hook.v, tape.v, untie.v, detach.v, manacle.v, hitch.v, bind.v, attach.v, affix.v, anchor.v
+Institutionalization	4	commit.v, institutionalize.v, hospitalize.v, admit.v
+Precipitation	7	rain.v, sleet.v, hail.v, shower.v, drizzle.v, sprinkle.v, snow.v
+Reference_text	4	refer.v, qv.v, cf.v, see.v
+Punctual_perception	2	glimpse.v, get an eyeful.v
+Taking	4	take.v, grab.v, seize.v, commandeer.v
+Expensiveness	2	set back.v, cost.v
+Cause_to_be_included	2	include.v, add.v
+Manner_of_life	1	live.v
+Waking_up	7	come to.v, come back around.v, wake.v, get up.v, revive.v, wake up.v, awake.v
+Duration_relation	2	persist.v, last.v
+Cause_temperature_change	10	cool down.v, warm.v, heat up.v, refrigerate.v, cool.v, chill.v, heat.v, reheat.v, warm up.v, overheat.v
+Cause_bodily_experience	7	hurt.v, chafe.v, itch.v, scratch.v, massage.v, rub.v, tickle.v
+Breaking_out_captive	2	free.v, break out.v
+Coming_to_be	12	form.v, appear.v, take shape.v, coalesce.v, come into existence.v, come to be.v, emerge.v, develop.v, materialize.v, evolve.v, arise.v, spring up.v
+Contingency	7	hinge.v, depends.v, turn.v, determine.v, dictate.v, depend.v, hang (on).v
+Placing	66	insert.v, shower.v, inject.v, cram.v, billet.v, implant.v, rub.v, bag.v, wrap.v, tuck.v, immerse.v, jam.v, stuff.v, heap.v, stow.v, dust.v, lay.v, stash.v, brush.v, stand.v, drape.v, smear.v, dab.v, situate.v, deposit.v, set.v, rest.v, gag.v, drizzle.v, daub.v, enclose.v, sit.v, position.v, emplace.v, plant.v, arrange.v, perch.v, hang.v, stable.v, shelve.v, plunge.v, place.v, package.v, pocket.v, embed.v, pile.v, put.v, park.v, garage.v, file.v, bestow.v, pack.v, stick.v, crate.v, lodge.v, shoulder.v, cage.v, load.v, box.v, warehouse.v, archive.v, lean.v, sheathe.v, bottle.v, pot.v, bin.v
+Success_or_failure	7	fail.v, miss.v, pull off.v, manage.v, ace.v, succeed.v, get there.v
+Body_movement	61	scrunch.v, wink.v, crumple.v, flex.v, wiggle.v, flap.v, wave.v, drop.v, crinkle.v, waggle.v, stamp.v, wag.v, twiddle.v, cross.v, twitch.v, crane.v, toss.v, cock.v, shut.v, clap.v, close.v, throw.v, bob.v, open.v, swing.v, blink.v, stretch.v, bend.v, shuffle.v, arch.v, smack.v, shrug.v, crease.v, shake.v, duck.v, roll.v, curtsy.v, purse.v, shiver.v, pucker.v, jiggle.v, pout.v, yawn.v, nod.v, bat.v, fidget.v, lift.v, shudder.v, jerk.v, fling.v, wriggle.v, hang.v, writhe.v, grind.v, reach.v, kneel.v, twist.v, gnash.v, flutter.v, wrinkle.v, move.v
+Escaping	8	bust out.v, get out.v, fly the coop.v, escape.v, scarper.v, get free.v, get loose.v, evacuate.v
+Distinctiveness	1	characterize.v
+Process_resume	2	resume.v, restart.v
+Criminal_investigation	3	probe.v, investigate.v, inquire.v
+Withdraw_from_participation	3	beg off.v, withdraw.v, pull out.v
+Warning	2	forewarn.v, warn.v
+Adjacency	4	adjoin.v, border.v, neighbor.v, abut.v
+Absorb_heat	25	broil.v, braise.v, blanch.v, barbecue.v, singe.v, sear.v, scorch.v, bake.v, toast.v, steam.v, sizzle.v, saute.v, boil.v, roast.v, parboil.v, cook.v, fry.v, poach.v, simmer.v, grill.v, stew.v, deep fry.v, coddle.v, char.v, brown.v
+Forgoing	7	forbear.v, go without.v, do without.v, abstain.v, forgo.v, skip.v, refrain.v
+Existence	3	exist.v, remain.v, there be.v
+Disembarking	8	alight.v, dismount.v, get.v, detrain.v, deplane.v, debark.v, disembark.v, debus.v
+Losing_it	6	blow cool.v, go apeshit.v, go ballistic.v, flip out.v, lose it.v, freak out.v
+Dressing	8	don.v, put on.v, throw on.v, dress up.v, dress.v, slip on.v, pull on.v, get on.v
+Legal_rulings	5	adjudicate.v, judge.v, rule.v, decree.v, deem.v
+Process_end	7	end.v, draw to a close.v, come to a end.v, come to a close.v, pass.v, conclude.v, draw to a end.v
+Rewards_and_punishments	4	discipline.v, punish.v, recompense.v, reward.v
+Attention	3	ignore.v, keep an eye.v, attend.v
+Be_in_agreement_on_assessment	3	see eye to eye.v, agree.v, concur.v
+Being_operational	1	work.v
+Meet_with_response	1	meet.v
+Memory	5	recollect.v, recall.v, remember.v, bethink oneself.v, retain.v
+Protecting	7	shield.v, guard.v, safeguard.v, insulate.v, secure.v, protect.v, shelter.v
+Manufacturing	4	produce.v, fabricate.v, manufacture.v, make.v
+Fluidic_motion	28	spill.v, spray.v, run.v, rush.v, soak.v, jet.v, stream.v, seep.v, squirt.v, splatter.v, splash.v, spout.v, spew.v, course.v, cascade.v, hiss.v, dribble.v, gush.v, trickle.v, spurt.v, bubble.v, leak.v, flow.v, percolate.v, purl.v, ooze.v, pump.v, drip.v
+Redirecting	3	divert.v, detour.v, redirect.v
+Expansion	11	stretch.v, grow.v, inflate.v, contract.v, swell.v, dilate.v, expand.v, spread.v, lengthen.v, enlarge.v, shrink.v
+Manipulate_into_shape	7	curl.v, wind.v, loop.v, twist.v, coil.v, roll (into).v, mold.v
+Certainty	4	doubt.v, believe.v, know.v, trust.v
+Bond_maturation	2	endow.v, mature.v
+Leadership	11	govern.v, spearhead.v, preside.v, head.v, administer.v, run.v, rule.v, lead.v, command.v, reign.v, chair.v
+Activity_ongoing	7	maintain.v, continue.v, proceed.v, carry on.v, keep on.v, keep up.v, keep.v
+Change_operational_state	9	cut off.v, deactivate.v, activate.v, cut.v, kill.v, turn off.v, shut off.v, turn on.v, boot.v
+Besieging	4	siege.v, besiege.v, invest.v, beleaguer.v
+Emotion_active	6	fuss.v, lose sleep.v, agonize.v, worry.v, fret.v, obsess.v
+Have_associated	2	have.v, have got.v
+Posing_as	3	impersonate.v, pose.v, masquerade.v
+Scrutiny	30	double-check.v, comb.v, spy out the land.v, sift.v, scour.v, go [through].v, skim.v, monitor.v, explore.v, reconnoitre.v, ransack.v, peruse.v, eyeball.v, analyse.v, scan.v, scrutinize.v, frisk.v, probe.v, rummage.v, pry.v, study.v, rifle.v, look.v, scout.v, investigate.v, search.v, assay.v, check.v, survey.v, sweep.v
+Moving_in_place	13	swing.v, flop.v, turn.v, wave.v, judder.v, roll.v, quiver.v, vibrate.v, shake.v, twirl.v, spin.v, rotate.v, rock.v
+Commerce_buy	2	purchase.v, buy.v
+Practice	3	practice.v, rehearse.v, run (through).v
+Participation	3	engage.v, take part.v, participate.v
+Losing_someone	1	lose.v
+Categorization	24	translate.v, categorize.v, perceive.v, understand.v, view.v, see.v, consider.v, typecast.v, regard.v, bracket.v, classify.v, render.v, stereotype.v, read.v, define.v, deem.v, conceive.v, peg.v, class.v, construe.v, identify.v, interpret.v, pigeonhole.v, count.v
+Delimitation_of_diversity	1	range.v
+Deserving	5	merit.v, warrant.v, deserve.v, call.v, justify.v
+Quarreling	8	fight.v, bicker.v, row.v, argue.v, wrangle.v, quibble.v, quarrel.v, squabble.v
+Explosion	4	explode.v, blow.v, blow up.v, detonate.v
+Agriculture	2	cultivate.v, farm.v
+Cause_harm	69	impale.v, maim.v, bludgeon.v, injure.v, gash.v, fracture.v, flog.v, cuff.v, slice.v, torture.v, cudgel.v, beat up.v, crack.v, clout.v, electrocute.v, claw.v, pummel.v, chop.v, wound.v, cut.v, knee.v, crush.v, butt.v, hammer.v, slap.v, break.v, squash.v, batter.v, smack.v, burn.v, whip.v, run through.v, horsewhip.v, hurt.v, club.v, buffet.v, stone.v, belt.v, spear.v, twist.v, bash.v, stab.v, drug.v, beat.v, thwack.v, smash.v, strike.v, punch.v, swipe.v, knife.v, sting.v, kick.v, boil.v, elbow.v, pelt.v, bayonet.v, mutilate.v, maul.v, welt.v, lash.v, transfix.v, hit.v, poison.v, flagellate.v, knock.v, cane.v, bruise.v, jab.v, biff.v
+Forging	4	fake.v, counterfeit.v, forge.v, falsify.v
+Becoming_detached	4	detach.v, unhook.v, decouple.v, unhinge.v
+Confronting_problem	2	confront.v, face.v
+Achieving_first	6	coin.v, find.v, discover.v, pioneer.v, invent.v, originate.v
+Sleep	9	slumber.v, sleep.v, hibernate.v, snooze.v, kip.v, doze.v, drowse.v, catnap.v, nap.v
+Experiencer_obj	132	gall.v, frustrate.v, let down.v, frighten.v, fascinate.v, excite.v, kill.v, wound.v, exasperate.v, enthrall.v, encourage.v, entertain.v, agonize.v, enrage.v, demolish.v, enchant.v, destroy.v, embarrass.v, stagger.v, engage.v, disturb.v, harass.v, distress.v, displease.v, worry.v, appeal.v, dishearten.v, grate.v, discourage.v, arouse.v, disconcert.v, devastate.v, discomfit.v, crush.v, disappoint.v, fulfill.v, depress.v, boggle.v, delight.v, dazzle.v, console.v, outrage.v, flummox.v, fluster.v, stir.v, confuse.v, perturb.v, conciliate.v, comfort.v, mystify.v, cheer.v, intimidate.v, charm.v, offend.v, captivate.v, calm.v, bewitch.v, intrigue.v, bewilder.v, interest.v, traumatize.v, baffle.v, astound.v, astonish.v, beguile.v, antagonize.v, torment.v, annoy.v, repel.v, anger.v, amaze.v, aggrieve.v, sober.v, alarm.v, revolt.v, petrify.v, incense.v, madden.v, mortify.v, nonplus.v, rankle.v, floor.v, flabbergast.v, embitter.v, faze.v, exhilarate.v, aggravate.v, abash.v, nettle.v, solace.v, sting.v, trouble.v, tickle.v, stupefy.v, sicken.v, vex.v, wow.v, bore.v, upset.v, unsettle.v, unnerve.v, thrill.v, terrify.v, surprise.v, stun.v, stimulate.v, startle.v, spook.v, soothe.v, shock.v, shame.v, shake.v, scare.v, satisfy.v, sadden.v, rile.v, reassure.v, rattle.v, puzzle.v, please.v, placate.v, perplex.v, pacify.v, mollify.v, irritate.v, irk.v, infuriate.v, impress.v, humiliate.v, hearten.v, gratify.v, gladden.v
+Sign_agreement	2	accede.v, sign.v
+Replacing	6	change.v, swap out.v, exchange.v, switch.v, substitute.v, replace.v
+Change_of_leadership	15	take over.v, revolt.v, elect.v, mutiny.v, topple.v, coronate.v, throne.v, enthrone.v, vest.v, crown.v, install.v, depose.v, overthrow.v, dethrone.v, oust.v
+Coincidence	2	happen.v, chance.v
+Medical_intervention	7	attempt.v, consist.v, treat.v, develop.v, prevent.v, indicate.v, result.v
+Appeal	1	appeal.v
+Create_representation	6	carve.v, paint.v, cast.v, photograph.v, sketch.v, draw.v
+Change_resistance	3	bulwark.v, buttress.v, brace.v
+Take_place_of	5	replace.v, succeed.v, do duty.v, substitute.v, take place.v
+Motion_noise	38	clunk.v, hiss.v, patter.v, bang.v, zing.v, howl.v, whir.v, gurgle.v, whine.v, fizz.v, wheeze.v, crunch.v, thunder.v, creak.v, clink.v, thump.v, crash.v, thud.v, crackle.v, swish.v, clack.v, squelch.v, chug.v, splutter.v, splash.v, screech.v, rustle.v, clang.v, rumble.v, buzz.v, clank.v, roar.v, putter.v, purr.v, clatter.v, ping.v, click.v, clump.v
+Come_into_effect	5	come into effect.v, apply.v, take effect.v, go into effect.v, kick in.v
+Notification_of_charges	3	charge.v, indict.v, accuse.v
+Attack	16	raid.v, hit.v, lay (into).v, assail.v, charge.v, assault.v, infiltrate.v, jump.v, fall (upon).v, strike.v, bomb.v, ambush.v, attack.v, storm.v, bombard.v, set (upon).v
+Reliance	3	depend.v, count.v, rely.v
+Getting_up	2	get up.v, rise.v
+Reveal_secret	14	spill beans.v, come forward.v, disclose.v, leak.v, let slip.v, fess up.v, expose.v, admit.v, divulge.v, confess.v, reveal.v, let on.v, come clean.v, confide.v
+Execution	4	put to death.v, hang.v, execute.v, guillotine.v
+Reliance_on_expectation	2	bank (on).v, count (on).v
+Cause_to_make_progress	5	perfect.v, advance.v, develop.v, mature.v, improve.v
+Building	12	fit together.v, build.v, assemble.v, weld.v, glue.v, make.v, raise.v, erect.v, construct.v, put together.v, fashion.v, piece together.v
+Planting	2	sow.v, plant.v
+Explaining_the_facts	2	explain.v, account.v
+Transfer	1	transfer.v
+Finish_game	2	win.v, lose.v
+Catastrophe	3	betide.v, suffer.v, befall.v
+Cause_to_wake	5	awaken.v, get up.v, rouse.v, wake up.v, wake.v
+Surviving	4	live [through].v, survive.v, weather.v, ride out.v
+Activity_stop	7	halt.v, stop.v, quit.v, terminate.v, discontinue.v, cease.v, abandon.v
+Carry_goods	2	carry.v, stock.v
+Education_teaching	11	tutor.v, study.v, coach.v, teach.v, train.v, instruct.v, master.v, school.v, educate.v, learn.v, cram.v
+Reparation	1	make up.v
+Communicate_categorization	11	define.v, redefine.v, treat.v, cast.v, describe.v, paint.v, represent.v, depict.v, portray.v, make out to be.v, characterize.v
+Grooming	19	brush [hair].v, lave.v, comb.v, groom.v, shampoo.v, moisturize.v, brush [teeth].v, manicure.v, cleanse.v, shave.v, bathe.v, pluck.v, wash.v, plait.v, floss.v, file.v, wax.v, soap.v, shower.v
+Improvement_or_decline	7	decline.v, look up.v, deteriorate.v, ameliorate.v, shape up.v, worsen.v, improve.v
+Cause_change_of_position_on_a_scale	21	decrease.v, move.v, step up.v, lower.v, promote.v, raise.v, add.v, increase.v, enhance.v, knock down.v, crank.v, slash.v, drop.v, double.v, reduce.v, curtail.v, lift.v, diminish.v, swell.v, cut.v, push.v
+Growing_food	2	grow.v, raise.v
+Familiarity	1	know.v
+Meet_with	1	meet with.v
+Suasion	6	dissuade.v, persuade.v, incite.v, sway.v, convince.v, motivate.v
+Fining	4	fine.v, amerce.v, mulct.v, ticket.v
+Eclipse	17	mask.v, enshroud.v, hide.v, cover.v, conceal.v, occlude.v, befog.v, eclipse.v, cloak.v, obstruct.v, blot out.v, becloud.v, shroud.v, screen.v, obscure.v, veil.v, block.v
+Rope_manipulation	4	tie.v, tangle.v, braid.v, knot.v
+Cause_to_be_dry	8	dry out.v, dry off.v, dehydrate.v, dry up.v, dry.v, anhydrate.v, desiccate.v, dehumidify.v
+Affirm_or_deny	7	reaffirm.v, deny.v, confirm.v, affirm.v, concede.v, attest.v, refute.v
+Proliferating_in_number	3	dwindle.v, multiply.v, proliferate.v
+Residence	12	live.v, camp.v, room.v, squat.v, shack up.v, bivouac.v, stay.v, inhabit.v, occupy.v, lodge.v, dwell.v, reside.v
+Ingest_substance	13	do.v, drag.v, use.v, take.v, smoke.v, puff.v, snort.v, have.v, pull.v, pop.v, inject.v, shoot.v, sniff.v
+Limiting	1	limit.v
+Evaluative_comparison	6	compare.v, stack up.v, equal.v, match.v, measure up.v, rival.v
+Lending	2	lend.v, loan.v
+Path_shape	35	snake.v, swerve.v, swing.v, traverse.v, reach.v, veer.v, meander.v, weave.v, leave.v, wind.v, emerge.v, zigzag.v, edge.v, undulate.v, drop.v, exit.v, rise.v, descend.v, ascend.v, cross.v, crisscross.v, bend.v, angle.v, dive.v, crest.v, round.v, dip.v, enter.v, pass.v, ford.v, twist.v, run.v, bear.v, slant.v, skirt.v
+Estimating	3	guess.v, put (at).v, estimate.v
+Cause_to_fragment	25	rip up.v, fragment.v, break.v, rend.v, rip.v, snap.v, splinter.v, shiver.v, smash.v, shatter.v, tear.v, break up.v, dissolve.v, break down.v, tear up.v, shred.v, fracture.v, split.v, sliver.v, rive.v, take apart.v, chip.v, cleave.v, dissect.v, break apart.v
+Using	7	apply.v, exercise.v, use.v, avail oneself.v, operate.v, utilise.v, employ.v
+Being_in_category	3	amount.v, count.v, constitute.v
+Becoming_silent	12	quiet down.v, quiet.v, quieten.v, hush.v, hush up.v, stow it.v, shut up.v, shush.v, pipe down.v, seal (one's) lips.v, button (one's) lip.v, silence.v
+Awareness	10	imagine.v, understand.v, suspect.v, believe.v, think.v, conceive.v, presume.v, comprehend.v, reckon.v, know.v
+Summarizing	4	boil down.v, sum up.v, outline.v, summarize.v
+Protest	2	protest.v, demonstrate.v
+Cooking_creation	12	fix.v, whip up.v, make.v, cook.v, grill.v, prepare.v, bake.v, roast.v, put together.v, fry.v, cook up.v, concoct.v
+Delivery	1	deliver.v
+Imitating	4	imitate.v, ape.v, copy.v, mimic.v
+Frugality	4	scrimp.v, husband.v, waste.v, squander.v
+Membership	1	belong.v
+Change_of_phase	11	liquefy.v, vaporize.v, freeze.v, melt.v, solidify.v, evaporate.v, sublime.v, defrost.v, thaw.v, unfreeze.v, condense.v
+Cause_to_resume	4	reinstate.v, resume.v, revive.v, restart.v
+Telling	9	assure.v, apprise.v, tell.v, brief.v, inform.v, let know.v, advise.v, confide.v, notify.v
+Change_tool	5	transfer.v, change.v, swap.v, trade.v, switch.v
+Rejuvenation	11	breathe new life.v, renew.v, revitalize.v, reawaken.v, breathe fresh life.v, reinvigorate.v, resuscitate.v, restore.v, refresh.v, rejuvenate.v, invigorate.v
+Encoding	9	formulate.v, put.v, cast.v, phrase.v, misword.v, express.v, couch.v, frame.v, word.v
+Importance	1	count.v
+Reading_activity	1	read.v
+Breathing	14	blow.v, gasp.v, expire.v, inspire.v, insufflate.v, pant.v, breathe.v, respire.v, inhale.v, suspire.v, huff.v, puff.v, sigh.v, exhale.v
+Cause_change_of_consistency	12	clot.v, set.v, thicken.v, harden.v, thin.v, inspissate.v, indurate.v, soften.v, congeal.v, curdle.v, coagulate.v, jell.v
+Collaboration	7	collude.v, conspire.v, work together.v, partner.v, team up.v, cooperate.v, collaborate.v
+Immobilization	5	handcuff.v, straitjacket.v, tie up.v, shackle.v, lock up.v
+Duplication	8	reproduce.v, copy.v, run off.v, duplicate.v, clone.v, photocopy.v, reduplicate.v, replicate.v
+Suitability	3	become.v, suit.v, fit.v
+Dunking	2	dunk.v, dip.v
+Abounding_with	4	throng.v, teem.v, crawl.v, swarm.v
+Interrupt_process	1	interrupt.v
+Change_position_on_a_scale	34	diminish.v, explode.v, soar.v, decrease.v, swell.v, fluctuate.v, plummet.v, triple.v, rise.v, swing.v, dip.v, move.v, contract.v, grow.v, gain.v, mushroom.v, increase.v, dwindle.v, drop.v, double.v, shift.v, advance.v, lower.v, edge.v, slide.v, fall.v, tumble.v, reach.v, rocket.v, skyrocket.v, decline.v, jump.v, climb.v, balloon.v
+Lively_place	3	bustle.v, hum.v, buzz.v
+Posture	15	hunch.v, lean.v, stoop.v, bend.v, stand.v, huddle.v, squat.v, lie.v, shrink.v, sit.v, cower.v, kneel.v, slouch.v, crouch.v, sprawl.v
+Taking_time	1	take.v
+Renting	4	hire.v, rent.v, lease.v, charter.v
+Employing	2	employ.v, commission.v
+Activity_prepare	7	compose.v, rally.v, get ready.v, prepare.v, fix.v, gear up.v, ready.v
+Amalgamation	17	blend.v, band together.v, come together.v, mix.v, merge.v, consolidate.v, fuse.v, unite.v, coalesce.v, combine.v, join.v, jumble.v, meld.v, intermix.v, amalgamate.v, unify.v, commingle.v
+Losing_track_of_perceiver	1	lose.v
+Breaking_apart	8	break down.v, fragment.v, splinter.v, snap.v, break apart.v, shatter.v, break.v, crumble.v
+Run_risk	2	risk.v, wager.v
+Accomplishment	4	accomplish.v, effect.v, achieve.v, bring about.v
+Cause_to_rot	2	putrefy.v, rot.v
+Text_creation	26	dash off.v, list.v, jot down.v, pen.v, author.v, write.v, compose.v, jot.v, say.v, speak.v, utter.v, write up.v, write down.v, type out.v, write in.v, write out.v, print.v, type.v, type up.v, sign.v, type in.v, print out.v, print up.v, get down.v, draft.v, chronicle.v
+Have_as_requirement	4	take.v, demand.v, need.v, require.v
+Possibility	4	can.v, could.v, may.v, might.v
+Firing	11	sack.v, discharge.v, terminate.v, let go.v, downsize.v, lay off.v, give the boot.v, can.v, dismiss.v, fire.v, shitcan.v
+Gesture	7	wave.v, signal.v, nod.v, gesture.v, gesticulate.v, beckon.v, motion.v
+Holding_off_on	2	wait.v, hold off.v
+Deny_or_grant_permission	13	okay.v, forbid.v, prohibit.v, suffer.v, authorize.v, disallow.v, clear.v, permit.v, approve.v, restrict.v, greenlight.v, outlaw.v, sanction [allow].v
+Communication_noise	58	splutter.v, sputter.v, squawk.v, chirp.v, cackle.v, chirrup.v, squeak.v, squeal.v, chuckle.v, thunder.v, cluck.v, titter.v, coo.v, trill.v, croak.v, burble.v, trumpet.v, croon.v, twitter.v, bleat.v, crow.v, wail.v, cry.v, warble.v, drone.v, wheeze.v, gasp.v, whimper.v, grate.v, whine.v, groan.v, whoop.v, growl.v, yell.v, grunt.v, yelp.v, gurgle.v, hiss.v, hoot.v, bray.v, bark.v, howl.v, moan.v, murmur.v, purr.v, rap.v, rasp.v, rattle.v, roar.v, rumble.v, scream.v, bellow.v, screech.v, shriek.v, shrill.v, snarl.v, bawl.v, snort.v
+Surrendering_possession	4	give up.v, yield.v, surrender.v, relinquish.v
+Renting_out	2	rent.v, lease.v
+Friction	6	scrape.v, grate.v, scrunch.v, screech.v, rasp.v, squeal.v
+Recording	4	chronicle.v, register.v, document.v, record.v
+Traversing	12	pass.v, crisscross.v, cross.v, ascend.v, descend.v, skirt.v, jump.v, hop.v, mount.v, leap.v, traverse.v, circle.v
+Undergo_change	7	veer.v, shift.v, swing.v, go.v, turn.v, plummet.v, change.v
+Request_entity	1	order.v
+Travel	5	travel.v, tour.v, voyage.v, commute.v, journey.v
+Communication_manner	24	blabber.v, babble.v, bluster.v, chant.v, chatter.v, drawl.v, gabble.v, gibber.v, jabber.v, lisp.v, mouth.v, mumble.v, mutter.v, natter.v, prattle.v, rant.v, rave.v, shout.v, simper.v, sing.v, slur.v, stammer.v, stutter.v, whisper.v
+Removing	41	take.v, withdraw.v, unload.v, expurgate.v, wash.v, shave.v, confiscate.v, rinse.v, clear.v, roust.v, discard.v, dust.v, dislodge.v, drain.v, scrape.v, eject.v, rip.v, tear.v, eliminate.v, cut.v, file.v, empty.v, disgorge.v, evacuate.v, flush.v, weed.v, evict.v, amputate.v, excise.v, expel.v, expunge.v, extract.v, oust.v, pluck.v, prise.v, purge.v, remove.v, skim.v, snatch.v, strip.v, swipe.v
+Rest	1	complement.v
+Appointing	6	tap.v, finger.v, designate.v, accredit.v, appoint.v, name.v
+Hiring	9	sign up.v, contract.v, take on.v, hire.v, commission.v, retain.v, sign.v, subcontract.v, sign on.v
+Preserving	8	salt.v, mummify.v, embalm.v, cure.v, preserve.v, can.v, dry.v, pickle.v
+Talking_into	5	influence.v, lead.v, talk.v, incite.v, induce.v
+Hair_configuration	1	curl.v
+Board_vehicle	8	hop.v, get.v, emplane.v, embark.v, board.v, embus.v, mount.v, entrain.v
+Dispersal	9	distribute.v, pass on.v, scatter.v, dissolve.v, sprinkle.v, spread.v, strew.v, disperse.v, disseminate.v
+Satisfying	1	satisfy.v
+Communication_means	11	phone.v, telex.v, pdf.v, fax.v, cable.v, radio.v, telephone.v, telegraph.v, semaphore.v, wire.v, call.v
+Installing	1	install.v
+Transition_to_a_quality	1	go.v
+Prohibiting_or_licensing	10	prohibit.v, sanction.v, outlaw.v, permit.v, entitle.v, allow.v, proscribe.v, forbid.v, ban.v, bar.v
+Make_cognitive_connection	3	connect.v, link.v, tie.v
+Dimension	2	weigh.v, measure.v
+Avoiding	15	duck.v, eschew.v, shun.v, evade.v, forgo.v, dodge.v, shrink from.v, desist.v, skirt.v, keep away.v, stay away.v, avoid.v, escape.v, sidestep.v, shirk.v
+Expectation	6	await.v, expect.v, predict.v, anticipate.v, wait.v, foresee.v
+Undergoing	2	undergo.v, experience.v
+Locating	2	find.v, locate.v
+Getting_underway	4	get under way.v, hit the road.v, head out.v, get going.v
+Simultaneity	2	coincide.v, co-occur.v
+Taking_captive	3	capture.v, secure.v, take captive.v
+Work	3	work.v, bang away.v, plug away.v
+Exchange	5	swap.v, switch.v, exchange.v, change.v, trade.v
+Regard	4	find.v, regard.v, think.v, appreciate.v
+Meet_specifications	2	meet.v, fulfill.v
+Come_together	11	congregate.v, gather.v, throng.v, convene.v, amass.v, come together.v, band together.v, meet.v, gang together.v, assemble.v, band.v
+Court_examination	2	cross-examine.v, examine.v
+Reasoning	6	reason.v, demonstrate.v, prove.v, disprove.v, argue.v, show.v
+Earnings_and_losses	5	pull.v, earn.v, net.v, make.v, lose.v
+Defending	2	hold.v, defend.v
+Remembering_to_do	2	remember.v, forget.v
+Relative_time	5	follow.v, come on heels.v, precede.v, succeed.v, predate.v
+Likelihood	6	might.v, may.v, would.v, tend.v, must.v, can.v
+Receiving	2	accept.v, receive.v
+Go_into_shape	5	curl.v, fold.v, fold [protein].v, coil.v, twist.v
+Aging	2	age.v, mature.v
+Vehicle_departure_initial_stage	3	cast off.v, lift off.v, take off.v
+Arranging	7	format.v, arrange.v, justify.v, deploy.v, order.v, array.v, set up.v
+Rising_to_a_challenge	2	rise to the occasion.v, rise.v
+Cause_motion	42	wrest.v, cast.v, slam.v, hurl.v, thrust.v, impel.v, hit.v, push.v, propel.v, drag.v, haul.v, nudge.v, tug.v, draw.v, jerk.v, launch.v, scoot.v, wrench.v, attract.v, transfer.v, punt.v, rake.v, roll.v, drive.v, shove.v, drop.v, toss.v, yank.v, pull.v, slide.v, move.v, lift.v, pitch.v, force.v, throw.v, knock.v, stick.v, chuck.v, run.v, fling.v, press.v, catapult.v
+Robbery	7	mug.v, ransack.v, rob blind.v, rob.v, hold up.v, stick up.v, rifle.v
+Hearsay	2	hear.v, read.v
+Needing	2	require.v, need.v
+Render_nonfunctional	6	disable.v, break.v, incapacitate.v, total.v, hose.v, knock out.v
+State_continue	3	remain.v, stay.v, rest.v
+Becoming_separated	3	split.v, divide.v, separate.v
+Evoking	9	bring to mind.v, remind.v, evoke.v, recall.v, call to mind.v, put in mind (of).v, conjure.v, suggest.v, ring a bell.v
+Verdict	5	pronounce.v, convict.v, acquit.v, find.v, clear.v
+Sending	14	express.v, route.v, export.v, post.v, send.v, fax.v, refer.v, mail.v, dispatch.v, telex.v, ship.v, wire.v, forward.v, barge.v
+Putting_out_fire	8	put out.v, smother.v, blow out.v, douse.v, quench.v, stamp out.v, extinguish.v, snuff out.v
+Change_of_temperature	7	refrigerate.v, reheat.v, warm.v, cool off.v, cool.v, chill.v, heat.v
+Similarity	5	resemble.v, take after.v, differ.v, mimic.v, vary.v
+Detaining	3	hold.v, detain.v, intern.v
+Emanating	7	exude.v, radiate.v, excrete.v, discharge.v, secrete.v, emanate.v, issue.v
+Containing	4	hold.v, contain.v, store.v, house.v
+Food_gathering	4	gather.v, harvest.v, pick.v, bring in.v
+Rotting	8	fester.v, moulder.v, perish.v, spoil.v, rot.v, putrefy.v, decompose.v, decay.v
+Spatial_contact	2	contact.v, touch.v
+Piracy	3	carjack.v, hijack.v, pirate.v
+Surrounding	5	edge.v, straddle.v, rim.v, surround.v, ring.v
+Processing_materials	11	weaponize.v, treat.v, etch.v, stain.v, reprocess.v, dye.v, process.v, enrich.v, develop.v, galvanize.v, spin.v
+Bail_decision	3	set.v, fix.v, order.v
+Catching_fire	5	catch.v, combust.v, start.v, break out.v, catch fire.v
+Intentionally_act	7	conduct.v, do.v, engage.v, execute.v, act.v, perform.v, carry out.v
+Response	4	meet.v, respond.v, act (on).v, react.v
+Change_event_time	11	defer.v, delay.v, hold up.v, advance.v, postpone.v, move up.v, move back.v, reschedule.v, put off.v, hold over.v, put over.v
+Try_defendant	1	try.v
+Function	1	serve.v
+Intercepting	1	intercept.v
+Turning_out	3	prove.v, end up.v, turn out.v
+Knot_creation	1	tie.v
+Sentencing	4	send up.v, sentence.v, condemn.v, order.v
+Waiting	2	bide its time.v, wait.v
+Giving	21	hand.v, donate.v, pass out.v, advance.v, confer (upon).v, hand over.v, fob off.v, pass.v, give out.v, foist.v, hand out.v, bequeath.v, gift.v, endow.v, leave.v, give.v, will.v, volunteer.v, hand in.v, contribute.v, treat.v
+Hit_or_miss	2	hit.v, miss.v
+Amounting_to	3	number.v, total.v, amount.v
+Invading	2	invade.v, overrun.v
+Creating	8	assemble.v, produce.v, make.v, generate.v, yield.v, issue.v, form.v, create.v
+Chemical-sense_description	3	reek.v, smell.v, stink.v
+Be_subset_of	2	count.v, number.v
+Word_relations	1	collocate.v
+Visiting	2	visit.v, revisit.v
+Attempt_suasion	16	enjoin.v, advocate.v, press.v, badger.v, beg.v, advise.v, pressure.v, recommend.v, lobby.v, prevail.v, wheedle.v, exhort.v, urge.v, suggest.v, cajole.v, admonish.v
+Perception_body	15	pain.v, itch.v, hum.v, prickle.v, burn.v, spin.v, smart.v, be killing.v, sting.v, tickle.v, tingle.v, hurt.v, ail.v, chafe.v, ache.v
+Beat_opponent	7	beat.v, rout.v, defeat.v, demolish.v, prevail.v, trounce.v, upend.v
+Touring	4	sight-see.v, do.v, see.v, tour.v
+Motion_directional	10	drop.v, slant.v, plummet.v, fall.v, topple.v, plunge.v, descend.v, rise.v, dip.v, angle.v
+Simple_naming	2	call.v, term.v
+Cause_impact	23	clink.v, click.v, rattle.v, rustle.v, slam.v, thump.v, jab.v, collide.v, rap.v, smack.v, thud.v, graze.v, crash.v, plow.v, run.v, bang.v, hit.v, slap.v, strike.v, clatter.v, clash.v, ram.v, clang.v
+Breaking_off	3	break.v, chip.v, snap.v
+Corroding	3	rust.v, oxidize.v, corrode.v
+Inspecting	7	inspect.v, proof-read.v, examine.v, check.v, frisk.v, pat down.v, double-check.v
+Event	5	take place.v, occur.v, go on.v, transpire.v, happen.v
+Thwarting	11	derail.v, thwart.v, stymie.v, hamstring.v, counter.v, forestall.v, preclude.v, foil.v, frustrate.v, stop.v, prevent.v
+Forming_relationships	10	leave.v, marry.v, marry (into).v, woo.v, befriend.v, separate.v, betroth.v, tie the knot.v, wed.v, divorce.v
+Expertise	1	excel.v
+Commerce_pay	3	pay.v, shell out.v, disburse.v
+Have_as_translation_equivalent	1	translate.v
+Cogitation	13	think.v, meditate.v, wonder.v, dwell.v, mull over.v, brood.v, consider.v, muse.v, reflect.v, ruminate.v, contemplate.v, ponder.v, deliberate.v
+Political_actions	1	strike.v
+Impact	36	slam.v, plop.v, plunk.v, slap.v, thump.v, chatter.v, clash.v, click.v, patter.v, plash.v, rap.v, tinkle.v, clatter.v, clink.v, hiss.v, rattle.v, touch.v, graze.v, brush.v, impact.v, knock.v, hit.v, impinge.v, run.v, smack.v, crash.v, bump.v, clang.v, plow.v, bang.v, collide.v, smash.v, strike.v, thud.v, clunk.v, crunch.v
+Contacting	22	radio.v, telegraph.v, call in.v, get through.v, phone in.v, call up.v, e-mail.v, call.v, phone.v, write in.v, contact.v, ring.v, get in touch.v, ring up.v, reach.v, write.v, telephone.v, mail.v, telex.v, fax.v, cable.v, page.v
+Judgment_direct_address	18	tell off.v, harangue.v, rebuke.v, compliment.v, reprove.v, berate.v, upbraid.v, reprimand.v, chide.v, scold.v, congratulate.v, admonish.v, jeer.v, give shit.v, chastise.v, thank.v, take to task.v, reproach.v
+Activity_pause	4	suspend.v, adjourn.v, take break.v, freeze.v
+Spelling_and_pronouncing	6	say.v, mispronounce.v, spell.v, misspell.v, write.v, pronounce.v
+Execute_plan	2	institute.v, implement.v
+Supporting	3	support.v, bolster.v, buttress.v
+Hunting_success_or_failure	2	bag.v, catch.v
+Sufficiency	2	serve.v, suffice.v
+Triggering	2	trigger.v, set off.v
+Others_situation_as_stimulus	4	feel (for).v, sympathize.v, pity.v, empathize.v
+Self_motion	134	scuttle.v, swing.v, edge.v, shuffle.v, rove.v, skip.v, skulk.v, advance.v, slalom.v, file.v, take to the air.v, sleepwalk.v, rip.v, slink.v, slither.v, slip.v, slouch.v, slog.v, sneak.v, press.v, spring.v, shrink.v, bound.v, burrow.v, sprint.v, bustle.v, stagger.v, barge.v, canter.v, steal.v, whisk.v, caper.v, clamber.v, step.v, climb.v, stomp.v, clomp.v, straggle.v, crawl.v, stride.v, creep.v, dance.v, stroll.v, dart.v, strut.v, stumble.v, dash.v, swagger.v, flit.v, flounce.v, swim.v, frolic.v, tiptoe.v, gallivant.v, toddle.v, gambol.v, totter.v, hasten.v, traipse.v, tramp.v, tread.v, hike.v, trek.v, hitchhike.v, back.v, hobble.v, trip.v, hop.v, troop.v, hurry.v, trot.v, amble.v, trudge.v, jog.v, trundle.v, bop.v, jump.v, vault.v, leap.v, waddle.v, limp.v, wade.v, lope.v, lumber.v, waltz.v, lunge.v, wander.v, lurch.v, wriggle.v, slosh.v, march.v, slop.v, meander.v, skim.v, mince.v, goose-step.v, mosey.v, pace.v, proceed.v, pad.v, sidle.v, parade.v, fly.v, plod.v, head.v, pounce.v, repair.v, prance.v, make.v, promenade.v, stalk.v, prowl.v, venture.v, roam.v, storm.v, romp.v, make a beeline.v, run.v, walk.v, rush.v, drive.v, sashay.v, sail.v, saunter.v, coast.v, scamper.v, cruise.v, scoot.v, tack.v, taxi.v, scramble.v, shoulder.v, scurry.v, nance.v
+Control	4	command.v, control.v, determine.v, regulate.v
+Working_a_post	3	work.v, man.v, staff.v
+Inclusion	5	exclude.v, contain.v, incorporate.v, have.v, include.v
+Cause_to_make_noise	15	toot.v, clang.v, honk.v, blare.v, clash.v, creak.v, blast.v, peep.v, tinkle.v, ring.v, trumpet.v, toll.v, play.v, sound.v, beep.v
+Importing	1	import.v
+Religious_belief	1	believe.v
+Complaining	11	lament.v, whinge.v, piss and moan.v, gripe.v, grouse.v, complain.v, belly-ache.v, grumble.v, moan.v, whine.v, bitch.v
+Downing	2	down.v, shoot down.v
+Experiencer_focus	26	dislike.v, like.v, empathize.v, despise.v, enjoy.v, hate.v, grieve.v, luxuriate.v, fear.v, delight.v, savour.v, dread.v, loathe.v, detest.v, abominate.v, love.v, envy.v, abhor.v, adore.v, regret.v, rue.v, resent.v, despair.v, mourn.v, relish.v, pity.v
+Evidence	25	assure.v, confirm.v, verify.v, rule out.v, prove.v, demonstrate.v, tell.v, evince.v, reveal.v, show.v, substantiate.v, imply.v, testify.v, evidence.v, disprove.v, contradict.v, argue.v, suggest.v, indicate.v, mean.v, corroborate.v, attest.v, point (to).v, support.v, illustrate.v
+Performers_and_roles	9	feature.v, appear.v, star.v, co-star (in).v, co-star.v, act.v, be.v, star (in).v, play.v
+Seeking	17	search.v, pan.v, palpate.v, forage.v, look.v, pat down.v, hunt.v, listen.v, rummage.v, fumble.v, grope.v, dig.v, nose.v, feel.v, sniff.v, seek.v, watch.v
+Exclude_member	3	expel.v, excommunicate.v, exclude.v
+Agree_or_refuse_to_act	3	decline.v, agree.v, refuse.v
+Supply	10	issue.v, provide.v, provision.v, outfit.v, fuel.v, supply.v, furnish.v, fix up.v, afford.v, equip.v
+Adducing	4	point.v, adduce.v, cite.v, name.v
+Relating_concepts	5	relate.v, associate.v, connect.v, tie.v, link.v
+Borrowing	1	borrow.v
+Emotion_heat	8	fume.v, burn.v, seethe.v, stew.v, boil.v, chafe.v, simmer.v, smoulder.v
+Attempt	4	undertake.v, try.v, endeavor.v, attempt.v
+Opinion	8	hold.v, suppose.v, think.v, feel.v, figure.v, believe.v, subscribe.v, expect.v
+Origin	3	come from.v, date.v, originate.v
+Emphasizing	5	focus.v, emphasize.v, stress.v, accentuate.v, prioritize.v
+Questioning	7	inquire.v, quiz.v, interrogate.v, ask.v, question.v, grill.v, query.v
+Wearing	6	have got on.v, wear.v, got on.v, bare.v, sport.v, have on.v
+Being_employed	5	work.v, farm (out).v, temp.v, clerk.v, subcontract.v
+Translating	1	translate.v
+Scouring	7	ransack.v, rifle.v, rummage.v, scour.v, comb.v, sweep.v, sift.v
+Emotion_directed	1	sympathize.v
+Coming_up_with	13	contrive.v, invent.v, concoct.v, conceive.v, improvise.v, hatch.v, find.v, formulate.v, design.v, think up.v, cook up.v, devise.v, come up.v
+Choosing	6	choose.v, select.v, opt.v, elect.v, pick.v, settle on.v
+Setting_fire	9	kindle.v, spark.v, catch on fire.v, start.v, ignite.v, set on fire.v, light.v, set fire.v, torch.v
+Being_born	2	born.v, come into the world.v
+Becoming_aware	27	happen (on).v, find (oneself).v, tell.v, note.v, perceive.v, learn.v, observe.v, find.v, chance (across).v, find out.v, encounter.v, detect.v, come (across).v, come (upon).v, spot.v, chance (on).v, fall (on).v, discern.v, register.v, descry.v, pick up.v, discover.v, locate.v, recognize.v, espy.v, notice.v, spy out.v
+Ontogeny	2	grow.v, develop.v
+Getting_triggered	2	trigger.v, go off.v
+Ratification	1	ratify.v
+Daring	5	dare.v, chance.v, risk.v, hazard.v, venture.v
+Attending	2	attend.v, go (to).v
+Ride_vehicle	10	taxi.v, ride.v, take.v, bus.v, sail.v, jet.v, cruise.v, fly.v, hitchhike.v, coast.v
+Serving_in_capacity	1	serve.v
+Intentionally_affect	3	do.v, do what (to/with).v, do something (to/with).v
+Claim_ownership	2	claim.v, call.v
+Social_event	1	host.v
+Successfully_communicate_message	3	convey.v, get through.v, get across.v
+Create_physical_artwork	5	draw.v, take [picture].v, paint.v, cast.v, sculpt.v
+Abusing	3	abuse.v, maltreat.v, batter.v
+Attempt_means	1	try.v
+Operating_a_system	3	manage.v, run.v, operate.v
+Topic	8	cover.v, refer.v, regard.v, concern.v, dwell (on).v, discuss.v, address.v, treat.v
+Departing	10	escape.v, vamoose.v, vanish.v, skedaddle.v, depart.v, exit.v, decamp.v, leave.v, emerge.v, disappear.v
+Medical_conditions	1	develop.v
+Adopt_selection	3	embrace.v, adopt.v, assume.v
+Dodging	2	sidestep.v, dodge.v
+Fear	1	live in fear.v
+Perception_active	26	gape.v, gawk.v, goggle.v, peek.v, peep.v, feel.v, peer.v, savour.v, smell.v, sniff.v, spy.v, stare.v, glance.v, listen.v, taste.v, attend.v, view.v, gaze.v, look.v, watch.v, squint.v, eavesdrop.v, observe.v, admire.v, palpate.v, eye.v
+Giving_birth	18	spawn.v, propagate.v, bring forth.v, beget.v, get.v, father.v, lay.v, have.v, whelp.v, birth.v, sire.v, kid.v, bear.v, drop.v, generate.v, carry to term.v, calve.v, mother.v
+Manipulate_into_doing	16	bully.v, manipulate.v, hustle.v, cheat.v, fool.v, harass.v, cajole.v, con.v, trick.v, flatter.v, badger.v, blackmail.v, dupe.v, lure.v, deceive.v, defraud.v
+Communication	6	say.v, indicate.v, signal.v, share.v, communicate.v, convey.v
+Hunting	3	seal.v, fish.v, hunt.v
+Tasting	2	taste.v, try.v
+Undressing	10	remove.v, slip.v, shed.v, take off.v, throw off.v, peel off.v, kick off.v, strip off.v, doff.v, pull off.v
+Get_a_job	2	hire on.v, sign on.v
+Cure	10	cure.v, palliate.v, alleviate.v, treat.v, resuscitate.v, remedy.v, ease.v, heal.v, nurse.v, rehabilitate.v
+Convey_importance	4	underscore.v, stress.v, underline.v, emphasize.v
+Detaching	10	detach.v, unhitch.v, unmoor.v, unfasten.v, unchain.v, untie.v, decouple.v, undo.v, unhinge.v, unhook.v
+Cause_change_of_strength	5	fortify.v, reinforce.v, strengthen.v, weaken.v, beef up.v
+Fleeing	3	bolt.v, run away.v, flee.v
+Make_compromise	2	meet half-way.v, compromise.v
+Becoming	2	become.v, turn.v
+Cause_expansion	15	compress.v, lengthen.v, condense.v, shrink.v, magnify.v, swell.v, enlarge.v, widen.v, narrow.v, grow.v, expand.v, blow up.v, inflate.v, stretch.v, dilate.v
+Subversion	4	undercut.v, subvert.v, sabotage.v, undermine.v
+Cause_to_be_sharp	3	sharpen.v, dull.v, blunt.v
+Cause_to_experience	5	torment.v, divert.v, terrorize.v, amuse.v, entertain.v
+Kidnapping	5	shanghai.v, nab.v, snatch.v, abduct.v, kidnap.v
+Exchange_currency	3	exchange.v, change.v, convert.v
+Deciding	3	determine.v, decide.v, rule out.v
+Releasing	3	release.v, set free.v, let go.v
+Experience_bodily_harm	19	injure.v, abrade.v, hit.v, break.v, graze.v, hurt.v, jam.v, bruise.v, strain.v, scrape.v, sprain.v, stub.v, pull.v, sunburn.v, tear.v, twist.v, cut.v, burn.v, smack.v
+Differentiation	8	differentiate.v, know.v, sort.v, tell from.v, separate.v, discriminate.v, tell apart.v, distinguish.v
+Evading	6	get away.v, flee.v, give the slip.v, elude.v, evade.v, skip town.v
+Change_event_duration	8	extend.v, cut short.v, shorten.v, slow.v, protract.v, drag out.v, prolong.v, abbreviate.v
+Perception_experience	11	experience.v, feel.v, taste.v, overhear.v, detect.v, see.v, perceive.v, hear.v, sense.v, witness.v, smell.v
+Process_continue	5	go on.v, drag on.v, continue.v, persist.v, proceed.v
+Imprisonment	4	jail.v, incarcerate.v, put away.v, imprison.v
+Endangering	3	imperil.v, jeopardise.v, endanger.v
+Assemble	3	convene.v, assemble.v, meet.v
+Eventive_cognizer_affecting	2	convince.v, decide.v
+Compatibility	14	square.v, go.v, accord.v, jibe.v, comport.v, agree.v, fly in the face of.v, rhyme.v, harmonize.v, dovetail.v, match.v, cohere.v, clash.v, conflict.v
+Being_located	4	sit.v, lie.v, stand.v, find.v
+Cause_change_of_phase	10	solidify.v, freeze.v, melt.v, flux.v, defrost.v, liquefy.v, thaw.v, evaporate.v, unfreeze.v, boil.v
+Referring_by_name	3	refer.v, call.v, address.v
+Undergo_transformation	7	transubstantiate.v, transform.v, transition.v, metamorphose.v, transmute.v, convert.v, transmogrify.v
+Nuclear_process	3	decay.v, fission.v, fuse.v
+Import_export_scenario	1	transship.v
+Corroding_caused	4	tarnish.v, oxidize.v, rust.v, corrode.v
+Make_agreement_on_action	2	settle.v, agree.v
+Reporting	8	rat out.v, inform.v, tell (on).v, rat.v, snitch.v, peach.v, fink.v, report.v
+Examination	2	examine.v, test.v
+Bungling	24	botch.v, fuck up.v, foozle.v, screw up.v, blow it.v, bumble.v, bungle.v, flounder.v, founder.v, stumble.v, bollix.v, bollix up.v, botch up.v, flub.v, blow.v, ball up.v, fluff.v, foul up.v, muck up.v, louse up.v, muff.v, mess up.v, fumble.v, ruin.v
+Erasing	5	expunge.v, erase.v, strike.v, kill.v, delete.v
+Judgment	22	esteem.v, fault.v, value.v, blame.v, mock.v, respect.v, deify.v, scorn.v, deplore.v, set store.v, stigmatize.v, accuse.v, approve.v, disapprove.v, exalt.v, prize.v, boo.v, applaud.v, disdain.v, revere.v, appreciate.v, admire.v
+Becoming_a_member	5	enter.v, sign up.v, enroll.v, join.v, enlist.v
+Transition_to_state	3	grow.v, get.v, end up.v
+Process_stop	7	cease.v, quit.v, kill.v, discontinue.v, stop.v, shut down.v, desist.v
+Cause_to_start	21	kindle.v, instigate.v, motivate.v, prompt.v, stir up.v, stimulate.v, actuate.v, provoke.v, excite.v, trigger.v, generate.v, spark.v, arouse.v, bring about.v, set off.v, engender.v, produce.v, create.v, call forth.v, elicit.v, incite.v
+Subsisting	2	live (on).v, subsist.v
+Front_for	1	front.v
+Dead_or_alive	1	live.v
+Getting	8	obtain.v, get.v, score.v, win.v, acquire.v, gain.v, secure.v, procure.v
+Change_of_consistency	11	clot.v, coagulate.v, soften.v, congeal.v, harden.v, curdle.v, thicken.v, set.v, indurate.v, thin.v, jell.v
+Location_of_light	19	glow.v, sparkle.v, glister.v, glitter.v, glint.v, twinkle.v, scintillate.v, shine.v, gleam.v, flame.v, glimmer.v, illuminate.v, coruscate.v, glisten.v, flicker.v, shimmer.v, light up.v, flash.v, flare.v
+Encounter	2	encounter.v, stumble.v
+Death	12	drown.v, starve.v, asphyxiate.v, die.v, decease.v, croak.v, suffocate.v, expire.v, pass away.v, perish.v, kick the bucket.v, croak it.v
+Giving_in	10	acquiesce.v, submit.v, relent.v, give way.v, fold [to demands].v, yield.v, cave.v, give in.v, capitulate.v, cave in.v
+Arraignment	1	arraign.v
+Smuggling	1	smuggle.v
+Temporary_stay	9	quarter.v, sleep over.v, room.v, guest.v, overnight.v, board.v, lodge.v, stay over.v, stay.v
+Request	16	command.v, instruct.v, plead.v, demand.v, request.v, entreat.v, summon.v, ask.v, tell.v, implore.v, order.v, urge.v, beg.v, call.v, beseech.v, invite.v
+Corporal_punishment	5	flog.v, cane.v, scourge.v, paddle.v, spank.v
+Prevarication	15	deceive.v, shit.v, dissemble.v, mislead.v, tell.v, joke.v, kid.v, fib.v, equivocate.v, hoodwink.v, misrepresent.v, fool.v, lie.v, bullshit.v, prevaricate.v
+Suspicion	1	suspect.v
+Going_back_on_a_commitment	3	back out.v, renege.v, go back.v
+Scheduling	3	arrange.v, set up.v, schedule.v
+Sidereal_appearance	2	rise.v, come up.v
+Unattributed_information	1	rumor.v
+Cause_to_perceive	9	present.v, depict.v, exhibit.v, represent.v, show.v, present[medical].v, demonstrate.v, point.v, bring to attention.v
+Feeling	2	feel.v, experience.v
+Setting_out	3	set out.v, decamp.v, set off.v
+Shopping	1	shop.v
+Justifying	5	defend.v, rationalize.v, justify.v, explain.v, account.v
+Partiality	4	prefer.v, prejudge.v, favor.v, bias.v
+Remembering_experience	5	look back.v, recall.v, reminisce.v, remember.v, forget.v
+Fall_asleep	8	konk out.v, faint.v, doze off.v, black out.v, nod off.v, pass out.v, drift off.v, zonk out.v
+Light_movement	18	flare.v, glister.v, scintillate.v, glow.v, coruscate.v, glisten.v, flame.v, flicker.v, glitter.v, twinkle.v, glimmer.v, strike.v, flash.v, shine.v, gleam.v, sparkle.v, glint.v, shimmer.v
+Grasp	8	apprehend.v, comprehend.v, grasp.v, follow.v, understand.v, get.v, see.v, fathom.v
+Manipulation	35	push.v, seize.v, squeeze.v, tug.v, tweak.v, wring.v, yank.v, fumble.v, grope.v, rub.v, grab hold.v, touch.v, lick.v, kiss.v, caress.v, stroke.v, diddle.v, hold.v, tickle.v, handle.v, claw.v, clasp.v, poke.v, clutch.v, finger.v, grab.v, grasp.v, grip.v, knead.v, massage.v, nip.v, nudge.v, paw.v, pinch.v, pull.v
+Cognitive_impact	2	strike.v, hit.v
+Drop_in_on	3	pop in.v, stop in.v, drop in.v
+Wagering	2	bet.v, wager.v
+Activity_finish	6	finish.v, wrap up.v, complete.v, conclude.v, tie up.v, graduate.v
+Killing	29	euthanize.v, dispatch.v, garrotte.v, crucify.v, decapitate.v, massacre.v, slaughter.v, lynch.v, silence.v, destroy.v, annihilate.v, take out.v, kill.v, assassinate.v, behead.v, do in.v, eliminate.v, exterminate.v, drown.v, liquidate.v, murder.v, slay.v, terminate.v, butcher.v, suffocate.v, smother.v, starve.v, asphyxiate.v, suicide.v
+Change_accessibility	4	barricade.v, cordon off.v, block off.v, blockade.v
+Expressing_publicly	7	voice.v, vent.v, put into words.v, air.v, give voice.v, articulate.v, express.v
+Destroying	15	vaporize.v, blow up.v, unmake.v, take out.v, annihilate.v, raze.v, level.v, blast.v, lay waste.v, destroy.v, demolish.v, ruin.v, obliterate.v, dismantle.v, devastate.v
+Soaking	3	steep.v, marinate.v, soak.v
+Cotheme	21	escort.v, follow.v, guide.v, hound.v, lead.v, pursue.v, shadow.v, shepherd.v, tail.v, track.v, trail.v, usher.v, stalk.v, tag along.v, walk.v, dog.v, show.v, lead the way.v, chase.v, accompany.v, conduct.v
+Studying	1	study.v
+Being_in_operation	1	operate.v
+Cause_to_end	6	end.v, put an end to.v, arrest.v, abort.v, lift.v, do away with.v
+Possession	8	have.v, got.v, lack.v, want.v, belong.v, own.v, have got.v, possess.v
+Being_attached	2	stick.v, adhere.v
+Rape	2	rape.v, sexually assault.v
+Subjective_influence	15	spur.v, motivate.v, influence.v, encourage.v, goad.v, push.v, galvanize.v, stimulate.v, discourage.v, inspire.v, tempt.v, entice.v, impact.v, drive.v, coax.v
+Reading_perception	6	scan.v, devour.v, peruse.v, read.v, skim.v, pore.v
+Emptying	38	descale.v, scalp.v, defrost.v, delouse.v, eviscerate.v, denude.v, unload.v, expurgate.v, void.v, evacuate.v, debone.v, devein.v, disarm.v, decontaminate.v, cleanse.v, pit.v, seed.v, drain.v, stone.v, clear.v, stalk.v, empty.v, flush.v, purge.v, expunge.v, strip.v, weed.v, divest.v, rid.v, disembowel.v, skin.v, core.v, peel.v, gut.v, bone.v, debug.v, deforest.v, degrease.v
+Communication_response	8	come back.v, respond.v, retort.v, reply.v, rejoin.v, counter.v, acknowledge.v, answer.v
+Exercising	2	work out.v, exercise.v
+Apply_heat	29	barbecue.v, scald.v, parboil.v, coddle.v, char.v, stew.v, simmer.v, bake.v, blanch.v, brown.v, deep fry.v, braise.v, singe.v, plank.v, boil.v, sear.v, broil.v, scorch.v, toast.v, roast.v, cook.v, grill.v, melt.v, fry.v, microwave.v, steam.v, steep.v, poach.v, saute.v
+Eventive_affecting	6	hit.v, strike.v, suffer.v, happen.v, see.v, what become (of).v
+Labeling	4	label.v, call.v, brand.v, term.v
+Conquering	6	overcome.v, conquer.v, capture.v, reduce.v, take.v, fall.v
+Indicating	4	finger.v, indicate.v, name.v, identify.v
+Hostile_encounter	11	skirmish.v, scuffle.v, struggle.v, confront.v, engage.v, fight.v, war.v, battle.v, duel.v, clash.v, brawl.v
+Bragging	6	boast.v, preen.v, vaunt.v, gripe.v, rodomontade.v, brag.v
+Fire_burning	3	burn.v, rage.v, blaze.v
+Rescuing	2	save.v, rescue.v
+Abandonment	3	leave.v, abandon.v, forget.v
+Entering_of_plea	1	plead.v
+Judgment_communication	41	tout.v, extol.v, laud.v, condemn.v, pin.v, rave.v, hail.v, rip.v, attack.v, praise.v, criticize.v, recriminate.v, damn.v, excoriate.v, decry.v, remonstrate.v, denigrate.v, ridicule.v, blame.v, critique.v, execrate.v, acclaim.v, denounce.v, scoff.v, mock.v, accuse.v, deprecate.v, cite.v, belittle.v, deride.v, castigate.v, blast.v, slam.v, censure.v, disparage.v, harangue.v, dump.v, gibe.v, charge.v, reprehend.v, commend.v
+Preventing_or_letting	19	enable.v, stave off.v, preclude.v, keep (from).v, prohibit.v, prevent.v, permit.v, let.v, forestall.v, nip in the bud.v, frustrate.v, upset.v, obviate.v, stop.v, avert.v, check.v, avoid.v, preempt.v, allow.v
+Imposing_obligation	7	commit.v, pledge.v, oblige.v, require.v, obligate.v, bind.v, charge.v
+Personal_relationship	7	date.v, befriend.v, cohabit.v, sleep (together/with).v, seeing.v, widow.v, court.v
+Capability	1	can.v
+Process_start	5	erupt.v, start.v, commence.v, break out.v, begin.v
+Change_of_quantity_of_possession	2	gain.v, lose.v
+Expend_resource	11	go through.v, eat up.v, spend.v, consume.v, run out.v, devour.v, exhaust.v, squander.v, deplete.v, use up.v, expend.v
+Purpose	4	aim.v, mean.v, intend.v, plan.v
+Resolve_problem	11	clear up.v, work through.v, resolve.v, correct.v, address.v, deal.v, handle.v, get a handle.v, do something about.v, solve.v, fix.v
+Recovery	6	heal.v, recover.v, perk up.v, ease.v, recuperate.v, convalesce.v
+Change_direction	5	veer.v, swing.v, cut.v, turn.v, bear.v
+Aiming	3	direct.v, aim.v, target.v
+Arrest	8	book.v, apprehend.v, summons.v, arrest.v, bust.v, nab.v, collar.v, cop.v
+Personal_success	3	succeed.v, make it.v, arrive.v
+Short_selling	1	sell short.v
+Ingestion	31	quaff.v, swill.v, put away.v, put back.v, tuck.v, slurp.v, lap.v, swig.v, guzzle.v, gulp.v, down.v, sip.v, sup.v, munch.v, nosh.v, feast.v, feed.v, snack.v, breakfast.v, lunch.v, dine.v, ingest.v, nurse.v, nibble.v, eat.v, drink.v, gobble.v, devour.v, consume.v, have.v, imbibe.v
+Cognitive_connection	2	have to do (with).v, identify with.v
+Becoming_attached	7	agglutinate.v, stick.v, bind.v, take hold.v, moor.v, attach.v, fasten.v
+Product_development	1	develop.v
+Excreting	20	defecate.v, burp.v, spew.v, retch.v, belch.v, fart.v, take a piss.v, evacuate.v, vomit.v, pee.v, throw up.v, urinate.v, perspire.v, piss.v, shit.v, spit up.v, puke.v, regurgitate.v, sweat.v, void.v
+Damaging	15	rip.v, nick.v, deface.v, key.v, scrape.v, sabotage.v, vandalise.v, score.v, dent.v, scratch.v, mar.v, tear.v, chip.v, rend.v, damage.v
+Distributed_position	20	wreathe.v, blanket.v, litter.v, film.v, fill.v, dot.v, cover.v, decorate.v, stud.v, encircle.v, line.v, coat.v, encrust.v, adorn.v, festoon.v, garnish.v, deck.v, envelop.v, cloak.v, pave.v
+Experimentation	2	experiment.v, test.v
+Usefulness	1	work.v
+Assessing	10	value.v, assess.v, appraise.v, grade.v, reappraise.v, evaluate.v, rank.v, judge.v, rate.v, weigh.v
+Mining	2	extract.v, mine.v
+Quitting_a_place	13	bolt.v, retreat.v, abandon.v, vamoose.v, skedaddle.v, emigrate.v, split.v, vacate.v, sally.v, desert.v, defect.v, withdraw.v, quit.v
+Waver_between_options	6	vacillate.v, waffle.v, waver.v, go back and forth.v, dither.v, flip-flop.v
+Renunciation	1	renounce.v
+Elusive_goal	3	evade.v, elude.v, escape.v
+Repel	2	resist.v, repel.v
+Losing_track_of_theme	1	lose.v
+Give_impression	9	stink.v, taste.v, feel.v, reek.v, look.v, appear.v, smell.v, seem.v, sound.v
+Left_to_do	1	remain.v
+Name_conferral	8	baptize.v, dub.v, rename.v, entitle.v, call.v, nickname.v, christen.v, name.v
+Hindering	18	curtail.v, retard.v, hinder.v, encumber.v, inhibit.v, impede.v, trammel.v, block.v, constrain.v, hold back.v, interfere.v, obstruct.v, hamper.v, repress.v, restrain.v, delay.v, slow.v, handicap.v
+Locale_closure	2	close.v, shut down.v
+Cause_to_amalgamate	24	combine.v, fuse.v, coalesce.v, amalgamate.v, conflate.v, unify.v, compound.v, fold.v, intermix.v, flux.v, lump.v, blend.v, bring together.v, commingle.v, jumble.v, admix.v, unite.v, merge.v, join.v, consolidate.v, mix.v, meld.v, pair.v, throw together.v
+Firefighting	5	tackle.v, fight.v, attack.v, control.v, battle.v
+Revenge	5	get back (at).v, avenge.v, get even.v, retaliate.v, revenge.v
+Tolerating	4	endure.v, bear.v, tolerate.v, stand.v
+Compliance	19	breach.v, adhere.v, circumvent.v, observe.v, disobey.v, follow.v, flout.v, transgress.v, conform.v, keep.v, honor.v, abide (by).v, break.v, obey.v, by-pass.v, violate.v, comply.v, contravene.v, play by the rules.v
+Feigning	7	fake.v, pretend.v, stage.v, affect.v, feign.v, counterfeit.v, simulate.v
+Remembering_information	3	remember.v, forget.v, draw blank.v
+Make_acquaintance	1	meet.v
+Dominate_competitor	1	dominate.v
+Commutation	1	commute.v
+Respond_to_proposal	5	rebuff.v, accept.v, refuse.v, reject.v, turn down.v
+Filling	59	butter.v, asphalt.v, surface.v, anoint.v, tile.v, adorn.v, wallpaper.v, cover.v, coat.v, dust.v, suffuse.v, load.v, fill.v, pack.v, strew.v, smear.v, douse.v, spread.v, flood.v, stuff.v, crowd.v, wrap.v, pave.v, plaster.v, varnish.v, drape.v, paint.v, dab.v, gild.v, daub.v, glaze.v, inject.v, embellish.v, cram.v, panel.v, sow.v, wax.v, seed.v, wash.v, brush.v, plank.v, hang.v, yoke.v, spatter.v, dress.v, splash.v, accessorize.v, splatter.v, spray.v, sprinkle.v, squirt.v, shower.v, drizzle.v, heap.v, pile.v, pump.v, jam.v, plant.v, scatter.v
+Successful_action	8	fail.v, go wrong.v, do the trick.v, come off.v, succeed.v, serve.v, do it.v, manage.v
+Omen	14	foreshadow.v, forebode.v, bode.v, prefigure.v, augur.v, herald.v, foretoken.v, presage.v, foretell.v, announce.v, betoken.v, threaten.v, promise.v, portend.v
+Behind_the_scenes	7	stage.v, film.v, produce.v, cast.v, direct.v, compose.v, shoot.v
+Thriving	7	languish.v, thrive.v, live.v, fare.v, prosper.v, flourish.v, do.v
+Intentional_traversing	4	climb.v, cut.v, ascend.v, ford.v
+Statement	52	proclaim.v, mention.v, claim.v, detail.v, profess.v, tell.v, caution.v, allow.v, propose.v, comment.v, preach.v, be like.v, reaffirm.v, avow.v, challenge.v, recount.v, reiterate.v, pronounce.v, relate.v, remark.v, report.v, say.v, speak.v, state.v, allege.v, suggest.v, conjecture.v, talk.v, write.v, contend.v, venture.v, declare.v, add.v, hazard.v, pout.v, announce.v, exclaim.v, smirk.v, address.v, confirm.v, explain.v, assert.v, gloat.v, acknowledge.v, insist.v, maintain.v, note.v, observe.v, aver.v, refute.v, attest.v, describe.v
+Rite	12	ordain.v, pray.v, initiate.v, confirm.v, order.v, sacrifice.v, anoint.v, circumcise.v, consecrate.v, baptize.v, christen.v, bless.v
+Inhibit_movement	10	lock.v, immure.v, hold.v, constrain.v, detain.v, confine.v, imprison.v, restrict.v, tie.v, shut up.v
+Grinding	13	crunch.v, masticate.v, crumble.v, grind.v, pulverize.v, mash.v, grate.v, pulp.v, flake.v, shred.v, mill.v, crush.v, chew.v
+Jury_deliberation	1	deliberate.v
+Dominate_situation	3	predominate.v, dominate.v, rule.v
+Soaking_up	3	absorb.v, soak up.v, sponge.v
+Desiring	22	care.v, long.v, wish.v, aspire.v, thirst.v, wish (that).v, yearn.v, desire.v, pine.v, fancy.v, hunger.v, will.v, feel like.v, lust.v, yen.v, want.v, hope.v, covet.v, hanker.v, ache.v, crave.v, itch.v
+Reshaping	16	mold.v, roll.v, form.v, crumple.v, bend.v, scrunch.v, warp.v, flatten.v, launch.v, crush.v, curl.v, squash.v, fold.v, dent.v, shape.v, squish.v
+Trust	2	believe.v, trust.v
+Committing_crime	2	commit.v, perpetrate.v
+Patrolling	2	police.v, patrol.v
+Storing	6	store.v, cellar.v, cache.v, stock.v, warehouse.v, keep.v
+Obviousness	3	show.v, show up.v, stand out.v
+Becoming_visible	1	appear.v
+Cause_fluidic_motion	11	drip.v, sprinkle.v, dribble.v, splatter.v, spew.v, spill.v, spatter.v, spray.v, splash.v, squirt.v, pump.v
+Shoot_projectiles	4	launch.v, shoot.v, fire off.v, fire.v
+Activity_resume	3	renew.v, restart.v, resume.v
+Vehicle_landing	3	touch down.v, land.v, set down.v

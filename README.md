@@ -1,14 +1,19 @@
 # Semantic frame induction and parsing
 
 This repository contains codes and datasets to reproduce results in the article 'Text augmentation for semantic frame induction and parsing'
+
+**Download Data:** 
+All pre-processed datasets, DTs and embedding files for non-contextualized models and Melamud's can be downloded [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq?path=%2F)
+
 ## Intrinsic Evaluation -- Augmenting Framenet Descriptions
 ### Required modules:
 #### - ecg_framenet
 Source: https://github.com/icsi-berkeley/ecg_framenet/ \
-This library was used to aggreagte lexical-units for each frame in the FrameNet. Only required to create gold term sets for final evaluation datasets. \
-Pre-extracted files can be downloaded here:
-## Data
-### 1. Download and Preprocess FrameNet data
+This library was used to aggreagte lexical-units for each frame in the FrameNet. Which is required to create gold term sets for final evaluation datasets. \
+
+Pre-extracted files can be seen in [workdir/framenet_data](https://github.com/uhh-lt/frame-induction-and-parsing/tree/main/workdir/framenet_data) directory.
+
+### Download and Preprocess FrameNet data
 a) Can be requested from the FrameNet publisher: https://framenet.icsi.berkeley.edu/fndrupal/framenet_request_data \
 b) via NLTK interface: 
 ```
@@ -24,55 +29,91 @@ To extract and preprocess framenet data, execute:
 ! python -m src.extract_framenet_data --input_dir=parser_workdir/data/fndata-1.7 --output_dir=workdir/framenet_data
 ```
 This will create all required files and save them into output_dir. Now move to create evaluation datasets for intrinsic evaluation
-### 2. Evaluation datasets for lexical expansion [Intrinsic Evaluation]
+
+###  Evaluation datasets for lexical expansion [Intrinsic Evaluation]
 ```
 !python -m src.datasets_util create_source_datasets --input_dir='workdir/framenet_data' --output_dir='workdir/framenet_data' --data_types 'verbs,nouns,roles'
 
 !python -m src.datasets_util create_final_datasets --input_dir='workdir/framenet_data' --output_dir='workdir/data' --data_types 'verbs,nouns,roles'
 ```
-The final command will produce single word/token swv_T.pkl (verbs), swn_T.pkl(nouns) and swr_T.pkl(roles) datasets along with variations of dynamic patterns TandT etc, and their respective gold datasets
+The final command will produce single word/token swv_T.pkl (verbs), swn_T.pkl(nouns) and swr_T.pkl(roles) datasets along with variations of dynamic patterns TandT etc, and their respective gold datasets. For relevant commands see: [create_all_datasets.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/create_all_datasets.ipynb)
 
-For relevant commands see: [create_all_datasets.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/create_all_datasets.ipynb)
-If you execute all 
-### 3. Download Distributional Thesauri (DTs)
+
+You can also download all source and final datasets from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq?path=%2Fworkdir%2Fdata) and [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq?path=%2Fworkdir%2Fframenet_data)
+
+
+ 
+### Pre-trained models
+
+- ##### Distributional Thesauri (DTs)
 Original DTs are very large, we have already processed them for all single-token data from our evaluations datasets (verbs lexical units, nouns lexical units, semantic-roles) using following command:
 ```
 !python -m src.dt --input_dir 'workdir/framenet_data' --dt_dir 'workdir' --output_dir 'workdir/dt'
 ```
 
-if you want to add more DTs, then see the module [src.dt](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/src/dt.py):
+These preprocessed DTs can eb downloaded [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq?path=%2Fworkdir%2Fdt) and should be saved to wordir/dsm directory. To add more DTs, see the module [src.dt](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/src/dt.py):
 
-### 4. Models
-- static embeddings: can be dowloaded [here:](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq), and should be saved to workdir/dsm path \
-- DTs:  can be downloaded from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq) and sould be saved to workdir/dt path
-- Melamud: 
-embeddings: can be downloaded from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq) and sould be placed under workdir/melamud_lexsub path 
+- #### Non-contextualized embeddings
+can be dowloaded [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq?path=%2Fworkdir%2Fdsm), and should be saved to workdir/dsm directory. 
 
-Execute the following command to extract relevant context fo the target words:
+- #### Melamud
+word and context embeddings can be downloaded from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq?path=%2Fworkdir%2Fmelamud_lexsub) and sould be saved to workdir/melamud_lexsub directory. 
+- #### Transformer-based models
+use transformers library
+
+### Experiments and and Evaluation
+
+#### Predicting substitutes
+- #### Non-contextualized models
+```
+!python -m src.run_predict \
+--model_type='dt+workdir/dt_wiki.csv.gz' \
+--dataset='workdir/data/swv_T.pk' \
+--proc_column='masked_sent' \
+--result_dir='workdir/results/paper_verbs_st/dt_wiki_nolem' \
+--n_top=200 \
+--do_lemmatize=False \
+--batch_size=100000000000000
+```
+For word2vec and GloVe embeddings, replace the prefix 'dt' with 'dsm' for model_type, for fastText use the prefix 'fastext'. And change the path to vector file after '+'. Like this: "fasttext+workdir/dsm/fasttext_cc/cc.en.300.bin"
+- #### Melamud
+
+1. Execute the following command to extract relevant context for the target words:
 ```
 Assuming StanfordCoreNLP server is running at port 9000. Execute the command:
 
 ! python -m src.context_extractor --input_file workdir/data/swv_T.pkl --output_file workdir/data/swv_Tp.pkl --jobs 16 --port 9000
 ```
 ```
-Now run  the following command to produce substitutes using this context and the target word:
+2. Now execute the following command to predict substitutes using this context and the target word:
 
-! python -m src.run_melamud_parallel --input_file workdir/data/swv_Tp.pkl --result_dir workdir/paper_verbs_st/melamud_balmult --metric balmult --jobs 36
+! python -m src.run_melamud_parallel --input_file workdir/data/swv_Tp.pkl --result_dir workdir/results/paper_verbs_st/melamud_balmult --metric balmult --jobs 36
 ```
-### 5. Experiments and and Evaluation
 
-#### Runnning experiments
+- #### Transformer-based models
+```
+!python -m src.run_predict \
+--model_type='bert-large-cased' \
+--dataset='workdir/data/swv_T.pk' \
+--proc_column='masked_sent' \
+--result_dir='workdir/results/paper_verbs_st/blc-ntok1-mask-k200' \
+--n_top=200 \
+--mask_token=True \
+--batch_size=10 
+```
+For dynamic patterns, just change the dataset.
+
+- #### +embs models
+We used [LexSubGen](https://github.com/Samsung/LexSubGen) to run experiments for XLNet and any +embs variants of BERT and XLNet.
+
+#### Running multiple experiments
 Execute the command:
 ```
 !python -m src.run_experiments \
 --config=workdir/experiment_configs/verb_preds_st.json \
 --cuda_devices=0,1,0,1
 ```
-How to define experiment configurations for multiple experiments: see [generate_experiment_configs.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/generate_experiment_configs.ipynb)
-
-#### +embs experiments 
-We used [LexSubGen](https://github.com/Samsung/LexSubGen) to run experiments for XLNet and any +embs variants of BERT and XLNet.
-Results from this library will be saved to [workdir/results_embs](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/workdir/results_embs)
+How to define experiment configurations for these experiments: see [generate_experiment_configs.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/generate_experiment_configs.ipynb)
 
 
 #### Postprocess
@@ -118,7 +159,7 @@ Final results: [workdir/manual_evaluation](https://github.com/uhh-lt/frame-induc
 
 
 ## Extrnisic Evaluation -- Frame-Semantic Parsing
-### 1. Parsers
+### Parsers
 #### Opensesame parser
 Source: https://github.com/swabhs/open-sesame
 Source code of this parser was slighlty modified, so better to use the code provided within our repository \
@@ -132,8 +173,8 @@ Other notebooks are as follows:
 [srl_parser](https://github.com/uhh-lt/frame-induction-and-parsing/tree/main/srl_parser) contains code, and running example [run_parser_example.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/tree/main/srl_parser/run_parser_example.ipynb) of this parser
 - Results tables and figures for this part are created here: [results_bertsrl_parser-VERBS.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/tree/main/opensesame/results_bertsrl_parser-VERBS.ipynb)
 
-### 2. Datasets
-Datasets created and used in this work can be downloaded from [here](https://ltnas1.informatik.uni-hamburg.de:8081/owncloud/index.php/s/O3LftEWCil0s9Kq) 
+### Datasets
+Datasets for these experiments are available in [parser_workdir/data/fn1.7](https://github.com/uhh-lt/frame-induction-and-parsing/tree/main/parser_workdir/data/open_sesame_v1_data/fn1.7) 
 
 The process to create these datasets is explained in notebooks as follows:
 
@@ -145,5 +186,3 @@ Here, the term mask means marking target word for predicting substitutes
 - [Mask-and-Postprocess.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/tree/main/opensesame/Mask-and-Postprocess.ipynb): Explains how, rather than doing end-to-end mask-predict-postprocess-augment cycle for each substitution model, creating a master file for each type of dataset (verbs, nouns) and then doing this cycle once on this file save times, and all configurations can be extracted from this file.
 
 - [configs_augment.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/tree/main/opensesame/configs_augment.ipynb) explains how the datasets can eb generated 
- ### Results
- Trained models in huge in size and numbers, cannot be shared but their evaluation results can be provided upon request
