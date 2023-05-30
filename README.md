@@ -1,10 +1,10 @@
 # Semantic frame induction and parsing
 
-This repository contains codes and datasets to reproduce article 'Text augmentation for semantic frame induction and parsing'
+This repository contains codes and datasets to reproduce results in the article 'Text augmentation for semantic frame induction and parsing'
 ## Intrinsic Evaluation -- Augmenting Framenet Descriptions
 ### Required modules:
 #### - ecg_framenet
-Source:https://github.com/icsi-berkeley/ecg_framenet/ \
+Source: https://github.com/icsi-berkeley/ecg_framenet/ \
 This library was used to aggreagte lexical-units for each frame in the FrameNet. Only required to create gold term sets for final evaluation datasets. \
 Pre-extracted files can be downloaded here:
 ## Data
@@ -71,7 +71,7 @@ Execute the command:
 How to define experiment configurations for multiple experiments: see [generate_experiment_configs.ipynb](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/generate_experiment_configs.ipynb)
 
 #### +embs experiments 
-We used [LexsubGen](https://github.com/Samsung/LexSubGen) to run experiments for XLNet and any +embs variants of BERT and XLNet.
+We used [LexSubGen](https://github.com/Samsung/LexSubGen) to run experiments for XLNet and any +embs variants of BERT and XLNet.
 Results from this library will be saved to [workdir/results_embs](https://github.com/uhh-lt/frame-induction-and-parsing/blob/main/workdir/results_embs)
 
 
