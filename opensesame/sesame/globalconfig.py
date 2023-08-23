@@ -19,6 +19,7 @@ import os
 config_json = open("configurations/global_config.json", "r")
 configuration = json.load(config_json)
 for key in sorted(configuration):
+    if key.upper() == "VERSION": continue
     sys.stderr.write("{}:\t{}\n".format(key.upper(), configuration[key]))
 
 VERSION = str(configuration["version"])
@@ -138,6 +139,7 @@ def load_experiment_configs(exp_name, data_dir=PARSER_DATA_DIR, output_dir=PARSE
     global DEV_CONSTITS
     global TEST_CONSTITS
 
+    DEFAULT_VERSION = VERSION
     VERSION = version
     
     FN_DATA_DIR = DATA_DIR + "fndata-" + VERSION + "/"
@@ -150,7 +152,12 @@ def load_experiment_configs(exp_name, data_dir=PARSER_DATA_DIR, output_dir=PARSE
     TRAIN_FTE_CONSTITS = "fn" + VERSION + ".fulltext.train.rnng.brackets"
     DEV_CONSTITS = "fn" + VERSION + ".dev.rnng.brackets"
     TEST_CONSTITS = "fn" + VERSION + ".test.rnng.brackets"
-   
+#     to handle version error if user just specify version but not data_dir and output_dir
+    if DEFAULT_VERSION != version and data_dir == PARSER_DATA_DIR:
+        data_dir = DATA_DIR + "open_sesame_v1_data/fn" + VERSION
+    if DEFAULT_VERSION != version and output_dir == PARSER_OUTPUT_DIR:
+        output_dir = f'logs/fn{VERSION}'
+
     if data_dir.startswith('~'): data_dir = os.path.expanduser(data_dir)
     if data_dir.startswith('.'): data_dir = os.path.abspath(data_dir)
     if output_dir.startswith('~'): output_dir = os.path.expanduser(output_dir)
@@ -177,6 +184,7 @@ def load_experiment_configs(exp_name, data_dir=PARSER_DATA_DIR, output_dir=PARSE
         }
     
     configuration = {
+                    "VERSION": VERSION,
                     "PARSER_DATA_DIR": f"{PARSER_DATA_DIR}", 
                     "PARSER_OUTPUT_DIR" : f"{PARSER_OUTPUT_DIR}",
                     }
